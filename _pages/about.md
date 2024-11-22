@@ -34,13 +34,13 @@ redirect_from:
 **Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong✉️, S Kevin Zhou✉️ &nbsp;&nbsp;[[code](https://github.com/heqin-zhu/BPfold)]
 
 
-### Few-shot learning
+### Few-shot Learning
 - `MIA 2024` [Which images to label for few-shot medical image analysis?](https://www.sciencedirect.com/science/article/pii/S1361841524001257) (Medical Image Analysis)\
 Quan Quan, Qingsong Yao, **Heqin Zhu**, Qiyuan Wang, S Kevin Zhou &nbsp;&nbsp;[[code](https://github.com/Curli-quan/SCP_SampleChoicePolicy))
 - `MICCAI 2023` [UOD: universal oneshot detection of anatomical landmark](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3) (International Conference on Medical Image Computing and Computer-Assisted Intervention)\
 **Heqin Zhu**, Quan Quan, Qingsong Yao, Zaiyi Liu, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/UOD_universal_oneshot_detection.svg?label=Stars&style=social)](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)[[code](https://github.com/heqin-zhu//UOD_universal_oneshot_detection)][[arXiv](https://arxiv.org/abs/2306.07615)][[poster](files/MICCAI2023_UOD_poster.pdf)]
 
-### Anatomical Landmark detection
+### Anatomical Landmark Detection
 - `MICCAI 2024` [SIX-Net: Spatial-Context Information miX-up for Electrode Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-031-72378-0_32) (International Conference on Medical Image Computing and Computer-Assisted Intervention)\
 Xinyi Wang, Zikang Xu, **Heqin Zhu**, Qingsong Yao, Yiyong Sun, S Kevin Zhou
 - `IJCARS 2024` [PELE scores: pelvic X-ray landmark detection with pelvis extraction and enhancement](https://link.springer.com/article/10.1007/s11548-024-03089-z) (International Journal of Computer Assisted Radiology and Surgery)\
@@ -50,7 +50,7 @@ Zhen Huang, Han Li, Shitong Shao, **Heqin Zhu**, Huijie Hu, Zhiwei Cheng, Jianji
 - `MICCAI 2021` [You Only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9) (International Conference on Medical Image Computing and Computer-Assisted Intervention)\
 **Heqin Zhu**, Qingsong Yao, Li Xiao, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)][[arXiv](https://arxiv.org/abs/2103.04657)]
 
-### Unsupervised & Self-supervised learning
+### Unsupervised & Self-supervised Learning
 - `TMI 2024` [IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis](https://ieeexplore.ieee.org/abstract/document/10620395/) (IEEE Transactions on Medical Imaging)\
 Quan Quan, Qingsong Yao, **Heqin Zhu**, S Kevin Zhou &nbsp;&nbsp;[[code](https://github.com/Curli-quan/IGU-Aug)][[arXiv](https://arxiv.org/abs/2211.07118)]
 - `MICCAI 2024` [Hyspark: Hybrid sparse masking for large scale medical image pre-training](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_31) (International Conference on Medical Image Computing and Computer-Assisted Intervention)\
