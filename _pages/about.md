@@ -76,7 +76,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 - *2016.09 - 2020.06*, Graduate, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
 
 # 💬 Professional Services
-*Jornel Reviewers:* 
+Journal Reviewers:* 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 *Conference Reviewers:* 
