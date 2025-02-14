@@ -24,12 +24,12 @@ redirect_from:
 
 # 🔥 News
 - *2024.10*: &nbsp; We release [BPfold](https://github.com/heqin-zhu/BPfold), an effective tool for RNA secondary structure prediction.
-- *2023.05*: &nbsp; One paper accepted to MICCAI-23.
-- *2022.06*: &nbsp; One paper accepted to BME frontiers.
-- *2021.05*: &nbsp; One paper accepted to MICCAI-21.
+- *2023.05*: &nbsp; One paper was accepted by MICCAI 2023.
+- *2022.06*: &nbsp; One paper was accepted by BME frontiers.
+- *2021.05*: &nbsp; One paper was accepted by MICCAI 2021.
 
 # 📝 Publications 
-(Selected publications, `*` indicates equal contribution and ✉️ represents corresponding author.)
+(Selected publications, `*` indicates equal contribution while ✉️ represents corresponding author.)
 
 ### RNA Secondary Structure Prediction
 - `bioRxiv 2024` [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://doi.org/10.1101/2024.10.22.619430)\
@@ -89,7 +89,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 # 💻 Internships
 - *2021.7 - 2021.11*, [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
-- *2019.9 - 2020.4*, Z2sky.ai, Suzhou, China
+- *2019.9 - 2020.4*, Z2sky, Suzhou, China
 
 <p align="center">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM'></script>
