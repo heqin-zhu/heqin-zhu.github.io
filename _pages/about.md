@@ -20,7 +20,7 @@ redirect_from:
 # About
 - I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm).
 - I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
-- My research focuses on RNA **computational biology**, integrating multimodal biological data with physics-informed deep learning to establish sequence-structure-function relationships. These approaches deciphers RNA's dynamic structural behavior and functional impacts, targeting:
+- My research focuses on RNA **computational biology**, integrating multimodal biological data with physics-informed deep learning to establish sequence-structure-function relationships. These approaches decipher RNA's dynamic structures and diverse functionalities, targeting:
   - Systematic identification of functional RNA elements in non-coding genomes.
   - AI-driven drug discovery via RNA-small molecule interaction modeling.
 
