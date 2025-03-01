@@ -16,19 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<!-- # 😊 About Me -->
-# About
+<!-- 😊 -->
+# About Me
 - I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm).
 - I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
 - My research focuses on RNA **computational biology**, integrating multimodal biological data with physics-informed deep learning to establish sequence-structure-function relationships. These approaches decipher RNA's dynamic structures and diverse functionalities, targeting:
   - Systematic identification of functional RNA elements in non-coding genomes.
   - AI-driven drug discovery via RNA-small molecule interaction modeling.
 
-[^_^]: # ( # 🔥 News )
+<!-- 🔥 -->
 # News
 - *2024.10*: &nbsp; We release [BPfold](https://github.com/heqin-zhu/BPfold), an effective tool for RNA secondary structure prediction.
 
-[^_^]: # ( # 📝 Publications ) 
+<!-- 📝 -->
 # Publications
 (Selected publications, `#` indicates equal contribution and `*` represents corresponding authors. For full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
@@ -67,18 +67,18 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 
 
-[^_^]: # ( # 🎖 Honors and Awards )
+<!-- 🎖 -->
 # Honors and Awards
 - *2023-2024* Academic First Class Scholarship in USTC
 - *2022-2023* Merit Student in ICT, CAS 
 
-[^_^]: # ( # 📖 Educations )
+<!-- 📖 -->
 # Educations
 - *2023.09 - (now)*, Ph.D. student, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
 - *2020.09 - 2023.06*, Master, Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences (CAS), Beijing, China
 - *2016.09 - 2020.06*, Graduate, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
 
-[^_^]: # ( # 💬 Professional Services )
+<!-- 💬 -->
 # Professional Services
 - *Journal Reviewers*
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
@@ -91,7 +91,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 - *2021.06*, TODO 
 -->
 
-[^_^]: # ( # 💻 Internships )
+<!-- 💻 -->
 # Internships
 - *2021.7 - 2021.11*, [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
 - *2019.9 - 2020.4*, Z2sky, Suzhou, China
