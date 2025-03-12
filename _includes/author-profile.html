@@ -129,17 +129,17 @@
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
-      <!-- {% if author.CV %} -->
-      <!--   <li><a href="{{ author.CV }}"><i class="fas fa-fw fa-address-card"></i></a></li> -->
-      <!-- {% endif %} -->
-      {% if author.googlescholar %}
-        <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
-      {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.CV %}
+        <li><a href="{{ author.CV }}"><i class="fas fa-fw fa-address-card"></i></a></li>
+      {% endif %}
       {% if author.orcid %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
+      {% endif %}
+      {% if author.googlescholar %}
+        <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
