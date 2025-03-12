@@ -39,12 +39,12 @@ redirect_from:
 
 <!-- 🎖 -->
 # Honors and Awards
-- *2025*      Suzhou Industrial Park Scholarship, USTC
-- *2024*      First Class Scholarship, USTC
-- *2020-2023* First Class Scholarship, UCAS \& ICT
-- *2023*      Merit Student Award, UCAS \& ICT
-- *2018-2019* Outstanding Student Award, USTC
-- **2017**      Institute of Chemistry Excellence Scholarship, USTC
+- *2025*,      Suzhou Industrial Park Scholarship, USTC
+- *2024*,      First Class Scholarship, USTC
+- *2020-2023*, First Class Scholarship, UCAS & ICT
+- *2023*,      Merit Student Award, UCAS & ICT
+- *2018-2019*, Outstanding Student Award, USTC
+- *2017*,      Institute of Chemistry Excellence Scholarship, USTC
 
 <!-- 💻 -->
 # Professional Experiences
@@ -64,10 +64,10 @@ redirect_from:
 - *2021.06*, TODO 
 -->
 
-# Teching \& Volunteer Experiences
-- *2024* Volunteer: Medical Augmented Reality Summer School, Suzhou
-- *Fall 2023* TA: Electronic information openness practices, USTC
-- *2023* Volunteer: Dushu Lake Forum Dushu Lake Symposium on Medical lmage Computing, Suzhou
+# Teching & Volunteer Experiences
+- *2024*, Volunteer: Medical Augmented Reality Summer School, Suzhou
+- *Fall 2023*, TA: Electronic information openness practices, USTC
+- *2023*, Volunteer: Dushu Lake Forum Dushu Lake Symposium on Medical lmage Computing, Suzhou
 
 <!-- 📝 -->
 # Publications
