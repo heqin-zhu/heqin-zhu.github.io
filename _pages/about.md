@@ -64,9 +64,9 @@ redirect_from:
 - *2021.06*, TODO 
 -->
 
-# Teching & Volunteer Experiences
+# Teaching & Volunteer Experiences
 - *2024*, Volunteer: Medical Augmented Reality Summer School, Suzhou
-- *Fall 2023*, TA: Electronic information openness practices, USTC
+- *Fall 2023*, Teaching Assistant: Electronic information openness practices, USTC
 - *2023*, Volunteer: Dushu Lake Forum Dushu Lake Symposium on Medical lmage Computing, Suzhou
 
 <!-- 📝 -->
