@@ -31,7 +31,7 @@ redirect_from:
 
 <!-- 📖 -->
 # Educations
-- *2023.09 - (now)*, Ph.D. student of Biomedical Enginerring, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
+- *2023.09 - (now)*, Ph.D. student of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
 - *2020.09 - 2023.06*, Master of Computer Applications, Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), Chinese Academy of Sciences (CAS), Beijing, China
 - *2020.09 - 2023.06*, Master of Computer Applications, University of Chinese Academy of Sciences (UCAS), Beijing, China
 - *2016.09 - 2020.06*, Bachelor of Computer Science and Technology, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
