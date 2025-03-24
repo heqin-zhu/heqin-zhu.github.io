@@ -20,10 +20,11 @@ redirect_from:
 # About
 - I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html)(Fellow of IEEE, AIMBE, NAI) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm).
 - Previously, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
-- Currently, my research focuses on RNA **computational biology**, integrating multimodal biological data with physics-informed deep learning to establish sequence-structure-function relationships. These approaches decipher RNA's dynamic structures and diverse functionalities, targeting:
-  - Systematic identification of functional RNA elements in non-coding genomes.
-  - AI-driven drug discovery via RNA-small molecule interaction modeling.
-- [Click here](files/CV_Heqin_Zhu.pdf) to view my CV. If you are interested in knowing more about me, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com).
+- My research centers on AI for Science (AI4S), with specific focus on fundamental challenges in **computational biology**. I aim to integrate physical priors with deep learning to address the scarcity of high-resolution structural data, thereby establishing robust **sequence-structure-function** mappings through **multimodal biological data fusion**. These approaches decipher RNA’s dynamic structures and diverse functionalities, targeting:
+    - Systematic annotation of functional RNA motifs within non-coding genomic regions.
+    - AI-driven drug discovery via RNA-ligand interaction modeling.
+- Prior to this focus, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks, aiming at bridging domain gaps and enhancing model adaptability for clinical diagnostics.
+- Here is my [CV](files/CV_Heqin_Zhu.pdf). If you are interested in knowing more about me, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com).
 
 <!-- 🔥 -->
 # News
