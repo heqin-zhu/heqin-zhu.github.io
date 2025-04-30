@@ -24,7 +24,7 @@ redirect_from:
     - Systematic annotation of functional RNA motifs within non-coding genomic regions.
     - AI-driven drug discovery via RNA-ligand interaction modeling.
 - Prior to this focus, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks, aiming at bridging domain gaps and enhancing model adaptability for clinical diagnostics.
-- Here is my [CV](files/CV_Heqin_Zhu.pdf). If you are interested in knowing more about me, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com).
+- Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)). If you are interested in knowing more about me, please feel free to contact me.
 
 <!-- 🔥 -->
 # News
