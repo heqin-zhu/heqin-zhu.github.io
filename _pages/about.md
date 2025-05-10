@@ -72,7 +72,7 @@ redirect_from:
 
 <!-- 📝 -->
 # Publications
-(Selected publications, `#` indicates equal contribution and `*` indicates corresponding authors. For full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
+(`#` equal contribution, `*` corresponding authors. Selected publications | [Full List](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### RNA Secondary Structure Prediction
 - `bioRxiv 2024` [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://doi.org/10.1101/2024.10.22.619430)\
