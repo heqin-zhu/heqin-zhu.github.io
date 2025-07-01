@@ -30,6 +30,7 @@ biology**, from structure prediction to **sequence-structure-function** applicat
 
 <!-- 🔥 -->
 # News
+- 2025.07: &nbsp; [BPfold](https://github.com/heqin-zhu/BPfold) has been published in [Nature Communications](https://www.nature.com/articles/s41467-025-60048-1).
 - *2024.10*: &nbsp; We release [BPfold](https://github.com/heqin-zhu/BPfold), an effective tool for RNA secondary structure prediction.
 
 <!-- 📖 -->
@@ -77,8 +78,8 @@ biology**, from structure prediction to **sequence-structure-function** applicat
 (`#` equal contribution, `*` corresponding authors. Selected publications | [Full List](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### RNA Secondary Structure Prediction
-- `bioRxiv 2024` [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://doi.org/10.1101/2024.10.22.619430)\
-**Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[bioRxiv](https://doi.org/10.1101/2024.10.22.619430)][[poster](files/poster_BPfold.pdf)]
+- `bioRxiv 2024` [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1)\
+**Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[paper](https://www.nature.com/articles/s41467-025-60048-1)][[poster](files/poster_BPfold.pdf)]
 
 
 ### Few-shot Learning
