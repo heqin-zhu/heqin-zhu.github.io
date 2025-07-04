@@ -26,7 +26,8 @@ biology**, from structure prediction to **sequence-structure-function** applicat
     - Structure-guided RNA foundation model (LLM) for sequence understanding and structural prediction.
     - Functional applications such as identification of IRES, exploration of functional RNA motifs within non-coding genomic regions, and AI-driven drug discovery.
 - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks.
-- Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)). If you are interested in knowing more about me, please feel free to contact me.
+- I am always welcoming discussions and collaborative opportunities, please feel free to contact me. :)
+- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)). I would appreciate it if you would consider me for an opportunity.
 
 <!-- 🔥 -->
 # News
@@ -78,7 +79,7 @@ biology**, from structure prediction to **sequence-structure-function** applicat
 (`#` equal contribution, `*` corresponding authors. Selected publications | [Full List](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### RNA Secondary Structure Prediction
-- `Nat. Commun. 2025` [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1)\
+- `Nat. Commun. 2025` [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1) (Nature Communications)\
 **Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[paper](https://www.nature.com/articles/s41467-025-60048-1)][[poster](files/poster_BPfold.pdf)]
 
 
