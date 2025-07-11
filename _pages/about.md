@@ -31,7 +31,7 @@ biology**, from structure prediction to **sequence-structure-function** applicat
 
 <!-- 🔥 -->
 # News
-- 2025.07: &nbsp; [BPfold](https://github.com/heqin-zhu/BPfold) has been published in [Nature Communications](https://www.nature.com/articles/s41467-025-60048-1).
+- 2025.07: &nbsp; BPfold has been published in [Nature Communications](https://www.nature.com/articles/s41467-025-60048-1).
 - *2024.10*: &nbsp; We release [BPfold](https://github.com/heqin-zhu/BPfold), an effective tool for RNA secondary structure prediction.
 
 <!-- 📖 -->
