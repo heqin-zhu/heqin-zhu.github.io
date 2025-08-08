@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about'></span>
 <!-- 😊 -->
 # About
-- I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html)(Fellow of IEEE, AIMBE, NAI) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm).
-- Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
+- I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html)(Fellow of IEEE, AIMBE, NAI) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
 - My research centers on AI for Science (AI4S), with a specific focus on fundamental challenges in **computational
 biology**, from structure prediction to **sequence-structure-function** applications, including:
     - RNA secondary structure and tertiary structure prediction.
@@ -77,7 +76,11 @@ biology**, from structure prediction to **sequence-structure-function** applicat
 # Publications
 (`#` equal contribution, `*` corresponding authors. Selected publications | [Full List](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
-### RNA Secondary Structure Prediction
+### RNA Foundation Model
+- `bioRxiv 2025` [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731) (Submitted)\
+**Heqin Zhu**, Ruifeng Li, Feng Zhang, Fenghe Tang, Tong Ye, Xin Li, Yunjie Gu, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)]
+
+### RNA Structure Prediction
 - `Nat. Commun. 2025` [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1) (Nature Communications)\
 **Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[paper](https://www.nature.com/articles/s41467-025-60048-1)][[poster](files/poster_BPfold.pdf)]
 
