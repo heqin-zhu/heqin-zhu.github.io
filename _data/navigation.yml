@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Educations"
-    url: "/#educations"
+  # - title: "Educations"
+  #   url: "/#educations"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
@@ -20,3 +20,5 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  # - title: "Publications"
+  #   url: "/publications"
