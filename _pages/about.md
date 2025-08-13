@@ -30,16 +30,16 @@ biology**, from structure prediction to **sequence-structure-function** applicat
 
 <!-- 🔥 -->
 # News
-- 2025.08: &nbsp; We release structRFM ([paper](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guiede RNA foundation model for structural and functional inference.
+- 2025.08: &nbsp; We release structRFM ([bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guiede RNA foundation model for structural and functional inference.
 - 2025.07: &nbsp; [BPfold](https://www.nature.com/articles/s41467-025-60048-1) has been published in Nature Communications.
-- *2024.10*: &nbsp; We release BPfold ([paper](https://www.biorxiv.org/content/10.1101/2024.10.22.619430v1), [code](https://github.com/heqin-zhu/BPfold)), an effective tool for RNA secondary structure prediction.
+- *2024.10*: &nbsp; We release BPfold ([arXiv](https://www.biorxiv.org/content/10.1101/2024.10.22.619430v1), [code](https://github.com/heqin-zhu/BPfold)), an effective tool for RNA secondary structure prediction.
 - *2024.10*: &nbsp; Two papers has been accepted by MICCAI 2024.
 - *2024.08*: &nbsp; [One paper](https://ieeexplore.ieee.org/abstract/document/10620395/) has been published in IEEE Transactions on Medical Imaging.
 - *2024.08*: &nbsp; [One paper](https://www.sciencedirect.com/science/article/pii/S1361841524001257) has been published in Medical Image Analysis.
-- *2023.10*: &nbsp; UOD ([paper](https://arxiv.org/abs/2306.07615), [code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)), a universal one-shot learning model,  has been accepted by MICCAI 2023.
+- *2023.10*: &nbsp; UOD ([arXiv](https://arxiv.org/abs/2306.07615), [code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)), a universal one-shot learning model,  has been accepted by MICCAI 2023.
 - *2022.07*: &nbsp; [One paper](https://spj.science.org/doi/full/10.34133/2022/9765095) has been published in BME frontiers.
-- *2022.03*: &nbsp; We release DFTR([paper](https://arxiv.org/abs/2203.06429), [code](https://github.com/heqin-zhu/DFTR)), a Depth-supervised hierarchical feature fusion transformer for salient object detection.
-- *2021.10*: &nbsp; GU2Net ([paper](https://arxiv.org/abs/2103.04657), [code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)), a universal model for anatomical landmark detection,  has been accepted by MICCAI 2021.
+- *2022.03*: &nbsp; We release DFTR ([arXiv](https://arxiv.org/abs/2203.06429), [code](https://github.com/heqin-zhu/DFTR)), a Depth-supervised hierarchical feature fusion transformer for salient object detection.
+- *2021.10*: &nbsp; GU2Net ([arXiv](https://arxiv.org/abs/2103.04657), [code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)), a universal model for anatomical landmark detection, has been accepted by MICCAI 2021.
 
 
 <!-- 📝 -->
