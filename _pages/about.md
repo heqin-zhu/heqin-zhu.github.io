@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about'></span>
 <!-- 😊 -->
 # About
-- I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html)(Fellow of IEEE, AIMBE, NAI) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
+- I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) (Fellow of AIMBE, IAMBE, IEEE, MICCAI, and NAI) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
 - My research centers on AI for Science (AI4S), with a specific focus on fundamental challenges in **computational
 biology**, from structure prediction to **sequence-structure-function** applications, including:
     - RNA secondary structure and tertiary structure prediction.
@@ -26,7 +26,7 @@ biology**, from structure prediction to **sequence-structure-function** applicat
     - Functional applications such as identification of IRES, exploration of functional RNA motifs within non-coding genomic regions, and AI-driven drug discovery.
 - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks.
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me. :)
-- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/算法研究-朱河勤-中国科学技术大学.pdf)). I would appreciate it if you would consider me for an opportunity.
+- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/大模型算法-朱河勤-中国科学技术大学.pdf)). I would appreciate it if you would consider me for an opportunity.
 
 <!-- 🔥 -->
 # News
