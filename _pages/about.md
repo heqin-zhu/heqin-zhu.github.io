@@ -15,6 +15,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!--
+<style>
+    body {
+        font-family: Palatino, sans-serif;
+        font-size: 18px;
+    }
+</style>
+-->
+
 <span class='anchor' id='about'></span>
 <!-- 😊 -->
 # About
@@ -54,7 +63,8 @@ biology**, from structure prediction to **sequence-structure-function** applicat
 - ![citations](https://img.shields.io/badge/Under Review-2025-blue) RNA non-canonical base pair prediction.\
 **Heqin Zhu\#**, Ruifeng Li\#, Ao Chang, Mingqian Li, Hongyang Chen\*, Peng Xiong\*, S. Kevin Zhou\*
 - ![citations](https://img.shields.io/badge/Nature Communications-2025-blue) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1).\
-**Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[paper](https://www.nature.com/articles/s41467-025-60048-1)][[poster](files/poster_BPfold.pdf)]
+**Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[paper](https://www.nature.com/articles/s41467-025-60048-1)][[poster](files/poster_BPfold.pdf)][[poster2](files/poster_BPfold_2.jpg)]
+
 
 ### RNA Function Prediction
 - ![citations](https://img.shields.io/badge/Under Revision-2025-blue) IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs.\
@@ -86,6 +96,11 @@ Zhen Huang\#, Han Li\#, Shitong Shao, **Heqin Zhu**, Huijie Hu, Zhiwei Cheng, Ji
 - ![citations](https://img.shields.io/badge/IJCARS-2021-blue) [Deep learning to segment pelvic bones: large-scale CT datasets and baseline models](https://link.springer.com/article/10.1007/s11548-021-02363-8).\
 Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, Jun Li, Chunpeng Zhao, Li Xiao, Xinbao Wu, S. Kevin Zhou &nbsp;&nbsp;![](https://img.shields.io/github/stars/MIRACLE-Center/CTPelvic1K.svg?label=Stars&style=social)[[link](https://github.com/ICT-MIRACLE-lab/CTPelvic1K)][[arXiv](https://arxiv.org/abs/2012.08721)]
 
+<!--
+[![GitHub followers](https://img.shields.io/github/followers/heqin-zhu)](https://github.com/heqin-zhu)
+[![GitHub followers](https://img.shields.io/github/starts/heqin-zhu)](https://github.com/heqin-zhu)
+-->
+
 <!-- 📖 -->
 # Educations
 - *2023.09 - present*, Ph.D. student of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
@@ -95,6 +110,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
+- *2025*,      <span style="background: #d6eef8;">National Scholarship</span> (Top 1%), Chinese Ministry of Education
 - *2025*,      Suzhou Industrial Park Scholarship, USTC
 - *2024*,      First Class Scholarship, USTC
 - *2020-2023*, First Class Scholarship, UCAS & ICT
@@ -107,7 +123,6 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 - *2021.07 - 2021.11*, Research Intern, [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
 - *2019.09 - 2020.04*, Research Intern, Z2sky, Suzhou, China
 
-<!-- 💬 -->
 # Professional Services
 - *Journal Reviewers*
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
@@ -115,10 +130,10 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 - *Conference Reviewers:*
   - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, TODO 
--->
+<!-- 💬 -->
+# Invited Talks
+- *2025.05*, Deep generalizable prediction of RNA secondary structure via base pair motif energy, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
+- *2023.03*, Universal one-shot detection of anatomical landmarks, ICT.
 
 # Teaching & Volunteer Experiences
 - *2024*, Volunteer: Medical Augmented Reality Summer School, Suzhou
