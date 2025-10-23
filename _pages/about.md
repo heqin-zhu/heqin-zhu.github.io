@@ -35,7 +35,7 @@ biology**, from structure prediction to **sequence-structure-function** applicat
     - Functional applications such as identification of IRES, exploration of functional RNA motifs within non-coding genomic regions, and AI-driven drug discovery.
 - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks.
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com) or [WeChat](files/WeChat_QRcode.jpg). :)
-- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/大模型算法-朱河勤-中国科学技术大学.pdf)). I would appreciate it if you would consider me for an opportunity.
+- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)). I would appreciate it if you would consider me for an opportunity.
 
 <!-- 🔥 -->
 # News
