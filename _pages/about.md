@@ -27,15 +27,15 @@ redirect_from:
 <span class='anchor' id='about'></span>
 <!-- 😊 -->
 # About
-- I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), co-supervised by Prof. [S. Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) (Fellow of AIMBE, IAMBE, IEEE, MICCAI, and NAI) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
-- My research centers on AI for Science (AI4S), with a specific focus on fundamental challenges in **computational
-biology**, from structure prediction to **sequence-structure-function** applications, including:
-    - RNA secondary structure and tertiary structure prediction.
-    - Structure-guided RNA foundation model (LLM) for sequence understanding and structural prediction.
-    - Functional applications such as identification of IRES, exploration of functional RNA motifs within non-coding genomic regions, and AI-driven drug discovery.
-- Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks.
-- I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com) or [WeChat](files/WeChat_QRcode.jpg). :)
-- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)). I would appreciate it if you would consider me for an opportunity.
+- I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), fortunately supervised by Prof. [Shaohua Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
+- My research centers on AI biology, with focus on fundamental challenges in RNA modeling and design, including (but not limited in):
+    - Structure and function prediction.
+    - Multimodal biological foundation model
+    - Drug discovery and RNA design for therapeutics.
+    - Exploration of functional RNA motifs within non-coding genomic regions.
+<!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
+- I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
+- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
 
 <!-- 🔥 -->
 # News
@@ -110,7 +110,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
-- *2025*,      <span style="background: #d6eef8;">National Scholarship</span> (Top 1%), Chinese Ministry of Education
+- *2025*,      <span style="background: #d6eef8;">National Scholarship</span>, Chinese Ministry of Education
 - *2025*,      Suzhou Industrial Park Scholarship, USTC
 - *2024*,      First Class Scholarship, USTC
 - *2020-2023*, First Class Scholarship, UCAS & ICT
@@ -120,7 +120,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 💻 -->
 # Professional Experiences
-- *2021.07 - 2021.11*, Research Intern, [Tencent Jarvis Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
+- *2021.07 - 2021.11*, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
 - *2019.09 - 2020.04*, Research Intern, Z2sky, Suzhou, China
 
 # Professional Services
