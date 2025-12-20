@@ -17,12 +17,15 @@ redirect_from:
 
 <!--
 <style>
-    body {
-        font-family: Palatino, sans-serif;
-        font-size: 18px;
-    }
+body {
+    font-family: Palatino, sans-serif;
+    font-size: 18px;
+}
 </style>
 -->
+
+
+
 
 <span class='anchor' id='about'></span>
 <!-- 😊 -->
@@ -68,7 +71,7 @@ redirect_from:
 
 
 ### RNA Function Prediction
-- ![citations](https://img.shields.io/badge/Under Revision-2025-blue) IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs.\
+- ![citations](https://img.shields.io/badge/In Press-2025-blue) IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs.\
 Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
 
 
@@ -112,10 +115,9 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
-- *2025*,      <span style="background: #d6eef8;">National Scholarship</span>, Chinese Ministry of Education
+- *2025*,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students (\~top 1%)</span>, Chinese Ministry of Education
 - *2025*,      Suzhou Industrial Park Scholarship, USTC
-- *2024*,      First Class Scholarship, USTC
-- *2020-2023*, First Class Scholarship, UCAS & ICT
+- *2020-2025*, Graduate Academic Scholarship, UCAS & ICT & USTC
 - *2023*,      Merit Student Award, UCAS & ICT
 - *2018-2019*, Outstanding Student Award, USTC
 - *2017*,      Institute of Chemistry Excellence Scholarship, USTC
@@ -135,10 +137,11 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 <!-- 💬 -->
 # Invited Talks
 - *2025-05*, Deep generalizable prediction of RNA secondary structure via base pair motif energy, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
-- *2023-03*, Universal one-shot detection of anatomical landmarks, ICT.
+- *2023-03*, Universal one-shot detection of anatomical landmarks, Institute of Computing Technology.
 
 # Teaching & Volunteer Experiences
 - *2024*, Volunteer: Medical Augmented Reality Summer School, Suzhou
+- *Spring 2024*, Teaching Assistant: Biomolecular structure prediction and modeling, USTC
 - *Fall 2023*, Teaching Assistant: Electronic information openness practices, USTC
 - *2023*, Volunteer: Dushu Lake Forum Dushu Lake Symposium on Medical lmage Computing, Suzhou
 
