@@ -38,7 +38,7 @@ body {
     - Exploration of functional RNA motifs within non-coding genomic regions.
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
-- **<font color="#ff0000">I am actively seeking postdoctoral and research positions starting in Fall 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
+- **<font color="#ff0000">I am actively seeking postdoctoral or research position starting in July 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
 
 <!-- 🔥 -->
 # News
@@ -136,8 +136,12 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 💬 -->
 # Invited Talks
-- *2025-05*, Deep generalizable prediction of RNA secondary structure via base pair motif energy, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
-- *2023-03*, Universal one-shot detection of anatomical landmarks, Institute of Computing Technology.
+- Structure-centric AI for RNA modeling
+    - *2025-12*, Course on Digital Healthcare Technology and Applications, USTC
+- Deep generalizable prediction of RNA secondary structure via base pair motif energy
+    - *2025-05*, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
+- Universal one-shot detection of anatomical landmarks
+    - *2023-03*, Academic Forum for Graduates, Institute of Computing Technology.
 
 # Teaching & Volunteer Experiences
 - *2024*, Volunteer: Medical Augmented Reality Summer School, Suzhou
