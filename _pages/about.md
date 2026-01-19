@@ -71,8 +71,8 @@ body {
 
 
 ### RNA Function Prediction
-- ![citations](https://img.shields.io/badge/In Press-2025-blue) IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs.\
-Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
+- ![citations](https://img.shields.io/badge/NAR Genomics and Bioinformatics-2025-blue) IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs.\
+Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)][[paper](https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf)]
 
 
 ### Universal Model & Domain Adaptation
