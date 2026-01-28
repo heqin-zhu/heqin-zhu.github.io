@@ -31,7 +31,7 @@ body {
 <!-- 😊 -->
 # About
 - I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), fortunately supervised by Prof. [Shaohua Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
-- My research centers on AI biology, with focus on fundamental challenges in RNA modeling and design, including (but not limited in):
+- My research centers on AI biology, with focus on fundamental challenges in RNA modeling and design, including:
     - Structure and function prediction.
     - Multimodal biological foundation model
     - Drug discovery and RNA design for therapeutics.
@@ -42,6 +42,7 @@ body {
 
 <!-- 🔥 -->
 # News
+- 2026-01: &nbsp; NC-Bench ([bioRxiv](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746), [code](https://github.com/heqin-zhu/NCBench/)) has been accepted by **ICLR 2026**.
 - 2025-08: &nbsp; We release structRFM ([bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guided RNA foundation model for structural and functional inference.
 - 2025-07: &nbsp; [BPfold](https://www.nature.com/articles/s41467-025-60048-1) has been published in **Nature Communications**.
 - *2024-10*: &nbsp; We release BPfold ([bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.22.619430v1), [code](https://github.com/heqin-zhu/BPfold)), an effective tool for RNA secondary structure prediction.
@@ -63,7 +64,7 @@ body {
 **Heqin Zhu**, Ruifeng Li, Feng Zhang, Fenghe Tang, Tong Ye, Xin Li, Yunjie Gu, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)]
 
 ### RNA Structure Prediction
-- ![citations](https://img.shields.io/badge/Under Review-2025-blue) Toward Accurate RNA Non-Canonical Structure Prediction: The NC-Bench Benchmark and the NCfold Framework.\
+- ![citations](https://img.shields.io/badge/ICLR-2026-blue) Toward Accurate RNA Non-Canonical Structure Prediction: The NC-Bench Benchmark and the NCfold Framework.\
 **Heqin Zhu\#**, Ruifeng Li\#, Ao Chang, Mingqian Li, Hongyang Chen\*, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/NCBench.svg?label=Stars&style=social)](https://github.com/heqin-zhu/NCBench)[[code](https://github.com/heqin-zhu/NCBench)][[bioRxiv](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746)]
 
 - ![citations](https://img.shields.io/badge/Nature Communications-2025-blue) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1).\
