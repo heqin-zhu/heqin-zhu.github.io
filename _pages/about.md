@@ -40,7 +40,7 @@ body {
 
 <!-- 🔥 -->
 # News
-- 2026-03: &npsp; Honored to be awarded as the **Outstanding Graduate of USTC** and **Anhui Provincial Outstanding Graduate** (Ph.D., Class of 2026).
+- 2026-03: &nbsp; Honored to be awarded as the **Outstanding Graduate of USTC** and **Anhui Provincial Outstanding Graduate** (Ph.D., Class of 2026).
 - 2026-01: &nbsp; NC-Bench ([bioRxiv](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746), [code](https://github.com/heqin-zhu/NCBench/)) has been accepted by **ICLR 2026**.
 - 2025-08: &nbsp; We release structRFM ([bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guided RNA foundation model for structural and functional inference.
 - 2025-07: &nbsp; [BPfold](https://www.nature.com/articles/s41467-025-60048-1) has been published in **Nature Communications**.
@@ -115,9 +115,9 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
+- *2026*,      <span style="background: #d6eef8;">Provincial Outstanding Graduate (Ph.D., Class of 2026)</span>, Anhui Province
 - *2026*,      Outstanding Graduate (Ph.D., Class of 2026), USTC
-- *2026*,      Provincial Outstanding Graduate (Ph.D., Class of 2026), Anhui Province
-- *2025*,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students (\~top 1%)</span>, Chinese Ministry of Education
+- *2025*,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students</span>, Chinese Ministry of Education
 - *2025*,      Suzhou Industrial Park Scholarship, USTC
 - *2020-2025*, Graduate Academic Scholarship, UCAS & ICT & USTC
 - *2023*,      Merit Student Award, UCAS & ICT
