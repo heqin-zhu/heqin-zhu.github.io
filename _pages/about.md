@@ -28,7 +28,7 @@ body {
 <span class='anchor' id='about'></span>
 <!-- 😊 -->
 # About
-- I am a Ph.D. student at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), fortunately supervised by Prof. [Shaohua Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
+- I am a Ph.D. candidate at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), fortunately supervised by Prof. [Shaohua Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
 - My research centers on AI biology, with focus on fundamental challenges in RNA modeling and design, including:
     - Structure and function prediction.
     - Multimodal biological foundation model
@@ -36,7 +36,9 @@ body {
     - Exploration of functional RNA motifs within non-coding genomic regions.
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
+<!--
 - **<font color="#ff0000">I am actively seeking postdoctoral or research position starting in July 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
+-->
 
 <!-- 🔥 -->
 # News
@@ -125,7 +127,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 - *2017*,      Institute of Chemistry Excellence Scholarship, USTC
 
 <!-- 💻 -->
-# Professional Experiences
+# Work Experiences
 - *2021-07 - 2021-11*, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
 - *2019-09 - 2020-04*, Research Intern, Z2sky, Suzhou, China
 

@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: "/files/CV_Heqin_Zhu.pdf"
+  # - title: "CV"
+  #   url: "/files/CV_Heqin_Zhu.pdf"
 
   - title: "About"
     url: "/#about"
@@ -12,17 +12,14 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  # - title: "Publications"
-  #   url: "/publications"
+  - title: "Educations"
+    url: "/#educations"
 
-  # - title: "Educations"
-  #   url: "/#educations"
+  # - title: "Honors and Awards"
+  #   url: "/#honors-and-awards"
+  
+  - title: "Work Experiences"
+    url: "/#Work-experiences"
 
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  - title: "Professional Experiences"
-    url: "/#professional-experiences"
-
+  - title: "Invited Talks"
+    url: "/#invited-talks"
