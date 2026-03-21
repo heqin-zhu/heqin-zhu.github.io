@@ -36,7 +36,8 @@ body {
     - Exploration of functional RNA motifs within non-coding genomic regions.
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
-<!--
+
+<!-- 
 - **<font color="#ff0000">I am actively seeking postdoctoral or research position starting in July 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
 -->
 
