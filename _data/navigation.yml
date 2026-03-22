@@ -12,14 +12,17 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+  
   - title: "Educations"
     url: "/#educations"
 
-  # - title: "Honors and Awards"
-  #   url: "/#honors-and-awards"
-  
-  - title: "Work Experiences"
-    url: "/#work-experiences"
+  # - title: "Work Experiences"
+  #   url: "/#work-experiences"
+
+  - title: "Professional Services"
+    url: "/#professional-services"
 
   - title: "Invited Talks"
     url: "/#invited-talks"
