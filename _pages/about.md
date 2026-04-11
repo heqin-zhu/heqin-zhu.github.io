@@ -84,7 +84,7 @@ Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and
 **Heqin Zhu**, Qingsong Yao, Li Xiao, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)][[paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9)][[arXiv](https://arxiv.org/abs/2103.04657)]
 
 ### Unsupervised & Self-supervised & Few-shot learning
-- ![citations](https://img.shields.io/badge/Medical Image Analysis-2024-blue)** Which images to label for few-shot medical image analysis?**\
+- ![citations](https://img.shields.io/badge/Medical Image Analysis-2024-blue) **Which images to label for few-shot medical image analysis?**\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, Qiyuan Wang, S. Kevin Zhou &nbsp;&nbsp;[[code](https://github.com/Curli-quan/SCP_SampleChoicePolicy)][[paper](https://www.sciencedirect.com/science/article/pii/S1361841524001257)]
 - ![citations](https://img.shields.io/badge/IEEE Transactions one Medical Imaging-2024-blue) **IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis**.\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/Curli-quan/IGU-Aug.svg?label=Stars&style=social)](https://github.com/Curli-quan/IGU-Aug)[[code](https://github.com/Curli-quan/IGU-Aug)][[paper](https://ieeexplore.ieee.org/abstract/document/10620395/)][[arXiv](https://arxiv.org/abs/2211.07118)]
