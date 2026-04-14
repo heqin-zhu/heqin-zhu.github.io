@@ -48,6 +48,7 @@ body {
 - 2025-08: &nbsp; We release structRFM ([bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guided RNA foundation model for structural and functional inference.
 - 2025-07: &nbsp; [BPfold](https://www.nature.com/articles/s41467-025-60048-1) has been published in **Nature Communications**.
 - *2024-10*: &nbsp; We release BPfold ([bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.22.619430v1), [code](https://github.com/heqin-zhu/BPfold)), an effective tool for RNA secondary structure prediction.
+
 <!--
 - *2024-10*: &nbsp; Two papers have been accepted by **MICCAI 2024**.
 - *2024-08*: &nbsp; [One paper](https://ieeexplore.ieee.org/abstract/document/10620395/) has been published in **IEEE Transactions on Medical Imaging**.
@@ -60,7 +61,7 @@ body {
 
 <!-- 📝 -->
 # Publications
-(`#` equal contribution, `*` corresponding authors. Selected publications | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
+(`#`: equal contribution, `*`: corresponding author. Selected publications | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### RNA Foundation Model
 - ![citations](https://img.shields.io/badge/Nature portfolio, Under Revision-2025-blue) [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)\
@@ -78,23 +79,23 @@ body {
 Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
 
 ### Universal Model & Domain Adaptation
-- ![citations](https://img.shields.io/badge/MICCAI-2023-blue) [UOD: universal oneshot detection of anatomical landmark](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3)][![arXiv](https://img.shields.io/badge/arXiv-2306.07615-b31b1b.svg?style=flat)](https://arxiv.org/abs/2306.07615)(**Early Accept**)\
-**Heqin Zhu**, Quan Quan, Qingsong Yao, Zaiyi Liu, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/UOD_universal_oneshot_detection.svg?label=Stars&style=social)](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)[[code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)][[poster](files/poster_UOD.pdf)]
+- ![citations](https://img.shields.io/badge/MICCAI-2023-blue) [UOD: universal oneshot detection of anatomical landmark](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3)&nbsp;&nbsp;(**Early Accept**)\
+**Heqin Zhu**, Quan Quan, Qingsong Yao, Zaiyi Liu, S. Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2306.07615-b31b1b.svg?style=flat)](https://arxiv.org/abs/2306.07615)[![](https://img.shields.io/github/stars/heqin-zhu/UOD_universal_oneshot_detection.svg?label=Stars&style=social)](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)[[code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)][[poster](files/poster_UOD.pdf)]
 - ![citations](https://img.shields.io/badge/BMEF-2022-blue) [Learning to localize cross-anatomy landmarks in x-ray images with a universal model](https://spj.science.org/doi/full/10.34133/2022/9765095)\
 **Heqin Zhu**, Qingsong Yao, Li Xiao, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)]
-- ![citations](https://img.shields.io/badge/MICCAI-2021-blue) [You Only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9)[![arXiv](https://img.shields.io/badge/arXiv-2103.04657-b31b1b.svg?style=flat)](https://arxiv.org/abs/2103.04657)\
-**Heqin Zhu**, Qingsong Yao, Li Xiao, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)]
+- ![citations](https://img.shields.io/badge/MICCAI-2021-blue) [You Only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9)\
+**Heqin Zhu**, Qingsong Yao, Li Xiao, S. Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2103.04657-b31b1b.svg?style=flat)](https://arxiv.org/abs/2103.04657)[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)]
 
 
 ### Unsupervised & Self-supervised & Few-shot learning
 - ![citations](https://img.shields.io/badge/Medical Image Analysis-2024-blue) [Which images to label for few-shot medical image analysis?](https://www.sciencedirect.com/science/article/pii/S1361841524001257)\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, Qiyuan Wang, S. Kevin Zhou &nbsp;&nbsp;[[code](https://github.com/Curli-quan/SCP_SampleChoicePolicy)]
-- ![citations](https://img.shields.io/badge/IEEE Transactions one Medical Imaging-2024-blue) [IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis](https://ieeexplore.ieee.org/abstract/document/10620395/)[![arXiv](https://img.shields.io/badge/arXiv-2211.07118-b31b1b.svg?style=flat)](https://arxiv.org/abs/2211.07118)\
-Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/Curli-quan/IGU-Aug.svg?label=Stars&style=social)](https://github.com/Curli-quan/IGU-Aug)[[code](https://github.com/Curli-quan/IGU-Aug)]
+- ![citations](https://img.shields.io/badge/IEEE Transactions one Medical Imaging-2024-blue) [IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis](https://ieeexplore.ieee.org/abstract/document/10620395/)\
+Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, S. Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2211.07118-b31b1b.svg?style=flat)](https://arxiv.org/abs/2211.07118)[![](https://img.shields.io/github/stars/Curli-quan/IGU-Aug.svg?label=Stars&style=social)](https://github.com/Curli-quan/IGU-Aug)[[code](https://github.com/Curli-quan/IGU-Aug)]
 - ![citations](https://img.shields.io/badge/MIDL-2024-blue) [Slide-SAM: medical SAM meets sliding window](https://arxiv.org/abs/2311.10121v3)\
 Quan Quan\#, Fenghe Tang\#, Zikang Xu, **Heqin Zhu**, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/Curli-quan/Slide-SAM.svg?label=Stars&style=social)](https://github.com/Curli-quan/Slide-SAM)[[code](https://github.com/Curli-quan/Slide-SAM)]
-- ![citations](https://img.shields.io/badge/MICCAI-2024-blue) [Hyspark: Hybrid sparse masking for large scale medical image pre-training](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_31)[![arXiv](https://img.shields.io/badge/arXiv-2408.05815-b31b1b.svg?style=flat)](https://arxiv.org/abs/2408.05815)\
-Fenghe Tang, Ronghao Xu, Qingsong Yao, Xueming Fu, Quan Quan, **Heqin Zhu**, Zaiyi Liu, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/FengheTan9/HySpark.svg?label=Stars&style=social)](https://github.com/FengheTan9/HySpark)[[code](https://github.com/FengheTan9/HySparK)]
+- ![citations](https://img.shields.io/badge/MICCAI-2024-blue) [Hyspark: Hybrid sparse masking for large scale medical image pre-training](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_31)\
+Fenghe Tang, Ronghao Xu, Qingsong Yao, Xueming Fu, Quan Quan, **Heqin Zhu**, Zaiyi Liu, S. Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2408.05815-b31b1b.svg?style=flat)](https://arxiv.org/abs/2408.05815)[![](https://img.shields.io/github/stars/FengheTan9/HySpark.svg?label=Stars&style=social)](https://github.com/FengheTan9/HySpark)[[code](https://github.com/FengheTan9/HySparK)]
 
 <!--
 ### Misc
