@@ -90,7 +90,7 @@ Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and
 ### Unsupervised & Self-supervised & Few-shot learning
 - ![citations](https://img.shields.io/badge/Medical Image Analysis-2024-blue) [Which images to label for few-shot medical image analysis?](https://www.sciencedirect.com/science/article/pii/S1361841524001257)\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, Qiyuan Wang, S. Kevin Zhou &nbsp;&nbsp;[[code](https://github.com/Curli-quan/SCP_SampleChoicePolicy)]
-- ![citations](https://img.shields.io/badge/IEEE Transactions one Medical Imaging-2024-blue) [IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis](https://ieeexplore.ieee.org/abstract/document/10620395/)\
+- ![citations](https://img.shields.io/badge/IEEE Transactions on Medical Imaging-2024-blue) [IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis](https://ieeexplore.ieee.org/abstract/document/10620395/)\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, S. Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2211.07118-b31b1b.svg?style=flat)](https://arxiv.org/abs/2211.07118)[![](https://img.shields.io/github/stars/Curli-quan/IGU-Aug.svg?label=Stars&style=social)](https://github.com/Curli-quan/IGU-Aug)[[code](https://github.com/Curli-quan/IGU-Aug)]
 - ![citations](https://img.shields.io/badge/MIDL-2024-blue) [Slide-SAM: medical SAM meets sliding window](https://arxiv.org/abs/2311.10121v3)\
 Quan Quan\#, Fenghe Tang\#, Zikang Xu, **Heqin Zhu**, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/Curli-quan/Slide-SAM.svg?label=Stars&style=social)](https://github.com/Curli-quan/Slide-SAM)[[code](https://github.com/Curli-quan/Slide-SAM)]
@@ -138,10 +138,11 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 # Professional Services
 - *Journal Reviewers*
-    - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    - `TCSVT`: IEEE Transactions on Circuits and Systems for Video Technology
 
 - *Conference Reviewers*
-    - International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+    - `MICCAI`: International Conference on Medical Image Computing and Computer-Assisted Intervention
+    - `Neurips`: Conference on Neural Information Processing Systems
 
 - *Teaching Assistants*
     - *Spring 2024*, Teaching Assistant: Biomolecular structure prediction and modeling, USTC
