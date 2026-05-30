@@ -24,40 +24,29 @@ body {
 </style>
 -->
 
-
 <span class='anchor' id='about'></span>
 <!-- 😊 -->
 # About
-- I am a Ph.D. candidate at the University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), fortunately supervised by Prof. [Shaohua Kevin Zhou](https://sz.ustc.edu.cn/en/en_research_show/42.html) and Dr. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm). Prior to this, I received my bachelor degree from USTC in 2020 and obtained my master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023.
-- My research centers on AI biology, with focus on fundamental challenges in RNA modeling and design, including:
+- I am a postdoctoral researcher at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). Prior to this, I obtained my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
+- My research centers on AI biology, with focus on fundamental challenges in RNA modeling and molecular design, including:
     - Structure and function prediction.
     - Multimodal biological foundation model
-    - Drug discovery and RNA design for therapeutics.
-    - Exploration of functional RNA motifs within non-coding genomic regions.
+    - Unified molecular design
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
 
 <!-- 
-- **<font color="#ff0000">I am actively seeking postdoctoral or research position starting in July 2026.</font>** Here is my [CV](files/CV_Heqin_Zhu.pdf) ([中文简历](files/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
+- **<font color="#ff0000">I am actively seeking postdoctoral or research position starting in July 2026.</font>** Here is my [CV](files/CV/CV_Heqin_Zhu.pdf) ([中文简历](files/CV/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
 -->
 
 <!-- 🔥 -->
 # News
-- 2026-03: &nbsp; Honored to be awarded as the **Outstanding Graduate of USTC** and **Anhui Provincial Outstanding Graduate** (Ph.D., Class of 2026).
-- 2026-01: &nbsp; NC-Bench ([bioRxiv](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746), [code](https://github.com/heqin-zhu/NCBench/)) has been accepted by **ICLR 2026**.
-- 2025-08: &nbsp; We release structRFM ([bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guided RNA foundation model for structural and functional inference.
-- 2025-07: &nbsp; [BPfold](https://www.nature.com/articles/s41467-025-60048-1) has been published in **Nature Communications**.
-- *2024-10*: &nbsp; We release BPfold ([bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.22.619430v1), [code](https://github.com/heqin-zhu/BPfold)), an effective tool for RNA secondary structure prediction.
-
-<!--
-- *2024-10*: &nbsp; Two papers have been accepted by **MICCAI 2024**.
-- *2024-08*: &nbsp; [One paper](https://ieeexplore.ieee.org/abstract/document/10620395/) has been published in **IEEE Transactions on Medical Imaging**.
-- *2024-08*: &nbsp; [One paper](https://www.sciencedirect.com/science/article/pii/S1361841524001257) has been published in **Medical Image Analysis**.
-- *2023-10*: &nbsp; UOD ([arXiv](https://arxiv.org/abs/2306.07615), [code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)), a universal one-shot learning model,  has been accepted by **MICCAI 2023**.
-- *2022-07*: &nbsp; [One paper](https://spj.science.org/doi/full/10.34133/2022/9765095) has been published in **BME frontiers**.
-- *2022-03*: &nbsp; We release DFTR ([arXiv](https://arxiv.org/abs/2203.06429), [code](https://github.com/heqin-zhu/DFTR)), a depth-supervised hierarchical feature fusion transformer for salient object detection.
-- *2021-10*: &nbsp; GU2Net ([arXiv](https://arxiv.org/abs/2103.04657), [code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)), a universal model for anatomical landmark detection, has been accepted by **MICCAI 2021**.
--->
+- 05/2026: &nbsp; Honored to be awarded the **Chinese Academy of Sciences, President's Excellent Award**.
+- 03/2026: &nbsp; Honored to be awarded as the **Outstanding Graduate of USTC** and **Anhui Provincial Outstanding Graduate** (Ph.D., Class of 2026).
+- 01/2026: &nbsp; NC-Bench ([bioRxiv](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746), [code](https://github.com/heqin-zhu/NCBench/)) has been accepted by **ICLR 2026**.
+- 08/2025: &nbsp; We release structRFM ([bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guided RNA foundation model for structural and functional inference.
+- 07/2025: &nbsp; [BPfold](https://www.nature.com/articles/s41467-025-60048-1) has been published in **Nature Communications**.
+- 10/2024: &nbsp; We release BPfold ([bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.22.619430v1), [code](https://github.com/heqin-zhu/BPfold)), an effective tool for RNA secondary structure prediction.
 
 <!-- 📝 -->
 # Publications
@@ -72,7 +61,7 @@ body {
 **Heqin Zhu\#**, Ruifeng Li\#, Ao Chang, Mingqian Li, Hongyang Chen\*, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/NCBench.svg?label=Stars&style=social)](https://github.com/heqin-zhu/NCBench)[[code](https://github.com/heqin-zhu/NCBench)][[page](https://heqin-zhu.github.io/NCBench/)]
 
 - ![citations](https://img.shields.io/badge/Nature Communications-2025-blue) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1)\
-**Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[PyPI](https://pypi.org/project/BPfold/)][[poster](files/poster_BPfold.pdf)][[poster2](files/poster_BPfold_2.jpg)]
+**Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[PyPI](https://pypi.org/project/BPfold/)][[poster](files/poster/poster_BPfold.pdf)][[poster2](files/poster/poster_BPfold_2.jpg)]
 
 ### RNA Function Prediction
 - ![citations](https://img.shields.io/badge/NAR Genomics and Bioinformatics-2025-blue) [IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs](https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf)\
@@ -80,7 +69,7 @@ Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and
 
 ### Universal Model & Domain Adaptation
 - ![citations](https://img.shields.io/badge/MICCAI-2023-blue) [UOD: universal oneshot detection of anatomical landmark](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3)&nbsp;&nbsp;(**Early Accept**)\
-**Heqin Zhu**, Quan Quan, Qingsong Yao, Zaiyi Liu, S. Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2306.07615-b31b1b.svg?style=flat)](https://arxiv.org/abs/2306.07615)[![](https://img.shields.io/github/stars/heqin-zhu/UOD_universal_oneshot_detection.svg?label=Stars&style=social)](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)[[code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)][[poster](files/poster_UOD.pdf)]
+**Heqin Zhu**, Quan Quan, Qingsong Yao, Zaiyi Liu, S. Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2306.07615-b31b1b.svg?style=flat)](https://arxiv.org/abs/2306.07615)[![](https://img.shields.io/github/stars/heqin-zhu/UOD_universal_oneshot_detection.svg?label=Stars&style=social)](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)[[code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)][[poster](files/poster/poster_UOD.pdf)]
 - ![citations](https://img.shields.io/badge/BMEF-2022-blue) [Learning to localize cross-anatomy landmarks in x-ray images with a universal model](https://spj.science.org/doi/full/10.34133/2022/9765095)\
 **Heqin Zhu**, Qingsong Yao, Li Xiao, S. Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)]
 - ![citations](https://img.shields.io/badge/MICCAI-2021-blue) [You Only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9)\
@@ -115,6 +104,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
+- *2026*,      <span style="background: #d6eef8;">President's Excellent Award</span>, CAS
 - *2026*,      <span style="background: #d6eef8;">Provincial Outstanding Graduate (Ph.D., Class of 2026)</span>, Anhui Province
 - *2026*,      Outstanding Graduate (Ph.D., Class of 2026), USTC
 - *2025*,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students</span>, Chinese Ministry of Education
@@ -126,15 +116,15 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 📖 -->
 # Educations
-- *2023-09 - present*, Ph.D. student of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
-- *2020-09 - 2023-06*, Master of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS) & Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), CAS, Beijing, China
-- *2016-09 - 2020-06*, Bachelor of Computer Science and Technology, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
+- *09/2023 - 06/2026*, Ph.D. student of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
+- *09/2020 - 06/2023*, Master of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS) & Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), CAS, Beijing, China
+- *09/2016 - 06/2020*, Bachelor of Computer Science and Technology, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
   - <span style="background: #d6eef8;">Hua Xia Talent Program in Computer Science and Technology</span>
 
 <!-- 💻 -->
 # Work Experiences
-- *2021-07 - 2021-11*, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
-- *2019-09 - 2020-04*, Research Intern, Z2sky, Suzhou, China
+- *07/2021 - 11/2021*, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
+- *09/2019 - 04/2020*, Research Intern, Z2sky, Suzhou, China
 
 # Professional Services
 - *Journal Reviewers*
@@ -154,11 +144,11 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 <!-- 💬 -->
 # Invited Talks
 - Structure-centric AI for RNA modeling
-    - *2025-12*, Course on Digital Healthcare Technology and Applications, USTC
+    - *12/2025*, Course on Digital Healthcare Technology and Applications, USTC
 - Deep generalizable prediction of RNA secondary structure via base pair motif energy
-    - *2025-05*, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
+    - *05/2025*, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
 - Universal one-shot detection of anatomical landmarks
-    - *2023-03*, Academic Forum for Graduates, Institute of Computing Technology.
+    - *03/2023*, Academic Forum for Graduates, Institute of Computing Technology.
 
 <p align="center">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM'></script>
