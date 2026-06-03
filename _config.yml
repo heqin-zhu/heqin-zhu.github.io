@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Heqin Zhu \n (朱河勤)"
-description              : "PhD candidate, focusing on AI for biology."
+description              : "AI biology."
 repository               : "heqin-zhu/heqin-zhu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # https://ziyuan.baidu.com/login/index?u=/site/index
 author:
   name             : "Heqin Zhu (朱河勤)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Science and Technology of China"
+  bio              : "Postdoc researcher at The Chinese University of Hong Kong"
   location         : 
   employer         :
   pubmed           : 
