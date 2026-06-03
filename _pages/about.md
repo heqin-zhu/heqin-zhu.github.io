@@ -29,7 +29,7 @@ body {
 # About
 - I am a postdoctoral researcher at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). Prior to this, I obtained my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
 - My research centers on AI biology, with focus on fundamental challenges in RNA modeling and molecular design, including:
-    - Structure and function prediction.
+    - Structure and function prediction
     - Multimodal biological foundation model
     - Unified molecular design
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
@@ -105,27 +105,27 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
-- *2026*,      <span style="background: #d6eef8;">President's Excellent Award</span>, CAS
-- *2026*,      <span style="background: #d6eef8;">Provincial Outstanding Graduate (Ph.D., Class of 2026)</span>, Anhui Province
-- *2026*,      Outstanding Graduate (Ph.D., Class of 2026), USTC
-- *2025*,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students</span>, Chinese Ministry of Education
-- *2025*,      Suzhou Industrial Park Scholarship, USTC
-- *2020-2025*, Graduate Academic Scholarship, UCAS & ICT & USTC
-- *2023*,      Merit Student Award, UCAS & ICT
-- *2018-2019*, Outstanding Student Award, USTC
-- *2017*,      Institute of Chemistry Excellence Scholarship, USTC
+- 2026,      <span style="background: #d6eef8;">President's Excellent Award</span>, CAS
+- 2026,      <span style="background: #d6eef8;">Provincial Outstanding Graduate (Ph.D., Class of 2026)</span>, Anhui Province
+- 2026,      Outstanding Graduate (Ph.D., Class of 2026), USTC
+- 2025,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students</span>, Chinese Ministry of Education
+- 2025,      Suzhou Industrial Park Scholarship, USTC
+- 2020-2025, Graduate Academic Scholarship, UCAS & ICT & USTC
+- 2023,      Merit Student Award, UCAS & ICT
+- 2018-2019, Outstanding Student Award, USTC
+- 2017,      Institute of Chemistry Excellence Scholarship, USTC
 
 <!-- 📖 -->
 # Educations
-- *09/2023 - 06/2026*, Ph.D. student of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
-- *09/2020 - 06/2023*, Master of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS) & Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), CAS, Beijing, China
-- *09/2016 - 06/2020*, Bachelor of Computer Science and Technology, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
+- 09/2023 - 06/2026, Ph.D. of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
+- 09/2020 - 06/2023, Master of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS) & Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), CAS, Beijing, China
+- 09/2016 - 06/2020, Bachelor of Computer Science and Technology, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
   - <span style="background: #d6eef8;">Hua Xia Talent Program in Computer Science and Technology</span>
 
 <!-- 💻 -->
 # Work Experiences
-- *07/2021 - 11/2021*, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
-- *09/2019 - 04/2020*, Research Intern, Z2sky, Suzhou, China
+- 07/2021 - 11/2021, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
+- 09/2019 - 04/2020, Research Intern, Z2sky, Suzhou, China
 
 # Professional Services
 - *Journal Reviewers*
@@ -136,20 +136,20 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
     - `Neurips`: Conference on Neural Information Processing Systems
 
 - *Teaching Assistants*
-    - *Spring 2024*, Teaching Assistant: Biomolecular structure prediction and modeling, USTC
-    - *Fall 2023*, Teaching Assistant: Electronic information openness practices, USTC
+    - Spring 2024, Teaching Assistant: Biomolecular structure prediction and modeling, USTC
+    - Fall 2023, Teaching Assistant: Electronic information openness practices, USTC
 - *Volunteer Experiences*
-    - *2024*, Volunteer: Medical Augmented Reality Summer School, Suzhou
-    - *2023*, Volunteer: Dushu Lake Forum Dushu Lake Symposium on Medical lmage Computing, Suzhou
+    - 2024, Volunteer: Medical Augmented Reality Summer School, Suzhou
+    - 2023, Volunteer: Dushu Lake Forum Dushu Lake Symposium on Medical lmage Computing, Suzhou
 
 <!-- 💬 -->
 # Invited Talks
 - Structure-centric AI for RNA modeling
-    - *12/2025*, Course on Digital Healthcare Technology and Applications, USTC
+    - 12/2025, Course on Digital Healthcare Technology and Applications, USTC
 - Deep generalizable prediction of RNA secondary structure via base pair motif energy
-    - *05/2025*, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
+    - 05/2025, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
 - Universal one-shot detection of anatomical landmarks
-    - *03/2023*, Academic Forum for Graduates, Institute of Computing Technology.
+    - 03/2023, Academic Forum for Graduates, Institute of Computing Technology.
 
 <p align="center">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM'></script>
