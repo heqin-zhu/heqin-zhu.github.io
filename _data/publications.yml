@@ -1,0 +1,664 @@
+- id: NCfold
+  title: 'NC-Bench and NCfold: A Benchmark and Closed-Loop Framework for RNA Non-Canonical
+    Base-Pair Prediction'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Ruifeng Li
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Mingqian Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Hongyang Chen
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2026
+  venue: ICLR
+  venue_type: conference
+  url: ''
+  links:
+    code: https://github.com/heqin-zhu/NCBench
+    page: https://heqin-zhu.github.io/NCBench/
+    poster: https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf
+- id: zhu2025deep
+  title: Deep generalizable prediction of RNA secondary structure via base pair motif
+    energy
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Fenghe Tang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Quan Quan
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ke Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2025
+  venue: Nature Communications
+  venue_type: journal
+  url: ''
+  links:
+    code: https://github.com/heqin-zhu/BPfold
+    pypi: https://pypi.org/project/BPfold/
+    poster: https://heqin-zhu.github.io/files/poster/poster_BPfold.pdf
+    poster2: https://heqin-zhu.github.io/files/poster/poster_BPfold_2.jpg
+- id: zhu2025fully
+  title: A fully open structure-guided RNA foundation model for robust structural
+    and functional inference
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Ruifeng Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Feng Zhang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Fenghe Tang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Tong Ye
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Xin Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yunjie Gu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2025
+  venue: Nature portfolio, Under Revision
+  venue_type: preprint
+  url: ''
+  links:
+    code: https://github.com/heqin-zhu/structRFM
+    pypi: https://pypi.org/project/structRFM/
+- id: zhang2025ireseek
+  title: 'IRESeek: structure-informed deep learning method for accurate identification
+    of internal ribosome entry sites in circular RNAs'
+  authors:
+  - name: Feng Zhang
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Jiayin Gao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Jie Hu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ke Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2025
+  venue: NAR Genomics and Bioinformatics
+  venue_type: journal
+  url: ''
+  links:
+    code: https://github.com/f-zhangf/IRESeek
+- id: tang2025u
+  title: 'U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking'
+  authors:
+  - name: Fenghe Tang
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Chengqi Dong
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Wenxin Ma
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zikang Xu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Zihang Jiang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Rongsheng Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yuhao Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Chenxu Wu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2025
+  venue: arXiv preprint arXiv:2510.07041
+  venue_type: preprint
+  url: ''
+  links: {}
+- id: huang2024pele
+  title: 'Pele scores: pelvic x-ray landmark detection with pelvis extraction and
+    enhancement'
+  authors:
+  - name: Zhen Huang
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Han Li
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Shitong Shao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Huijie Hu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zhiwei Cheng
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Jianji Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2024
+  venue: IJCARS
+  venue_type: journal
+  url: ''
+  links: {}
+- id: quan2024images
+  title: Which images to label for few-shot medical image analysis?
+  authors:
+  - name: Quan Quan
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Qiyuan Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2024
+  venue: Medical Image Analysis
+  venue_type: journal
+  url: ''
+  links:
+    code: https://github.com/Curli-quan/SCP_SampleChoicePolicy
+- id: quan2024igu
+  title: 'Igu-aug: Information-guided unsupervised augmentation and pixel-wise contrastive
+    learning for medical image analysis'
+  authors:
+  - name: Quan Quan
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2024
+  venue: IEEE Transactions on Medical Imaging
+  venue_type: journal
+  url: ''
+  links:
+    code: https://github.com/Curli-quan/IGU-Aug
+    arxiv: https://arxiv.org/abs/2211.07118
+- id: tang2024hyspark
+  title: 'Hyspark: Hybrid sparse masking for large scale medical image pre-training'
+  authors:
+  - name: Fenghe Tang
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Ronghao Xu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Xueming Fu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Quan Quan
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Zaiyi Liu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2024
+  venue: MICCAI
+  venue_type: conference
+  url: ''
+  links:
+    code: https://github.com/FengheTan9/HySparK
+    arxiv: https://arxiv.org/abs/2408.05815
+- id: wang2024six
+  title: 'SIX-Net: Spatial-Context Information miX-up for Electrode Landmark Detection'
+  authors:
+  - name: Xinyi Wang
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Zikang Xu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yiyong Sun
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2024
+  venue: MICCAI
+  venue_type: conference
+  url: ''
+  links: {}
+- id: zhu2023uod
+  title: 'Uod: Universal one-shot detection of anatomical landmarks'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Quan Quan
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zaiyi Liu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2023
+  venue: MICCAI
+  venue_type: conference
+  url: ''
+  links:
+    code: https://github.com/heqin-zhu/UOD_universal_oneshot_detection
+    arxiv: https://arxiv.org/abs/2306.07615
+    poster: https://heqin-zhu.github.io/files/poster/poster_UOD.pdf
+- id: quan2023slide
+  title: 'Slide-sam: Medical sam meets sliding window'
+  authors:
+  - name: Quan Quan
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Fenghe Tang
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Zikang Xu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2023
+  venue: MIDL
+  venue_type: conference
+  url: ''
+  links:
+    code: https://github.com/Curli-quan/Slide-SAM
+- id: zhu2022learning
+  title: Learning to Localize Cross-Anatomy Landmarks in X-Ray Images with a Universal
+    Model
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Li Xiao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2022
+  venue: BME Frontiers
+  venue_type: journal
+  url: ''
+  links:
+    code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
+- id: zhu2022datr
+  title: 'Datr: Domain-adaptive transformer for multi-domain landmark detection'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2022
+  venue: arXiv preprint arXiv:2203.06433
+  venue_type: preprint
+  url: ''
+  links: {}
+- id: zhu2022dftr
+  title: 'DFTR: Depth-supervised hierarchical feature fusion transformer for salient
+    object detection'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Xu Sun
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yuexiang Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Kai Ma
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yefeng Zheng
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2022
+  venue: arXiv preprint arXiv:2203.06429
+  venue_type: preprint
+  url: ''
+  links: {}
+- id: yao2022relative
+  title: Relative distance matters for one-shot landmark detection
+  authors:
+  - name: Qingsong Yao
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Jianji Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yihua Sun
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Quan Quan
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2022
+  venue: arXiv preprint arXiv:2203.01687
+  venue_type: preprint
+  url: ''
+  links: {}
+- id: zhu2021you
+  title: 'You only learn once: Universal anatomical landmark detection'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Li Xiao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2021
+  venue: MICCAI
+  venue_type: conference
+  url: ''
+  links:
+    code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
+    arxiv: https://arxiv.org/abs/2103.04657
+- id: liu2021deep
+  title: 'Deep learning to segment pelvic bones: large-scale CT datasets and baseline
+    models'
+  authors:
+  - name: Pengbo Liu
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Hu Han
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yuanqi Du
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Yinhao Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Feng Gu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Honghu Xiao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Jun Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Chunpeng Zhao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Li Xiao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2021
+  venue: IJCARS
+  venue_type: journal
+  url: ''
+  links: {}
+- id: lyu20213
+  title: 'A 3 DSegNet: anatomy-aware artifact disentanglement and segmentation network
+    for unpaired segmentation, artifact reduction, and modality translation'
+  authors:
+  - name: Yuanyuan Lyu
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Haofu Liao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2021
+  venue: IPMI
+  venue_type: conference
+  url: ''
+  links: {}

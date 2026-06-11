@@ -10,13 +10,16 @@ main:
     url: "/#news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/publications/"
+
+  # - title: "Selected Publications"
+  #   url: "/#publications"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
   
-  - title: "Educations"
-    url: "/#educations"
+  # - title: "Educations"
+  #   url: "/#educations"
 
   # - title: "Work Experiences"
   #   url: "/#work-experiences"

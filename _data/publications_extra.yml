@@ -1,0 +1,271 @@
+# Supplementary publication annotations
+# Merged with bib data by scripts/bib_to_yaml.py
+# Fields: first_author (bool), corresponding (bool), highlight (bool), links (map)
+
+# RNA Foundation Model
+zhu2025fully:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+      first_author: true
+    - name: "Ruifeng Li"
+    - name: "Feng Zhang"
+    - name: "Fenghe Tang"
+    - name: "Tong Ye"
+    - name: "Xin Li"
+    - name: "Yunjie Gu"
+    - name: "Peng Xiong"
+      corresponding: true
+    - name: "Shaohua Kevin Zhou"
+      corresponding: true
+  venue_short: "Nature portfolio, Under Revision"
+  links:
+    code: "https://github.com/heqin-zhu/structRFM"
+    pypi: "https://pypi.org/project/structRFM/"
+
+# RNA Structure Prediction
+NCfold:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+      first_author: true
+    - name: "Ruifeng Li"
+      first_author: true
+    - name: "Ao Chang"
+    - name: "Mingqian Li"
+    - name: "Hongyang Chen"
+      corresponding: true
+    - name: "Peng Xiong"
+      corresponding: true
+    - name: "Shaohua Kevin Zhou"
+      corresponding: true
+  venue_short: "ICLR"
+  links:
+    code: "https://github.com/heqin-zhu/NCBench"
+    page: "https://heqin-zhu.github.io/NCBench/"
+    poster: "https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf"
+
+zhu2025deep:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Fenghe Tang"
+    - name: "Quan Quan"
+    - name: "Ke Chen"
+    - name: "Peng Xiong"
+      corresponding: true
+    - name: "Shaohua Kevin Zhou"
+      corresponding: true
+  venue_short: "Nature Communications"
+  links:
+    code: "https://github.com/heqin-zhu/BPfold"
+    pypi: "https://pypi.org/project/BPfold/"
+    poster: "https://heqin-zhu.github.io/files/poster/poster_BPfold.pdf"
+    poster2: "https://heqin-zhu.github.io/files/poster/poster_BPfold_2.jpg"
+
+# RNA Function Prediction
+zhang2025ireseek:
+  authors_annotation:
+    - name: "Feng Zhang"
+      first_author: true
+    - name: "Heqin Zhu"
+      highlight: true
+      first_author: true
+    - name: "Jie Hu"
+    - name: "Jiayin Gao"
+    - name: "Ke Chen"
+    - name: "Shaohua Kevin Zhou"
+      corresponding: true
+    - name: "Peng Xiong"
+      corresponding: true
+  venue_short: "NAR Genomics and Bioinformatics"
+  links:
+    code: "https://github.com/f-zhangf/IRESeek"
+
+# Universal Model & Domain Adaptation
+zhu2023uod:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Quan Quan"
+    - name: "Qingsong Yao"
+    - name: "Zaiyi Liu"
+    - name: "Shaohua Kevin Zhou"
+  venue_short: "MICCAI"
+  links:
+    code: "https://github.com/heqin-zhu/UOD_universal_oneshot_detection"
+    arxiv: "https://arxiv.org/abs/2306.07615"
+    poster: "https://heqin-zhu.github.io/files/poster/poster_UOD.pdf"
+
+zhu2022learning:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Qingsong Yao"
+    - name: "Li Xiao"
+    - name: "Shaohua Kevin Zhou"
+  venue_short: "BME Frontiers"
+  links:
+    code: "https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection"
+
+zhu2021you:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Qingsong Yao"
+    - name: "Li Xiao"
+    - name: "Shaohua Kevin Zhou"
+  venue_short: "MICCAI"
+  links:
+    code: "https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection"
+    arxiv: "https://arxiv.org/abs/2103.04657"
+
+# Unsupervised & Self-supervised & Few-shot learning
+quan2024images:
+  authors_annotation:
+    - name: "Quan Quan"
+      first_author: true
+    - name: "Qingsong Yao"
+      first_author: true
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Qiyuan Wang"
+    - name: "Shaohua Kevin Zhou"
+  venue_short: "Medical Image Analysis"
+  links:
+    code: "https://github.com/Curli-quan/SCP_SampleChoicePolicy"
+
+quan2024igu:
+  authors_annotation:
+    - name: "Quan Quan"
+      first_author: true
+    - name: "Qingsong Yao"
+      first_author: true
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Shaohua Kevin Zhou"
+  venue_short: "IEEE Transactions on Medical Imaging"
+  links:
+    code: "https://github.com/Curli-quan/IGU-Aug"
+    arxiv: "https://arxiv.org/abs/2211.07118"
+
+quan2023slide:
+  authors_annotation:
+    - name: "Quan Quan"
+      first_author: true
+    - name: "Fenghe Tang"
+      first_author: true
+    - name: "Zikang Xu"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Shaohua Kevin Zhou"
+  venue_short: "MIDL"
+  venue_type: conference
+  links:
+    code: "https://github.com/Curli-quan/Slide-SAM"
+
+tang2024hyspark:
+  authors_annotation:
+    - name: "Fenghe Tang"
+    - name: "Ronghao Xu"
+    - name: "Qingsong Yao"
+    - name: "Xueming Fu"
+    - name: "Quan Quan"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Zaiyi Liu"
+    - name: "Shaohua Kevin Zhou"
+  venue_short: "MICCAI"
+  links:
+    code: "https://github.com/FengheTan9/HySparK"
+    arxiv: "https://arxiv.org/abs/2408.05815"
+
+# Papers only in bib (no about.md entry) — minimal annotations
+zhu2022datr:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Qingsong Yao"
+    - name: "Shaohua Kevin Zhou"
+
+zhu2022dftr:
+  authors_annotation:
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Xu Sun"
+    - name: "Yuexiang Li"
+    - name: "Kai Ma"
+    - name: "Shaohua Kevin Zhou"
+    - name: "Yefeng Zheng"
+      corresponding: true
+
+huang2024pele:
+  authors_annotation:
+    - name: "Zhen Huang"
+      first_author: true
+    - name: "Han Li"
+      first_author: true
+    - name: "Shitong Shao"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Huijie Hu"
+    - name: "Zhiwei Cheng"
+    - name: "Jianji Wang"
+    - name: "Shaohua Kevin Zhou"
+
+liu2021deep:
+  authors_annotation:
+    - name: "Pengbo Liu"
+    - name: "Hu Han"
+    - name: "Yuanqi Du"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Yinhao Li"
+    - name: "Feng Gu"
+    - name: "Honghu Xiao"
+    - name: "Jun Li"
+    - name: "Chunpeng Zhao"
+    - name: "Li Xiao"
+    - name: "others"
+
+yao2022relative:
+  authors_annotation:
+    - name: "Qingsong Yao"
+    - name: "Jianji Wang"
+    - name: "Sun Yihua"
+    - name: "Quan Quan"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Shaohua Kevin Zhou"
+
+wang2024six:
+  authors_annotation:
+    - name: "Xinyi Wang"
+    - name: "Zikang Xu"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Qingsong Yao"
+    - name: "Yiyong Sun"
+    - name: "Shaohua Kevin Zhou"
+
+lyu20213:
+  authors_annotation:
+    - name: "Yuanyuan Lyu"
+    - name: "Haofu Liao"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Shaohua Kevin Zhou"
+
+tang2025u:
+  authors_annotation:
+    - name: "Fenghe Tang"
+    - name: "Chengqi Dong"
+    - name: "Wenxin Ma"
+    - name: "Zikang Xu"
+    - name: "Heqin Zhu"
+      highlight: true
+    - name: "Zihang Jiang"
+    - name: "Rongsheng Wang"
+    - name: "Yuhao Wang"
+    - name: "Chenxu Wu"
+    - name: "Shaohua Kevin Zhou"
