@@ -138,7 +138,7 @@ def clean_latex(text: str) -> str:
     return text.replace("{", "").replace("}", "").replace("\\", "")
 
 
-def convert_entry(entry: dict, extra: dict) -> dict:
+def convert_entry(entry: dict, extra: dict, raw_bibtex: dict) -> dict:
     """Convert a single bib entry dict to a YAML-friendly dict."""
     bib_id = entry["ID"]
     extra_data = extra.get(bib_id, {})
@@ -203,7 +203,35 @@ def convert_entry(entry: dict, extra: dict) -> dict:
         "venue_type": venue_type,
         "url": url,
         "links": links,
+        "bibtex": raw_bibtex.get(bib_id, ""),
     }
+
+
+def extract_raw_bibtex(bib_path: Path) -> dict:
+    """Extract raw BibTeX strings keyed by entry ID."""
+    with open(bib_path, "r") as f:
+        content = f.read()
+    raw_entries = {}
+    # Split on @ to find each entry
+    parts = content.split("@")
+    for part in parts[1:]:  # skip text before first @
+        match = re.match(r"\w+\s*\{(\w+)", part)
+        if match:
+            entry_id = match.group(1)
+            # Find the closing brace (match braces)
+            depth = 0
+            end = -1
+            for i, ch in enumerate(part):
+                if ch == "{":
+                    depth += 1
+                elif ch == "}":
+                    depth -= 1
+                    if depth == 0:
+                        end = i + 1
+                        break
+            if end > 0:
+                raw_entries[entry_id] = "@" + part[:end]
+    return raw_entries
 
 
 def main():
@@ -218,6 +246,10 @@ def main():
     entries = bib_db.entries
     print(f"Parsed {len(entries)} entries from {BIB_PATH}")
 
+    # Extract raw BibTeX strings
+    raw_bibtex = extract_raw_bibtex(BIB_PATH)
+    print(f"Extracted {len(raw_bibtex)} raw BibTeX entries")
+
     # Load extra annotations
     extra = {}
     if EXTRA_PATH.exists():
@@ -230,7 +262,7 @@ def main():
     # Convert
     publications = []
     for entry in entries:
-        pub = convert_entry(entry, extra)
+        pub = convert_entry(entry, extra, raw_bibtex)
         publications.append(pub)
 
     # Sort by year descending

@@ -35,10 +35,15 @@
   venue_type: conference
   url: ''
   links:
-    bioRxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
+    biorxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
     code: https://github.com/heqin-zhu/NCBench
     page: https://heqin-zhu.github.io/NCBench/
     poster: https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf
+  bibtex: "@inproceedings{NCfold,\n  title={NC-Bench and NCfold: A Benchmark and Closed-Loop\
+    \ Framework for RNA Non-Canonical Base-Pair Prediction},\n  author={Zhu, Heqin\
+    \ and Li, Ruifeng and Chang, Ao and Li, Mingqian and Chen, Hongyang and Xiong,\
+    \ Peng and Zhou, Shaohua Kevin},\n  year={2026},\n  booktitle={The Fourteenth\
+    \ International Conference on Learning Representations}\n}"
 - id: zhu2025deep
   title: Deep generalizable prediction of RNA secondary structure via base pair motif
     energy
@@ -77,6 +82,11 @@
     pypi: https://pypi.org/project/BPfold/
     poster: https://heqin-zhu.github.io/files/poster/poster_BPfold.pdf
     poster2: https://heqin-zhu.github.io/files/poster/poster_BPfold_2.jpg
+  bibtex: "@article{zhu2025deep,\n  title={Deep generalizable prediction of RNA secondary\
+    \ structure via base pair motif energy},\n  author={Zhu, Heqin and Tang, Fenghe\
+    \ and Quan, Quan and Chen, Ke and Xiong, Peng and Zhou, Shaohua Kevin},\n  journal={Nature\
+    \ Communications},\n  volume={16},\n  number={1},\n  pages={5856},\n  year={2025},\n\
+    \  publisher={Nature Publishing Group UK London}\n}"
 - id: zhu2025fully
   title: A fully open structure-guided RNA foundation model for robust structural
     and functional inference
@@ -130,9 +140,15 @@
   venue_type: preprint
   url: ''
   links:
-    bioRxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
+    biorxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
     code: https://github.com/heqin-zhu/structRFM
     pypi: https://pypi.org/project/structRFM/
+  bibtex: "@article{zhu2025fully,\n  title={A fully open structure-guided RNA foundation\
+    \ model for robust structural and functional inference},\n  author={Zhu, Heqin\
+    \ and Li, Ruifeng and Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe\
+    \ and Ye, Tong and Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, Shaohua Kevin},\n\
+    \  journal={bioRxiv},\n  pages={2025--08},\n  year={2025},\n  publisher={Cold\
+    \ Spring Harbor Laboratory}\n}"
 - id: zhang2025ireseek
   title: 'IRESeek: structure-informed deep learning method for accurate identification
     of internal ribosome entry sites in circular RNAs'
@@ -172,6 +188,12 @@
   links:
     paper: https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf
     code: https://github.com/f-zhangf/IRESeek
+  bibtex: "@article{zhang2025ireseek,\n  title={IRESeek: structure-informed deep learning\
+    \ method for accurate identification of internal ribosome entry sites in circular\
+    \ RNAs},\n  author={Zhang, Feng and Zhu, Heqin and Gao, Jiayin and Hu, Jie and\
+    \ Chen, Ke and Zhou, Shaohua Kevin and Xiong, Peng},\n  journal={NAR Genomics\
+    \ and Bioinformatics},\n  volume={7},\n  number={4},\n  pages={lqaf210},\n  year={2025},\n\
+    \  publisher={Oxford University Press}\n}"
 - id: tang2025u
   title: 'U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking'
   authors:
@@ -220,6 +242,11 @@
   venue_type: preprint
   url: ''
   links: {}
+  bibtex: "@article{tang2025u,\n  title={U-Bench: A Comprehensive Understanding of\
+    \ U-Net through 100-Variant Benchmarking},\n  author={Tang, Fenghe and Dong, Chengqi\
+    \ and Ma, Wenxin and Xu, Zikang and Zhu, Heqin and Jiang, Zihang and Wang, Rongsheng\
+    \ and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},\n  journal={arXiv preprint\
+    \ arXiv:2510.07041},\n  year={2025}\n}"
 - id: huang2024pele
   title: 'Pele scores: pelvic x-ray landmark detection with pelvis extraction and
     enhancement'
@@ -261,6 +288,12 @@
   venue_type: journal
   url: ''
   links: {}
+  bibtex: "@article{huang2024pele,\n  title={Pele scores: pelvic x-ray landmark detection\
+    \ with pelvis extraction and enhancement},\n  author={Huang, Zhen and Li, Han\
+    \ and Shao, Shitong and Zhu, Heqin and Hu, Huijie and Cheng, Zhiwei and Wang,\
+    \ Jianji and Zhou, Shaohua Kevin},\n  journal={International Journal of Computer\
+    \ Assisted Radiology and Surgery},\n  volume={19},\n  number={5},\n  pages={939--950},\n\
+    \  year={2024},\n  publisher={Springer International Publishing Cham}\n}"
 - id: quan2024images
   title: Which images to label for few-shot medical image analysis?
   authors:
@@ -290,6 +323,10 @@
   url: ''
   links:
     code: https://github.com/Curli-quan/SCP_SampleChoicePolicy
+  bibtex: "@article{quan2024images,\n  title={Which images to label for few-shot medical\
+    \ image analysis?},\n  author={Quan, Quan and Yao, Qingsong and Zhu, Heqin and\
+    \ Wang, Qiyuan and Zhou, Shaohua Kevin},\n  journal={Medical Image Analysis},\n\
+    \  volume={96},\n  pages={103200},\n  year={2024},\n  publisher={Elsevier}\n}"
 - id: quan2024igu
   title: 'Igu-aug: Information-guided unsupervised augmentation and pixel-wise contrastive
     learning for medical image analysis'
@@ -317,6 +354,11 @@
   links:
     code: https://github.com/Curli-quan/IGU-Aug
     arxiv: https://arxiv.org/abs/2211.07118
+  bibtex: "@article{quan2024igu,\n  title={Igu-aug: Information-guided unsupervised\
+    \ augmentation and pixel-wise contrastive learning for medical image analysis},\n\
+    \  author={Quan, Quan and Yao, Qingsong and Zhu, Heqin and Zhou, Shaohua Kevin},\n\
+    \  journal={IEEE Transactions on Medical Imaging},\n  volume={44},\n  number={1},\n\
+    \  pages={154--164},\n  year={2024},\n  publisher={IEEE}\n}"
 - id: tang2024hyspark
   title: 'Hyspark: Hybrid sparse masking for large scale medical image pre-training'
   authors:
@@ -359,6 +401,12 @@
   links:
     code: https://github.com/FengheTan9/HySparK
     arxiv: https://arxiv.org/abs/2408.05815
+  bibtex: "@inproceedings{tang2024hyspark,\n  title={Hyspark: Hybrid sparse masking\
+    \ for large scale medical image pre-training},\n  author={Tang, Fenghe and Xu,\
+    \ Ronghao and Yao, Qingsong and Fu, Xueming and Quan, Quan and Zhu, Heqin and\
+    \ Liu, Zaiyi and Zhou, Shaohua Kevin},\n  booktitle={International Conference\
+    \ on Medical Image Computing and Computer-Assisted Intervention},\n  pages={330--340},\n\
+    \  year={2024},\n  organization={Springer Nature Switzerland Cham}\n}"
 - id: wang2024six
   title: 'SIX-Net: Spatial-Context Information miX-up for Electrode Landmark Detection'
   authors:
@@ -391,6 +439,12 @@
   venue_type: conference
   url: ''
   links: {}
+  bibtex: "@inproceedings{wang2024six,\n  title={SIX-Net: Spatial-Context Information\
+    \ miX-up for Electrode Landmark Detection},\n  author={Wang, Xinyi and Xu, Zikang\
+    \ and Zhu, Heqin and Yao, Qingsong and Sun, Yiyong and Zhou, Shaohua Kevin},\n\
+    \  booktitle={International Conference on Medical Image Computing and Computer-Assisted\
+    \ Intervention},\n  pages={338--348},\n  year={2024},\n  organization={Springer\
+    \ Nature Switzerland Cham}\n}"
 - id: zhu2023uod
   title: 'Uod: Universal one-shot detection of anatomical landmarks'
   authors:
@@ -423,6 +477,11 @@
     code: https://github.com/heqin-zhu/UOD_universal_oneshot_detection
     arxiv: https://arxiv.org/abs/2306.07615
     poster: https://heqin-zhu.github.io/files/poster/poster_UOD.pdf
+  bibtex: "@inproceedings{zhu2023uod,\n  title={Uod: Universal one-shot detection\
+    \ of anatomical landmarks},\n  author={Zhu, Heqin and Quan, Quan and Yao, Qingsong\
+    \ and Liu, Zaiyi and Zhou, Shaohua Kevin},\n  booktitle={International Conference\
+    \ on Medical Image Computing and Computer-Assisted Intervention},\n  pages={24--34},\n\
+    \  year={2023},\n  organization={Springer Nature Switzerland Cham}\n}"
 - id: quan2023slide
   title: 'Slide-sam: Medical sam meets sliding window'
   authors:
@@ -452,6 +511,10 @@
   url: ''
   links:
     code: https://github.com/Curli-quan/Slide-SAM
+  bibtex: "@article{quan2023slide,\n  title={Slide-sam: Medical sam meets sliding\
+    \ window},\n  author={Quan, Quan and Tang, Fenghe and Xu, Zikang and Zhu, Heqin\
+    \ and Zhou, Shaohua Kevin},\n  journal={arXiv preprint arXiv:2311.10121},\n  year={2023}\n\
+    }"
 - id: zhu2022learning
   title: Learning to Localize Cross-Anatomy Landmarks in X-Ray Images with a Universal
     Model
@@ -479,6 +542,10 @@
   links:
     paper: https://spj.science.org/doi/full/10.34133/2022/9765095
     code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
+  bibtex: "@article{zhu2022learning,\n  title={Learning to Localize Cross-Anatomy\
+    \ Landmarks in X-Ray Images with a Universal Model},\n  author={Zhu, Heqin and\
+    \ Yao, Qingsong and Xiao, Li and Zhou, Shaohua Kevin},\n  journal={BME Frontiers},\n\
+    \  volume={2022},\n  pages={9765095},\n  year={2022}\n}"
 - id: zhu2022datr
   title: 'Datr: Domain-adaptive transformer for multi-domain landmark detection'
   authors:
@@ -499,6 +566,9 @@
   venue_type: preprint
   url: ''
   links: {}
+  bibtex: "@article{zhu2022datr,\n  title={Datr: Domain-adaptive transformer for multi-domain\
+    \ landmark detection},\n  author={Zhu, Heqin and Yao, Qingsong and Zhou, Shaohua\
+    \ Kevin},\n  journal={arXiv preprint arXiv:2203.06433},\n  year={2022}\n}"
 - id: zhu2022dftr
   title: 'DFTR: Depth-supervised hierarchical feature fusion transformer for salient
     object detection'
@@ -532,6 +602,10 @@
   venue_type: preprint
   url: ''
   links: {}
+  bibtex: "@article{zhu2022dftr,\n  title={DFTR: Depth-supervised hierarchical feature\
+    \ fusion transformer for salient object detection},\n  author={Zhu, Heqin and\
+    \ Sun, Xu and Li, Yuexiang and Ma, Kai and Zhou, Shaohua Kevin and Zheng, Yefeng},\n\
+    \  journal={arXiv preprint arXiv:2203.06429},\n  year={2022}\n}"
 - id: yao2022relative
   title: Relative distance matters for one-shot landmark detection
   authors:
@@ -564,6 +638,10 @@
   venue_type: preprint
   url: ''
   links: {}
+  bibtex: "@article{yao2022relative,\n  title={Relative distance matters for one-shot\
+    \ landmark detection},\n  author={Yao, Qingsong and Wang, Jianji and Sun, Yihua\
+    \ and Quan, Quan and Zhu, Heqin and Zhou, Shaohua Kevin},\n  journal={arXiv preprint\
+    \ arXiv:2203.01687},\n  year={2022}\n}"
 - id: zhu2021you
   title: 'You only learn once: Universal anatomical landmark detection'
   authors:
@@ -591,6 +669,11 @@
     paper: https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9
     code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
     arxiv: https://arxiv.org/abs/2103.04657
+  bibtex: "@inproceedings{zhu2021you,\n  title={You only learn once: Universal anatomical\
+    \ landmark detection},\n  author={Zhu, Heqin and Yao, Qingsong and Xiao, Li and\
+    \ Zhou, Shaohua Kevin},\n  booktitle={International conference on medical image\
+    \ computing and computer-assisted intervention},\n  pages={85--95},\n  year={2021},\n\
+    \  organization={Springer International Publishing Cham}\n}"
 - id: liu2021deep
   title: 'Deep learning to segment pelvic bones: large-scale CT datasets and baseline
     models'
@@ -644,6 +727,13 @@
   venue_type: journal
   url: ''
   links: {}
+  bibtex: "@article{liu2021deep,\n  title={Deep learning to segment pelvic bones:\
+    \ large-scale CT datasets and baseline models},\n  author={Liu, Pengbo and Han,\
+    \ Hu and Du, Yuanqi and Zhu, Heqin and Li, Yinhao and Gu, Feng and Xiao, Honghu\
+    \ and Li, Jun and Zhao, Chunpeng and Xiao, Li and Zhou, Shaohua Kevin},\n  journal={International\
+    \ Journal of Computer Assisted Radiology and Surgery},\n  volume={16},\n  number={5},\n\
+    \  pages={749--756},\n  year={2021},\n  publisher={Springer International Publishing\
+    \ Cham}\n}"
 - id: lyu20213
   title: 'A 3 DSegNet: anatomy-aware artifact disentanglement and segmentation network
     for unpaired segmentation, artifact reduction, and modality translation'
@@ -669,3 +759,9 @@
   venue_type: conference
   url: ''
   links: {}
+  bibtex: "@inproceedings{lyu20213,\n  title={A 3 DSegNet: anatomy-aware artifact\
+    \ disentanglement and segmentation network for unpaired segmentation, artifact\
+    \ reduction, and modality translation},\n  author={Lyu, Yuanyuan and Liao, Haofu\
+    \ and Zhu, Heqin and Zhou, Shaohua Kevin},\n  booktitle={International Conference\
+    \ on Information Processing in Medical Imaging},\n  pages={360--372},\n  year={2021},\n\
+    \  organization={Springer International Publishing Cham}\n}"

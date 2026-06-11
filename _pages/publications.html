@@ -78,6 +78,30 @@ markdown: 0
   text-decoration: underline;
 }
 
+.pub-bibtex-btn {
+  display: inline-block;
+  margin-right: 0.6em;
+  cursor: pointer;
+  text-decoration: none;
+  color: #555;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 0 0.4em;
+  font-size: 0.88em;
+  background: #fff;
+  transition: background 0.15s;
+}
+
+.pub-bibtex-btn:hover {
+  background: #e8e8e8;
+  text-decoration: none;
+}
+
+.pub-bibtex-btn.copied {
+  color: #2e8b57;
+  border-color: #2e8b57;
+}
+
 .pub-legend {
   font-size: 0.9em;
   color: #777;
@@ -148,7 +172,7 @@ markdown: 0
       {% endfor %}
     </div>
 
-    {% if pub.links and pub.links.size > 0 %}
+    {% if pub.links and pub.links.size > 0 or pub.bibtex %}
       <div class="pub-links">
         {% if pub.url and pub.url != '' %}
           <a href="{{ pub.url }}">[url]</a>
@@ -177,8 +201,31 @@ markdown: 0
         {% if pub.links.pypi %}
           <a href="{{ pub.links.pypi }}">[PyPI]</a>
         {% endif %}
+        {% if pub.bibtex %}
+          <span class="pub-bibtex-btn" data-copy-id="{{ pub.id }}">BibTeX</span>
+          <pre class="pub-bibtex-raw" id="bibtex-{{ pub.id }}" style="display:none;">{{ pub.bibtex }}</pre>
+        {% endif %}
       </div>
     {% endif %}
 
   </div>
 {% endfor %}
+
+<script>
+document.querySelectorAll('.pub-bibtex-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var id = this.getAttribute('data-copy-id');
+    var bibEl = document.getElementById('bibtex-' + id);
+    if (!bibEl) return;
+    var text = bibEl.textContent;
+    navigator.clipboard.writeText(text).then(function() {
+      btn.textContent = 'Copied!';
+      btn.classList.add('copied');
+      setTimeout(function() {
+        btn.textContent = 'BibTeX';
+        btn.classList.remove('copied');
+      }, 1500);
+    });
+  });
+});
+</script>
