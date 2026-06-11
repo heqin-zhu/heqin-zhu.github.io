@@ -1,4 +1,15 @@
 <script src="/assets/js/main.min.js"></script>
+<script>
+(function() {
+  var host = location.hostname;
+  document.querySelectorAll('a[href]').forEach(function(a) {
+    if (a.hostname && a.hostname !== host) {
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+    }
+  });
+})();
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
