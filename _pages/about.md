@@ -28,10 +28,10 @@ body {
 <!-- 😊 -->
 # About
 - I am a postdoctoral researcher at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). Prior to this, I obtained my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
-- My research centers on AI biology, with focus on fundamental challenges in RNA modeling and molecular design, including:
+- My research centers on AI biology, aiming at understanding biomolecular structures and designing functional molecules, including:
     - Structure and function prediction
     - Multimodal biological foundation model
-    - Unified molecular design
+    - Molecular design and drug discovery
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
 
@@ -41,7 +41,7 @@ body {
 
 <!-- 🔥 -->
 # News
-- 05/2026: &nbsp; Honored to be awarded the **Chinese Academy of Sciences, President's Excellent Award**.
+- 05/2026: &nbsp; Honored to be awarded the **Chinese Academy of Sciences, the President Scholarship**.
 - 03/2026: &nbsp; Honored to be awarded as the **Outstanding Graduate of USTC** and **Anhui Provincial Outstanding Graduate** (Ph.D., Class of 2026).
 - 01/2026: &nbsp; NC-Bench ([bioRxiv](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746), [code](https://github.com/heqin-zhu/NCBench/)) has been accepted by **ICLR 2026**.
 - 08/2025: &nbsp; We release structRFM ([bioRxiv](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731), [code](https://github.com/heqin-zhu/structRFM)), a structure-guided RNA foundation model for structural and functional inference.
@@ -105,7 +105,7 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
-- 2026,      <span style="background: #d6eef8;">President's Excellent Award</span>, CAS
+- 2026,      <span style="background: #d6eef8;">Chinese Academy of Sciences, the President Scholarship</span>, CAS
 - 2026,      <span style="background: #d6eef8;">Provincial Outstanding Graduate (Ph.D., Class of 2026)</span>, Anhui Province
 - 2026,      Outstanding Graduate (Ph.D., Class of 2026), USTC
 - 2025,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students</span>, Chinese Ministry of Education
