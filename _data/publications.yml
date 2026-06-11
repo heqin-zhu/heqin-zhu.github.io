@@ -35,6 +35,7 @@
   venue_type: conference
   url: ''
   links:
+    bioRxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
     code: https://github.com/heqin-zhu/NCBench
     page: https://heqin-zhu.github.io/NCBench/
     poster: https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf
@@ -44,7 +45,7 @@
   authors:
   - name: Heqin Zhu
     highlight: true
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Fenghe Tang
     highlight: false
@@ -71,6 +72,7 @@
   venue_type: journal
   url: ''
   links:
+    paper: https://www.nature.com/articles/s41467-025-60048-1
     code: https://github.com/heqin-zhu/BPfold
     pypi: https://pypi.org/project/BPfold/
     poster: https://heqin-zhu.github.io/files/poster/poster_BPfold.pdf
@@ -128,6 +130,7 @@
   venue_type: preprint
   url: ''
   links:
+    bioRxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
     code: https://github.com/heqin-zhu/structRFM
     pypi: https://pypi.org/project/structRFM/
 - id: zhang2025ireseek
@@ -167,13 +170,14 @@
   venue_type: journal
   url: ''
   links:
+    paper: https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf
     code: https://github.com/f-zhangf/IRESeek
 - id: tang2025u
   title: 'U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking'
   authors:
   - name: Fenghe Tang
     highlight: false
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Chengqi Dong
     highlight: false
@@ -210,7 +214,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2025
   venue: arXiv preprint arXiv:2510.07041
   venue_type: preprint
@@ -251,7 +255,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2024
   venue: IJCARS
   venue_type: journal
@@ -279,7 +283,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2024
   venue: Medical Image Analysis
   venue_type: journal
@@ -305,7 +309,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2024
   venue: IEEE Transactions on Medical Imaging
   venue_type: journal
@@ -318,7 +322,7 @@
   authors:
   - name: Fenghe Tang
     highlight: false
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Ronghao Xu
     highlight: false
@@ -347,7 +351,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2024
   venue: MICCAI
   venue_type: conference
@@ -360,7 +364,7 @@
   authors:
   - name: Xinyi Wang
     highlight: false
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Zikang Xu
     highlight: false
@@ -381,7 +385,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2024
   venue: MICCAI
   venue_type: conference
@@ -392,7 +396,7 @@
   authors:
   - name: Heqin Zhu
     highlight: true
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Quan Quan
     highlight: false
@@ -409,12 +413,13 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2023
   venue: MICCAI
   venue_type: conference
   url: ''
   links:
+    paper: https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3
     code: https://github.com/heqin-zhu/UOD_universal_oneshot_detection
     arxiv: https://arxiv.org/abs/2306.07615
     poster: https://heqin-zhu.github.io/files/poster/poster_UOD.pdf
@@ -440,7 +445,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2023
   venue: MIDL
   venue_type: conference
@@ -453,7 +458,7 @@
   authors:
   - name: Heqin Zhu
     highlight: true
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Qingsong Yao
     highlight: false
@@ -466,19 +471,20 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2022
   venue: BME Frontiers
   venue_type: journal
   url: ''
   links:
+    paper: https://spj.science.org/doi/full/10.34133/2022/9765095
     code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
 - id: zhu2022datr
   title: 'Datr: Domain-adaptive transformer for multi-domain landmark detection'
   authors:
   - name: Heqin Zhu
     highlight: true
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Qingsong Yao
     highlight: false
@@ -487,7 +493,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2022
   venue: arXiv preprint arXiv:2203.06433
   venue_type: preprint
@@ -499,7 +505,7 @@
   authors:
   - name: Heqin Zhu
     highlight: true
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Xu Sun
     highlight: false
@@ -531,7 +537,7 @@
   authors:
   - name: Qingsong Yao
     highlight: false
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Jianji Wang
     highlight: false
@@ -552,7 +558,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2022
   venue: arXiv preprint arXiv:2203.01687
   venue_type: preprint
@@ -563,7 +569,7 @@
   authors:
   - name: Heqin Zhu
     highlight: true
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Qingsong Yao
     highlight: false
@@ -576,12 +582,13 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2021
   venue: MICCAI
   venue_type: conference
   url: ''
   links:
+    paper: https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9
     code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
     arxiv: https://arxiv.org/abs/2103.04657
 - id: liu2021deep
@@ -590,7 +597,7 @@
   authors:
   - name: Pengbo Liu
     highlight: false
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Hu Han
     highlight: false
@@ -631,7 +638,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2021
   venue: IJCARS
   venue_type: journal
@@ -643,7 +650,7 @@
   authors:
   - name: Yuanyuan Lyu
     highlight: false
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Haofu Liao
     highlight: false
@@ -656,7 +663,7 @@
   - name: Shaohua Kevin Zhou
     highlight: false
     first_author: false
-    corresponding: true
+    corresponding: false
   year: 2021
   venue: IPMI
   venue_type: conference

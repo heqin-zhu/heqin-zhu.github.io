@@ -102,12 +102,9 @@ def parse_authors_bib(entry: dict) -> list:
                 "first_author": False,
                 "corresponding": False,
             })
-    ## add default first author, corresonding author
-    print('before', authors[0])
-    authors[0]['first_author'] = True
-    print('after', authors[0])
-    authors[0]['first_author'] = True
-    authors[-1]['corresponding'] = True
+    ## no nedd to explicitly mark first author, corresonding author
+    # authors[0]['first_author'] = True
+    # authors[-1]['corresponding'] = True
     return authors
 
 

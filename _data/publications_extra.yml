@@ -20,6 +20,7 @@ zhu2025fully:
       corresponding: true
   venue_short: "Nature portfolio, Under Revision"
   links:
+    bioRxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
     code: "https://github.com/heqin-zhu/structRFM"
     pypi: "https://pypi.org/project/structRFM/"
 
@@ -41,6 +42,7 @@ NCfold:
       corresponding: true
   venue_short: "ICLR"
   links:
+    bioRxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
     code: "https://github.com/heqin-zhu/NCBench"
     page: "https://heqin-zhu.github.io/NCBench/"
     poster: "https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf"
@@ -58,6 +60,7 @@ zhu2025deep:
       corresponding: true
   venue_short: "Nature Communications"
   links:
+    paper: https://www.nature.com/articles/s41467-025-60048-1
     code: "https://github.com/heqin-zhu/BPfold"
     pypi: "https://pypi.org/project/BPfold/"
     poster: "https://heqin-zhu.github.io/files/poster/poster_BPfold.pdf"
@@ -80,6 +83,7 @@ zhang2025ireseek:
       corresponding: true
   venue_short: "NAR Genomics and Bioinformatics"
   links:
+    paper: https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf
     code: "https://github.com/f-zhangf/IRESeek"
 
 # Universal Model & Domain Adaptation
@@ -93,6 +97,7 @@ zhu2023uod:
     - name: "Shaohua Kevin Zhou"
   venue_short: "MICCAI"
   links:
+    paper: https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3
     code: "https://github.com/heqin-zhu/UOD_universal_oneshot_detection"
     arxiv: "https://arxiv.org/abs/2306.07615"
     poster: "https://heqin-zhu.github.io/files/poster/poster_UOD.pdf"
@@ -106,6 +111,7 @@ zhu2022learning:
     - name: "Shaohua Kevin Zhou"
   venue_short: "BME Frontiers"
   links:
+    paper: https://spj.science.org/doi/full/10.34133/2022/9765095
     code: "https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection"
 
 zhu2021you:
@@ -117,6 +123,7 @@ zhu2021you:
     - name: "Shaohua Kevin Zhou"
   venue_short: "MICCAI"
   links:
+    paper: https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9
     code: "https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection"
     arxiv: "https://arxiv.org/abs/2103.04657"
 
