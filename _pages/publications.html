@@ -2,7 +2,11 @@
 permalink: /publications/
 title: "Publications"
 author_profile: true
+markdown: 0
 ---
+
+<h1 id="publications">Publications</h1>
+<p>(<code>#</code>: equal contribution, <code>*</code>: corresponding author. Full list | <a href="https://scholar.google.com/citations?user=YkfSFekAAAAJ">Google Scholar</a>)</p>
 
 <style>
 .pub-year {
@@ -80,17 +84,7 @@ author_profile: true
   margin-bottom: 1.5em;
   font-style: italic;
 }
-</style>
 
-# Publications
-(`#`: equal contribution, `*`: corresponding author. Full list | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
-
-<div class="pub-legend">
-  <span class="pub-legend-badge-pub"></span> Published &nbsp;&nbsp;
-  <span class="pub-legend-badge-pre"></span> Preprint
-</div>
-
-<style>
 .pub-legend-badge-pub {
   display: inline-block;
   width: 12px;
@@ -99,6 +93,7 @@ author_profile: true
   border-radius: 3px;
   vertical-align: middle;
 }
+
 .pub-legend-badge-pre {
   display: inline-block;
   width: 12px;
@@ -108,6 +103,11 @@ author_profile: true
   vertical-align: middle;
 }
 </style>
+
+<div class="pub-legend">
+  <span class="pub-legend-badge-pub"></span> Published &nbsp;&nbsp;
+  <span class="pub-legend-badge-pre"></span> Preprint
+</div>
 
 {% assign current_year = nil %}
 {% for pub in site.data.publications %}
