@@ -102,7 +102,8 @@ def parse_authors_bib(entry: dict) -> list:
                 "first_author": False,
                 "corresponding": False,
             })
-    ## no nedd to explicitly mark first author, corresonding author
+    ## no need to explicitly mark first author, corresonding author
+    ## will default 
     # authors[0]['first_author'] = True
     # authors[-1]['corresponding'] = True
     return authors

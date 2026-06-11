@@ -20,7 +20,7 @@ zhu2025fully:
       corresponding: true
   venue_short: "Nature portfolio, Under Revision"
   links:
-    bioRxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
+    biorxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
     code: "https://github.com/heqin-zhu/structRFM"
     pypi: "https://pypi.org/project/structRFM/"
 
@@ -42,7 +42,7 @@ NCfold:
       corresponding: true
   venue_short: "ICLR"
   links:
-    bioRxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
+    biorxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
     code: "https://github.com/heqin-zhu/NCBench"
     page: "https://heqin-zhu.github.io/NCBench/"
     poster: "https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf"

@@ -151,7 +151,16 @@ markdown: 0
     {% if pub.links and pub.links.size > 0 %}
       <div class="pub-links">
         {% if pub.url and pub.url != '' %}
-          <a href="{{ pub.url }}">[paper]</a>
+          <a href="{{ pub.url }}">[url]</a>
+        {% endif %}
+        {% if pub.links.paper %}
+          <a href="{{ pub.links.paper }}">[paper]</a>
+        {% endif %}
+        {% if pub.links.biorxiv %}
+          <a href="{{ pub.links.biorxiv }}">[bioRxiv]</a>
+        {% endif %}
+        {% if pub.links.arxiv %}
+          <a href="{{ pub.links.arxiv }}">[arXiv]</a>
         {% endif %}
         {% if pub.links.code %}
           <a href="{{ pub.links.code }}">[code]</a>
@@ -167,9 +176,6 @@ markdown: 0
         {% endif %}
         {% if pub.links.pypi %}
           <a href="{{ pub.links.pypi }}">[PyPI]</a>
-        {% endif %}
-        {% if pub.links.arxiv %}
-          <a href="{{ pub.links.arxiv }}">[arXiv]</a>
         {% endif %}
       </div>
     {% endif %}
