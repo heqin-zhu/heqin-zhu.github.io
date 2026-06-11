@@ -22,7 +22,7 @@ baidu_site_verification  :  # https://ziyuan.baidu.com/login/index?u=/site/index
 # Site Author
 author:
   name             : "Heqin Zhu (朱河勤)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "/images/android-chrome-512x512.png"
   bio              : "Postdoc researcher at The Chinese University of Hong Kong"
   location         : 
   employer         :
