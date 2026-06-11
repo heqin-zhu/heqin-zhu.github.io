@@ -50,7 +50,7 @@ body {
 
 <!-- 📝 -->
 # Publications
-(`#`: equal contribution, `*`: corresponding author. Selected publications | [Full list]({{ "/publications/" | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
+(`#`: equal contribution, `*`: corresponding author. Selected publications | [Publication List]({{ "/publications/" | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### RNA Foundation Model
 - ![citations](https://img.shields.io/badge/Nature portfolio, Under Revision-2025-blue) [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)\
