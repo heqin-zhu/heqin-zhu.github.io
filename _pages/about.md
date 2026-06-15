@@ -148,9 +148,9 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
     - `06/15/2026, virtual`, MSD R&D China Innovation Collaboration Center (MCICC)
     - `12/2025, Suzhou, China`, USTC Course on Digital Healthcare Technology and Applications
 - Structure-guided RNA foundation model for structure and function prediction. [PDF](https://drive.google.com/file/d/1GwcMXkvG2NWeoQZ6Ffdk2-hl0UYRI11e/view?usp=drive_link)
-    - `06/13/2026, Hefei, China`, The 7th USTC Academic Forum for Engineering Graduate Students & the "Dechuang · Jingjian Innovation" Doctoral Academic Forum. (<span style="background: #d6eef8;">Outstanding Academic Presentation Award, 1st of 10<\span>). (中国科学技术大学第七届工程类研究生学术论坛暨“德创·精尖创新”博士生学术论坛)
+    - `06/13/2026, Hefei, China`, The 7th USTC Academic Forum for Engineering Graduate Students & the "Dechuang · Jingjian Innovation" Doctoral Academic Forum. **Outstanding Academic Presentation Award, 1st of 10**. (中国科学技术大学第七届工程类研究生学术论坛暨“德创·精尖创新”博士生学术论坛)
 - Deep generalizable prediction of RNA secondary structure via base pair motif energy. [PDF](https://drive.google.com/file/d/1EwHkc_pSy8g_a-EfnSeNarQLaKr1bSVJ/view?usp=drive_link)
-    - `05/2025, Changchun, China`, The 3rd National Conference on Biomolecular Structure Prediction and Simulation. (<span style="background: #d6eef8;">Outstanding Academic Presentation Award, 2nd of 12<\span>) (第三届全国生物分子结构预测与模拟学术会议)
+    - `05/2025, Changchun, China`, The 3rd National Conference on Biomolecular Structure Prediction and Simulation. **Outstanding Academic Presentation Award, 2nd of 12**. (第三届全国生物分子结构预测与模拟学术会议)
 
 <p align="center">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM'></script>
