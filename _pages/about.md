@@ -29,9 +29,9 @@ body {
 # About
 - I am a postdoctoral researcher at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). Prior to this, I obtained my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
 - My research centers on AI biology, aiming at understanding biomolecular structures and designing functional molecules, including:
-    - Structure and function prediction
-    - Multimodal biological foundation model
     - Molecular design and drug discovery
+    - Multimodal biological foundation model
+    - Structure and function prediction
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
 
@@ -105,12 +105,12 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 🎖 -->
 # Honors and Awards
-- 2026,      <span style="background: #d6eef8;">Chinese Academy of Sciences, the President Scholarship</span>, CAS
-- 2026,      <span style="background: #d6eef8;">Provincial Outstanding Graduate (Ph.D., Class of 2026)</span>, Anhui Province
-- 2026,      Outstanding Graduate (Ph.D., Class of 2026), USTC
-- 2025,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students</span>, Chinese Ministry of Education
-- 2025,      Suzhou Industrial Park Scholarship, USTC
-- 2020-2025, Graduate Academic Scholarship, UCAS & ICT & USTC
+- 2026,      <span style="background: #d6eef8;">Chinese Academy of Sciences, the President Scholarship</span>, CAS. (中科院院长奖)
+- 2026,      <span style="background: #d6eef8;">Provincial Outstanding Graduate (Ph.D., Class of 2026)</span>, Anhui Province. (安徽省优秀毕业生)
+- 2026,      Outstanding Graduate (Ph.D., Class of 2026), USTC. (中国科大优秀毕业生)
+- 2025,      <span style="background: #d6eef8;">National Scholarship for Doctoral Students</span>, Chinese Ministry of Education. (国家奖学金)
+- 2025,      Suzhou Industrial Park Scholarship, USTC.
+- 2020-2025, Graduate Academic Scholarship, UCAS & ICT & USTC.
 - 2023,      Merit Student Award, UCAS & ICT
 - 2018-2019, Outstanding Student Award, USTC
 - 2017,      Institute of Chemistry Excellence Scholarship, USTC
@@ -144,12 +144,13 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 
 <!-- 💬 -->
 # Invited Talks
-- Structure-centric AI for RNA modeling
-    - 12/2025, Course on Digital Healthcare Technology and Applications, USTC
-- Deep generalizable prediction of RNA secondary structure via base pair motif energy
-    - 05/2025, The 3rd National Conference on Biomolecular Structure Prediction and Simulation.
-- Universal one-shot detection of anatomical landmarks
-    - 03/2023, Academic Forum for Graduates, Institute of Computing Technology.
+- Multimodal AI for RNA modeling and foundation model. [PDF](https://drive.google.com/file/d/16laF0kUIORmZ304UHG__2s6GrmQxcW2i/view?usp=drive_link)
+    - `06/15/2026, virtual`, MSD R&D China Innovation Collaboration Center (MCICC)
+    - `12/2025, Suzhou, China`, USTC Course on Digital Healthcare Technology and Applications
+- Structure-guided RNA foundation model for structure and function prediction. [PDF](https://drive.google.com/file/d/1GwcMXkvG2NWeoQZ6Ffdk2-hl0UYRI11e/view?usp=drive_link)
+    - `06/13/2026, Hefei, China`, The 7th USTC Academic Forum for Engineering Graduate Students & the "Dechuang · Jingjian Innovation" Doctoral Academic Forum. (<span style="background: #d6eef8;">Outstanding Academic Presentation Award, 1st of 10<\span>). (中国科学技术大学第七届工程类研究生学术论坛暨“德创·精尖创新”博士生学术论坛)
+- Deep generalizable prediction of RNA secondary structure via base pair motif energy. [PDF](https://drive.google.com/file/d/1EwHkc_pSy8g_a-EfnSeNarQLaKr1bSVJ/view?usp=drive_link)
+    - `05/2025, Changchun, China`, The 3rd National Conference on Biomolecular Structure Prediction and Simulation. (<span style="background: #d6eef8;">Outstanding Academic Presentation Award, 2nd of 12<\span>) (第三届全国生物分子结构预测与模拟学术会议)
 
 <p align="center">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM'></script>
