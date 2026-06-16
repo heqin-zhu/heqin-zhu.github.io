@@ -153,8 +153,9 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
     - `05/2025, Changchun, China`, The 3rd National Conference on Biomolecular Structure Prediction and Simulation. **Outstanding Academic Presentation Award, 2nd of 12**. (第三届全国生物分子结构预测与模拟学术会议)
 
 <p align="center">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM'></script>
 <!--
-<a href="https://clustrmaps.com/site/1bkj0" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=400&am=a&amp;t=tt&amp;d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM" /></a>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=992IAWD7g6r1Ya3gj3e6t3ISMIm1kbTwnJlKi30MVnE&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=023YIyttHQR8s08hPoPU7sutWj4yjTkXupp7BXqCOjM'></script>
 -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=992IAWD7g6r1Ya3gj3e6t3ISMIm1kbTwnJlKi30MVnE&cl=ffffff&w=400"></script>
 </p>
