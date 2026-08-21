@@ -44,6 +44,75 @@
     \ and Li, Ruifeng and Chang, Ao and Li, Mingqian and Chen, Hongyang and Xiong,\
     \ Peng and Zhou, Shaohua Kevin},\n  year={2026},\n  booktitle={The Fourteenth\
     \ International Conference on Learning Representations}\n}"
+- id: zhu_nacraft_2026
+  title: 'NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model
+    feedback'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Jiaqi Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Weibo Zhao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yuzhi Xu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Huang Su
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Jianmin Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Qianhan Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yuntao Yu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ziyi You
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Gang Du
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Pheng Ann Heng
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Liqin Zhang
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Odin Zhang
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2026
+  venue: bioRxiv
+  venue_type: preprint
+  url: https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087
+  links: {}
+  bibtex: "@article{zhu_nacraft_2026,\n        title = {{NACraft}: {Programmatic}\
+    \ nucleic-acid aptamer design via all-atom structure-model feedback},\n      \
+    \  author = {Zhu, Heqin and Wang, Jiaqi and Zhao, Weibo and Xu, Yuzhi and Su,\
+    \ Huang and Wang, Jianmin and Wang, Qianhan and Yu, Yuntao and You, Ziyi and Du,\
+    \ Gang and Heng, Pheng Ann and Zhang, Liqin and Zhang, Odin},\n        journal\
+    \ = {bioRxiv},\n        year = {2026},\n        publisher = {Cold Spring Harbor\
+    \ Laboratory},\n        url = {https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087},\n\
+    \        doi = {10.64898/2026.08.15.744087},\n}"
 - id: zhu2025deep
   title: Deep generalizable prediction of RNA secondary structure via base pair motif
     energy

@@ -276,3 +276,13 @@ tang2025u:
     - name: "Yuhao Wang"
     - name: "Chenxu Wu"
     - name: "Shaohua Kevin Zhou"
+zhu_nacraft_2026:
+  authors_annotation:
+    - name: Heqin Zhu
+      highlight: true
+    - name: Pheng Ann Heng
+      corresponding: true
+    - name: Liqin Zhang
+      corresponding: true
+    - name: Odin Zhang
+      corresponding: true
