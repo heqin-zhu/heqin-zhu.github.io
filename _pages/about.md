@@ -55,7 +55,7 @@ body {
 (`#`: equal contribution, `*`: corresponding author. Selected publications | [Publication List]({{ "/publications/" | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### Molecular Design
-- ![citations](https://img.shields.io/badge/Nature portfolio, Under Revision-2025-blue) [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087)\
+- ![citations](https://img.shields.io/badge/bioRxiv-2026-blue) [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087)\
 **Heqin Zhu**, Jiaqi Wang, Weibo Zhao, Yuzhi Xu, Huang Su, Jianmin Wang, Qinghan Wang, Yuntao Yu, Ziyi You, Gang Du, Pheng Ann Heng\*, Liqin Zhang\*, Odin Zhang\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/OTeam-AI4S/NACraft.svg?label=Stars&style=social)](https://github.com/OTeam-AI4S/NACraft)[[code](https://github.com/OTeam-AI4S/NACraft)]
 
 ### Biological Foundation Model
