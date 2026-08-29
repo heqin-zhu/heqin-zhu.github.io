@@ -37,7 +37,7 @@ body {
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
 
 <!-- 
-- **<font color="#ff0000">I am actively seeking postdoctoral or research position starting in July 2026.</font>** Here is my [CV](files/CV/CV_Heqin_Zhu.pdf) ([中文简历](files/CV/简历-朱河勤-中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
+- **<font color="#ff0000">I am actively seeking postdoctoral or research position starting in July 2026.</font>** Here is my [CV](files/CV/ZHU_Heqin_CV.pdf) ([中文简历](files/CV/朱河勤_中国科学技术大学.pdf)) for your reference. I would appreciate it if you would consider me for an opportunity.
 -->
 
 <!-- 🔥 -->
