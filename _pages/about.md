@@ -28,11 +28,14 @@ body {
 <!-- 😊 -->
 # About
 <!--
-- I am a postdoctoral researcher at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). Prior to this, -->I obtained my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
+- I am a postdoctoral researcher at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). Prior to this, -->
+- I will soon join the Department of Computer Science and Engineering, The Chinese University of Hong Kong as an incoming postdoctoral researcher, working with [Prof. Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ). Previously,  I received my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
 - My research centers on AI biology, aiming at understanding biomolecular structures and designing functional molecules, including:
     - Molecular design and drug discovery
+    - Molecular Interaction and Scoring
     - Multimodal biological foundation model
     - Structure and function prediction
+    - Recursive self-improvement
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
 
@@ -54,23 +57,25 @@ body {
 # Publications
 (`#`: equal contribution, `*`: corresponding author. Selected publications | [Publication List]({{ "/publications/" | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
+### Biological Foundation Model
+- ![citations](https://img.shields.io/badge/Nature, Accepted-2026-blue) [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)\
+**Heqin Zhu**, Ruifeng Li, Ao Chang, Haobin Chen, Feng Zhang, Fenghe Tang, Tong Ye, Xin Li, Yunjie Gu, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
+
 ### Molecular Design
 - ![citations](https://img.shields.io/badge/bioRxiv-2026-blue) [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087)\
 **Heqin Zhu**, Jiaqi Wang, Weibo Zhao, Yuzhi Xu, Huang Su, Jianmin Wang, Qinghan Wang, Yuntao Yu, Ziyi You, Gang Du, Pheng Ann Heng\*, Liqin Zhang\*, Odin Zhang\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/OTeam-AI4S/NACraft.svg?label=Stars&style=social)](https://github.com/OTeam-AI4S/NACraft)[[code](https://github.com/OTeam-AI4S/NACraft)]
 
-### Biological Foundation Model
-- ![citations](https://img.shields.io/badge/Nature portfolio, Under Revision-2025-blue) [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)\
-**Heqin Zhu**, Ruifeng Li, Ao Chang, Haobin Chen, Feng Zhang, Fenghe Tang, Tong Ye, Xin Li, Yunjie Gu, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
+### Molecular Interaction and Scoring
+- ![citations](https://img.shields.io/badge/bioRxiv-2026-blue) [ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound Interaction Prediction and Binding-Site Localization](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)\
+Ao Chang\#, **Heqin Zhu**\#, Haobin Chen, Chenxi Wang, Xin Wang, Xiaoyu Zeng, Yilin Ding, Peng Xiong\*, Shaohua Kevin Zhou\* &nbsp;&nbsp;[![bioRxiv](https://img.shields.io/badge/bioRxiv-white.svg?style=flat)](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)
 
-### RNA Structure Prediction
+### Structure and Function Prediction
 - ![citations](https://img.shields.io/badge/ICLR-2026-blue) [NC-Bench and NCfold for RNA non-canonical base pair prediction](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746)\
 **Heqin Zhu\#**, Ruifeng Li\#, Ao Chang, Mingqian Li, Hongyang Chen\*, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/NCBench.svg?label=Stars&style=social)](https://github.com/heqin-zhu/NCBench)[[code](https://github.com/heqin-zhu/NCBench)][[page](https://heqin-zhu.github.io/NCBench/)][[poster](https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf)]
-
 
 - ![citations](https://img.shields.io/badge/Nature Communications-2025-blue) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1)\
 **Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[PyPI](https://pypi.org/project/BPfold/)][[poster](files/poster/poster_BPfold.pdf)][[poster2](files/poster/poster_BPfold_2.jpg)]
 
-### RNA Function Prediction
 - ![citations](https://img.shields.io/badge/NAR Genomics and Bioinformatics-2025-blue) [IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs](https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf)\
 Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, Shaohua Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
 
@@ -83,6 +88,7 @@ Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, Shaohua Kevin Zhou\*
 **Heqin Zhu**, Qingsong Yao, Li Xiao, Shaohua Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2103.04657-white.svg?style=flat)](https://arxiv.org/abs/2103.04657)[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)]
 
 
+<!--
 ### Unsupervised & Self-supervised & Few-shot learning
 - ![citations](https://img.shields.io/badge/Medical Image Analysis-2024-blue) [Which images to label for few-shot medical image analysis?](https://www.sciencedirect.com/science/article/pii/S1361841524001257)\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, Qiyuan Wang, Shaohua Kevin Zhou &nbsp;&nbsp;[[code](https://github.com/Curli-quan/SCP_SampleChoicePolicy)]
@@ -93,20 +99,25 @@ Quan Quan\#, Fenghe Tang\#, Zikang Xu, **Heqin Zhu**, Shaohua Kevin Zhou &nbsp;&
 - ![citations](https://img.shields.io/badge/MICCAI-2024-blue) [Hyspark: Hybrid sparse masking for large scale medical image pre-training](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_31)\
 Fenghe Tang, Ronghao Xu, Qingsong Yao, Xueming Fu, Quan Quan, **Heqin Zhu**, Zaiyi Liu, Shaohua Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2408.05815-white.svg?style=flat)](https://arxiv.org/abs/2408.05815)[![](https://img.shields.io/github/stars/FengheTan9/HySpark.svg?label=Stars&style=social)](https://github.com/FengheTan9/HySpark)[[code](https://github.com/FengheTan9/HySparK)]
 
-<!--
-### Misc
-- ![citations](https://img.shields.io/badge/IJCARS-2024-blue) **PELE scores: pelvic X-ray landmark detection with pelvis extraction and enhancement**.\
-Zhen Huang\#, Han Li\#, Shitong Shao, **Heqin Zhu**, Huijie Hu, Zhiwei Cheng, Jianji Wang, Shaohua Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/ECNUACRush/PELEscores.svg?label=Stars&style=social)](https://github.com/ECNUACRush/PELEscores)[[code](https://github.com/ECNUACRush/PELEscores)][[paper](https://link.springer.com/article/10.1007/s11548-024-03089-z)]
-- ![citations](https://img.shields.io/badge/arXiv-2022-blue) **DFTR: Depth-supervised hierarchical feature fusion transformer for salient object detection**.\
-**Heqin Zhu**, Xu Sun, Yuexiang Li, Kai Ma, Shaohua Kevin Zhou\*, Yefeng Zheng\*&nbsp;&nbsp;[[code](https://github.com/heqin-zhu/DFTR)][[arXiv](https://arxiv.org/abs/2203.06429)]
-- ![citations](https://img.shields.io/badge/IJCARS-2021-blue) **Deep learning to segment pelvic bones: large-scale CT datasets and baseline models**.\
-Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, Jun Li, Chunpeng Zhao, Li Xiao, Xinbao Wu, Shaohua Kevin Zhou &nbsp;&nbsp;![](https://img.shields.io/github/stars/MIRACLE-Center/CTPelvic1K.svg?label=Stars&style=social)[[link](https://github.com/ICT-MIRACLE-lab/CTPelvic1K)][[paper](https://link.springer.com/article/10.1007/s11548-021-02363-8)][[arXiv](https://arxiv.org/abs/2012.08721)]
 -->
-
 
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/heqin-zhu)](https://github.com/heqin-zhu)
 [![GitHub followers](https://img.shields.io/github/starts/heqin-zhu)](https://github.com/heqin-zhu)
+-->
+
+<!-- 📖 -->
+# Educations
+- 09/2023 - 06/2026, Ph.D. of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
+- 09/2020 - 06/2023, Master of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS) & Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), CAS, Beijing, China
+- 09/2016 - 06/2020, Bachelor of Computer Science and Technology, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
+  - <span style="background: #d6eef8;">Hua Xia Talent Program in Computer Science and Technology</span>
+
+<!-- 💻 -->
+# Work Experiences
+- 07/2021 - 11/2021, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
+<!--
+- 09/2019 - 04/2020, Research Intern, Z2sky, Suzhou, China
 -->
 
 <!-- 🎖 -->
@@ -121,17 +132,15 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
 - 2018-2019, Outstanding Student Award, USTC
 - 2017,      Institute of Chemistry Excellence Scholarship, USTC
 
-<!-- 📖 -->
-# Educations
-- 09/2023 - 06/2026, Ph.D. of Biomedical Engineering, Suzhou Institute for Advanced Research, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Suzhou, China
-- 09/2020 - 06/2023, Master of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS) & Institute of Computing Technology ([ICT](http://english.ict.cas.cn/)), CAS, Beijing, China
-- 09/2016 - 06/2020, Bachelor of Computer Science and Technology, University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)), Hefei, China
-  - <span style="background: #d6eef8;">Hua Xia Talent Program in Computer Science and Technology</span>
-
-<!-- 💻 -->
-# Work Experiences
-- 07/2021 - 11/2021, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
-- 09/2019 - 04/2020, Research Intern, Z2sky, Suzhou, China
+<!-- 💬 -->
+# Invited Talks
+- Multimodal AI for RNA modeling and foundation model. [PDF](https://drive.google.com/file/d/16laF0kUIORmZ304UHG__2s6GrmQxcW2i/view?usp=sharing)
+    - `06/15/2026, virtual`, MSD R&D China Innovation Collaboration Center (MCICC)
+    - `12/2025, Suzhou, China`, USTC Course on Digital Healthcare Technology and Applications
+- Structure-guided RNA foundation model for structure and function prediction. [PDF](https://drive.google.com/file/d/1GwcMXkvG2NWeoQZ6Ffdk2-hl0UYRI11e/view?usp=sharing)
+    - `06/13/2026, Hefei, China`, The 7th USTC Academic Forum for Engineering Graduate Students & the "Dechuang · Jingjian Innovation" Doctoral Academic Forum. **Outstanding Academic Presentation Award, 1st of 10**. (中国科学技术大学第七届工程类研究生学术论坛暨“德创·精尖创新”博士生学术论坛)
+- Deep generalizable prediction of RNA secondary structure via base pair motif energy. [PDF](https://drive.google.com/file/d/1EwHkc_pSy8g_a-EfnSeNarQLaKr1bSVJ/view?usp=sharing)
+    - `05/2025, Changchun, China`, The 3rd National Conference on Biomolecular Structure Prediction and Simulation. **Outstanding Academic Presentation Award, 2nd of 12**. (第三届全国生物分子结构预测与模拟学术会议)
 
 # Professional Services
 - *Journal Reviewers*
@@ -148,15 +157,6 @@ Pengbo Liu, Hu Han, Yuanqi Du, **Heqin Zhu**, Yinhao Li, Feng Gu, Honghu Xiao, J
     - 2024, Volunteer: Medical Augmented Reality Summer School, Suzhou
     - 2023, Volunteer: Dushu Lake Forum Dushu Lake Symposium on Medical lmage Computing, Suzhou
 
-<!-- 💬 -->
-# Invited Talks
-- Multimodal AI for RNA modeling and foundation model. [PDF](https://drive.google.com/file/d/16laF0kUIORmZ304UHG__2s6GrmQxcW2i/view?usp=sharing)
-    - `06/15/2026, virtual`, MSD R&D China Innovation Collaboration Center (MCICC)
-    - `12/2025, Suzhou, China`, USTC Course on Digital Healthcare Technology and Applications
-- Structure-guided RNA foundation model for structure and function prediction. [PDF](https://drive.google.com/file/d/1GwcMXkvG2NWeoQZ6Ffdk2-hl0UYRI11e/view?usp=sharing)
-    - `06/13/2026, Hefei, China`, The 7th USTC Academic Forum for Engineering Graduate Students & the "Dechuang · Jingjian Innovation" Doctoral Academic Forum. **Outstanding Academic Presentation Award, 1st of 10**. (中国科学技术大学第七届工程类研究生学术论坛暨“德创·精尖创新”博士生学术论坛)
-- Deep generalizable prediction of RNA secondary structure via base pair motif energy. [PDF](https://drive.google.com/file/d/1EwHkc_pSy8g_a-EfnSeNarQLaKr1bSVJ/view?usp=sharing)
-    - `05/2025, Changchun, China`, The 3rd National Conference on Biomolecular Structure Prediction and Simulation. **Outstanding Academic Presentation Award, 2nd of 12**. (第三届全国生物分子结构预测与模拟学术会议)
 
 <p align="center">
 <!--

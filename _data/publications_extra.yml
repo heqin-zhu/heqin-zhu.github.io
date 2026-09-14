@@ -18,7 +18,7 @@ zhu2025fully:
       corresponding: true
     - name: "Shaohua Kevin Zhou"
       corresponding: true
-  venue_short: "Nature portfolio, Under Revision"
+  venue_short: "Nature"
   links:
     biorxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
     code: "https://github.com/heqin-zhu/structRFM"
@@ -285,4 +285,15 @@ zhu_nacraft_2026:
     - name: Liqin Zhang
       corresponding: true
     - name: Odin Zhang
+      corresponding: true
+chang2026retif:
+  authors_annotation:
+    - name: Heqin Zhu
+      highlight: true
+      first_author: true
+    - name: Ao Chang
+      first_author: true
+    - name: Peng Xiong
+      corresponding: true
+    - name: Shaohua Kevin Zhou
       corresponding: true
