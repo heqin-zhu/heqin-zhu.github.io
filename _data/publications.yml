@@ -119,11 +119,11 @@
   authors:
   - name: Yiling Zhou
     highlight: false
-    first_author: false
+    first_author: true
     corresponding: false
   - name: Yilin Wang
     highlight: false
-    first_author: false
+    first_author: true
     corresponding: false
   - name: Jianmin Wang
     highlight: false
@@ -148,40 +148,41 @@
   - name: Jiaqi Wang
     highlight: false
     first_author: false
-    corresponding: false
+    corresponding: true
   - name: Yuzhi Xu
     highlight: false
     first_author: false
-    corresponding: false
+    corresponding: true
   - name: Tingjun Hou
     highlight: false
     first_author: false
-    corresponding: false
+    corresponding: true
   - name: Odin Zhang
     highlight: false
     first_author: false
-    corresponding: false
+    corresponding: true
   year: 2026
-  venue: ''
-  venue_type: journal
+  venue: arXiv
+  venue_type: preprint
   url: https://arxiv.org/abs/2609.10121
   links: {}
-  bibtex: "@misc{admet_evo,\n      title={ADMET-EvO: a self-evolving scientific agent\
-    \ for sustained research across heterogeneous tasks}, \n      author={Yiling Zhou\
-    \ and Yilin Wang and Jianmin Wang and Heqin Zhu and Zirui Wang and Chang-yu Hiesh\
-    \ and Kejun Ying and Jiaqi Wang and Yuzhi Xu and Tingjun Hou and Odin Zhang},\n\
-    \      year={2026},\n      url={https://arxiv.org/abs/2609.10121}, \n}"
+  bibtex: "@article{admet_evo,\n      title={ADMET-EvO: a self-evolving scientific\
+    \ agent for sustained research across heterogeneous tasks},\n      author={Yiling\
+    \ Zhou and Yilin Wang and Jianmin Wang and Heqin Zhu and Zirui Wang and Chang-yu\
+    \ Hiesh and Kejun Ying and Jiaqi Wang and Yuzhi Xu and Tingjun Hou and Odin Zhang},\n\
+    \      journal={arXiv},\n      year={2026},\n      url={https://arxiv.org/abs/2609.10121},\n\
+    }"
 - id: retif
   title: 'ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound
     Interaction Prediction and Binding-Site Localization'
   authors:
   - name: Ao Chang
     highlight: false
-    first_author: false
+    first_author: true
     corresponding: false
   - name: Heqin Zhu
     highlight: true
-    first_author: false
+    first_author: true
     corresponding: false
   - name: Haobin Chen
     highlight: false
@@ -206,7 +207,7 @@
   - name: Peng Xiong
     highlight: false
     first_author: false
-    corresponding: false
+    corresponding: true
   - name: S. Kevin Zhou
     highlight: false
     first_author: false
@@ -252,14 +253,15 @@
     first_author: false
     corresponding: false
   year: 2026
-  venue: ''
-  venue_type: journal
+  venue: arXiv
+  venue_type: preprint
   url: https://arxiv.org/abs/2609.06645
   links: {}
-  bibtex: "@misc{MARR,\n      title={MARR: Decoupling Policy, Execution, and Calibration\
-    \ for All-in-One Medical Image Restoration}, \n      author={Haobin Chen and Ao\
+  bibtex: "@article{MARR,\n      title={MARR: Decoupling Policy, Execution, and Calibration\
+    \ for All-in-One Medical Image Restoration},\n      author={Haobin Chen and Ao\
     \ Chang and Heqin Zhu and Rundong Wang and Ting Liu and Shaohua Kevin Zhou},\n\
-    \      year={2026},\n      url={https://arxiv.org/abs/2609.06645}, \n}"
+    \      journal={arXiv},\n      year={2026},\n      url={https://arxiv.org/abs/2609.06645},\n\
+    }"
 - id: zhu2025deep
   title: Deep generalizable prediction of RNA secondary structure via base pair motif
     energy
@@ -454,15 +456,15 @@
     first_author: false
     corresponding: false
   year: 2025
-  venue: arXiv preprint arXiv:2510.07041
+  venue: arXiv
   venue_type: preprint
-  url: ''
+  url: https://arxiv.org/abs/2510.07041
   links: {}
   bibtex: "@article{tang2025u,\n  title={U-Bench: A Comprehensive Understanding of\
     \ U-Net through 100-Variant Benchmarking},\n  author={Tang, Fenghe and Dong, Chengqi\
     \ and Ma, Wenxin and Xu, Zikang and Zhu, Heqin and Jiang, Zihang and Wang, Rongsheng\
-    \ and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},\n  journal={arXiv preprint\
-    \ arXiv:2510.07041},\n  year={2025}\n}"
+    \ and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},\n  journal={arXiv},\n\
+    \  year={2025},\n  url={https://arxiv.org/abs/2510.07041}\n}"
 - id: huang2024pele
   title: 'Pele scores: pelvic x-ray landmark detection with pelvis extraction and
     enhancement'
@@ -724,13 +726,13 @@
   year: 2023
   venue: MIDL
   venue_type: conference
-  url: ''
+  url: https://arxiv.org/abs/2311.10121
   links:
     code: https://github.com/Curli-quan/Slide-SAM
   bibtex: "@article{quan2023slide,\n  title={Slide-sam: Medical sam meets sliding\
     \ window},\n  author={Quan, Quan and Tang, Fenghe and Xu, Zikang and Zhu, Heqin\
-    \ and Zhou, Shaohua Kevin},\n  journal={arXiv preprint arXiv:2311.10121},\n  year={2023}\n\
-    }"
+    \ and Zhou, Shaohua Kevin},\n  journal={arXiv preprint arXiv:2311.10121},\n  year={2023},\n\
+    \  url={https://arxiv.org/abs/2311.10121}\n}"
 - id: zhu2022learning
   title: Learning to Localize Cross-Anatomy Landmarks in X-Ray Images with a Universal
     Model
@@ -778,13 +780,14 @@
     first_author: false
     corresponding: false
   year: 2022
-  venue: arXiv preprint arXiv:2203.06433
+  venue: arXiv
   venue_type: preprint
-  url: ''
+  url: https://arxiv.org/abs/2203.06433
   links: {}
   bibtex: "@article{zhu2022datr,\n  title={Datr: Domain-adaptive transformer for multi-domain\
     \ landmark detection},\n  author={Zhu, Heqin and Yao, Qingsong and Zhou, Shaohua\
-    \ Kevin},\n  journal={arXiv preprint arXiv:2203.06433},\n  year={2022}\n}"
+    \ Kevin},\n  journal={arXiv},\n  year={2022},\n  url={https://arxiv.org/abs/2203.06433}\n\
+    }"
 - id: zhu2022dftr
   title: 'DFTR: Depth-supervised hierarchical feature fusion transformer for salient
     object detection'
@@ -814,14 +817,15 @@
     first_author: false
     corresponding: true
   year: 2022
-  venue: arXiv preprint arXiv:2203.06429
+  venue: arXiv
   venue_type: preprint
-  url: ''
+  url: https://arxiv.org/abs/2203.06429
   links: {}
   bibtex: "@article{zhu2022dftr,\n  title={DFTR: Depth-supervised hierarchical feature\
     \ fusion transformer for salient object detection},\n  author={Zhu, Heqin and\
     \ Sun, Xu and Li, Yuexiang and Ma, Kai and Zhou, Shaohua Kevin and Zheng, Yefeng},\n\
-    \  journal={arXiv preprint arXiv:2203.06429},\n  year={2022}\n}"
+    \  journal={arXiv},\n  year={2022},\n  url={https://arxiv.org/abs/2203.06429}\n\
+    }"
 - id: yao2022relative
   title: Relative distance matters for one-shot landmark detection
   authors:
@@ -850,14 +854,14 @@
     first_author: false
     corresponding: false
   year: 2022
-  venue: arXiv preprint arXiv:2203.01687
+  venue: arXiv
   venue_type: preprint
-  url: ''
+  url: https://arxiv.org/abs/2203.01687
   links: {}
   bibtex: "@article{yao2022relative,\n  title={Relative distance matters for one-shot\
     \ landmark detection},\n  author={Yao, Qingsong and Wang, Jianji and Sun, Yihua\
-    \ and Quan, Quan and Zhu, Heqin and Zhou, Shaohua Kevin},\n  journal={arXiv preprint\
-    \ arXiv:2203.01687},\n  year={2022}\n}"
+    \ and Quan, Quan and Zhu, Heqin and Zhou, Shaohua Kevin},\n  journal={arXiv},\n\
+    \  year={2022},\n  url={https://arxiv.org/abs/2203.01687}\n}"
 - id: zhu2021you
   title: 'You only learn once: Universal anatomical landmark detection'
   authors:
