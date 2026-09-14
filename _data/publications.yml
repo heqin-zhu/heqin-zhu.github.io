@@ -113,95 +113,7 @@
     \ = {bioRxiv},\n        year = {2026},\n        publisher = {Cold Spring Harbor\
     \ Laboratory},\n        url = {https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087},\n\
     \        doi = {10.64898/2026.08.15.744087},\n}"
-- id: chang2026retif
-  title: 'ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound
-    Interaction Prediction and Binding-Site Localization'
-  authors:
-  - name: Ao Chang
-    highlight: false
-    first_author: true
-    corresponding: false
-  - name: Heqin Zhu
-    highlight: true
-    first_author: true
-    corresponding: false
-  - name: Haobin Chen
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Chenxi Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Xin Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Xiaoyu Zeng
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Yilin Ding
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Peng Xiong
-    highlight: false
-    first_author: false
-    corresponding: true
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: true
-  year: 2026
-  venue: bioRxiv
-  venue_type: preprint
-  url: ''
-  links: {}
-  bibtex: "@article{chang2026retif,\n  title={ReTIF: Granularity-Aware Multitask Interaction\
-    \ Routing for RNA-Compound Interaction Prediction and Binding-Site Localization},\n\
-    \  author={Chang, Ao and Zhu, Heqin and Chen, Haobin and Wang, Chenxi and Wang,\
-    \ Xin and Zeng, Xiaoyu and Ding, Yilin and Xiong, Peng and Zhou, Shaohua Kevin},\n\
-    \  journal={bioRxiv},\n  pages={2026--09},\n  year={2026},\n  publisher={Cold\
-    \ Spring Harbor Laboratory}\n}"
-- id: chen2026marr
-  title: 'MARR: Decoupling Policy, Execution, and Calibration for All-in-One Medical
-    Image Restoration'
-  authors:
-  - name: Haobin Chen
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Ao Chang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Heqin Zhu
-    highlight: true
-    first_author: false
-    corresponding: false
-  - name: Rundong Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Ting Liu
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: false
-  year: 2026
-  venue: arXiv preprint arXiv:2609.06645
-  venue_type: preprint
-  url: ''
-  links: {}
-  bibtex: "@article{chen2026marr,\n  title={MARR: Decoupling Policy, Execution, and\
-    \ Calibration for All-in-One Medical Image Restoration},\n  author={Chen, Haobin\
-    \ and Chang, Ao and Zhu, Heqin and Wang, Rundong and Liu, Ting and Zhou, Shaohua\
-    \ Kevin},\n  journal={arXiv preprint arXiv:2609.06645},\n  year={2026}\n}"
-- id: zhou2026admet
+- id: admet_evo
   title: 'ADMET-EvO: a self-evolving scientific agent for sustained research across
     heterogeneous tasks'
   authors:
@@ -245,16 +157,109 @@
     highlight: false
     first_author: false
     corresponding: false
+  - name: Odin Zhang
+    highlight: false
+    first_author: false
+    corresponding: false
   year: 2026
-  venue: arXiv preprint arXiv:2609.10121
-  venue_type: preprint
-  url: ''
+  venue: ''
+  venue_type: journal
+  url: https://arxiv.org/abs/2609.10121
   links: {}
-  bibtex: "@article{zhou2026admet,\n  title={ADMET-EvO: a self-evolving scientific\
-    \ agent for sustained research across heterogeneous tasks},\n  author={Zhou, Yiling\
-    \ and Wang, Yilin and Wang, Jianmin and Zhu, Heqin and Wang, Zirui and Hiesh,\
-    \ Chang-yu and Ying, Kejun and Wang, Jiaqi and Xu, Yuzhi and Hou, Tingjun and\
-    \ others},\n  journal={arXiv preprint arXiv:2609.10121},\n  year={2026}\n}"
+  bibtex: "@misc{admet_evo,\n      title={ADMET-EvO: a self-evolving scientific agent\
+    \ for sustained research across heterogeneous tasks}, \n      author={Yiling Zhou\
+    \ and Yilin Wang and Jianmin Wang and Heqin Zhu and Zirui Wang and Chang-yu Hiesh\
+    \ and Kejun Ying and Jiaqi Wang and Yuzhi Xu and Tingjun Hou and Odin Zhang},\n\
+    \      year={2026},\n      url={https://arxiv.org/abs/2609.10121}, \n}"
+- id: retif
+  title: 'ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound
+    Interaction Prediction and Binding-Site Localization'
+  authors:
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Chenxi Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Xin Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zeng Xiaoyu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yilin Ding
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: S. Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: bioRxiv
+  venue_type: preprint
+  url: https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748859
+  links: {}
+  bibtex: "@article {retif,\n\tauthor = {Chang, Ao and Zhu, Heqin and Chen, Haobin\
+    \ and Wang, Chenxi and Wang, Xin and Xiaoyu, Zeng and Ding, Yilin and Xiong, Peng\
+    \ and Zhou, S. Kevin},\n\ttitle = {ReTIF: Granularity-Aware Multitask Interaction\
+    \ Routing for RNA-Compound Interaction Prediction and Binding-Site Localization},\n\
+    \tyear = {2026},\n\tdoi = {10.64898/2026.09.02.748859},\n\tpublisher = {Cold Spring\
+    \ Harbor Laboratory},\n\tURL = {https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748859},\n\
+    \tjournal = {bioRxiv}\n}"
+- id: MARR
+  title: 'MARR: Decoupling Policy, Execution, and Calibration for All-in-One Medical
+    Image Restoration'
+  authors:
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Rundong Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ting Liu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: ''
+  venue_type: journal
+  url: https://arxiv.org/abs/2609.06645
+  links: {}
+  bibtex: "@misc{MARR,\n      title={MARR: Decoupling Policy, Execution, and Calibration\
+    \ for All-in-One Medical Image Restoration}, \n      author={Haobin Chen and Ao\
+    \ Chang and Heqin Zhu and Rundong Wang and Ting Liu and Shaohua Kevin Zhou},\n\
+    \      year={2026},\n      url={https://arxiv.org/abs/2609.06645}, \n}"
 - id: zhu2025deep
   title: Deep generalizable prediction of RNA secondary structure via base pair motif
     energy

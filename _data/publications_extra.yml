@@ -286,7 +286,7 @@ zhu_nacraft_2026:
       corresponding: true
     - name: Odin Zhang
       corresponding: true
-chang2026retif:
+retif:
   authors_annotation:
     - name: Heqin Zhu
       highlight: true
@@ -296,4 +296,20 @@ chang2026retif:
     - name: Peng Xiong
       corresponding: true
     - name: Shaohua Kevin Zhou
+      corresponding: true
+admet_evo:
+  authors_annotation:
+    - name: Heqin Zhu
+      highlight: true
+    - name: Yiling Zhou
+      first_author: true
+    - name: Yilin Wang
+      first_author: true
+    - name: Jiaqi Wang
+      corresponding: true
+    - name: Yuzhi Xu
+      corresponding: true
+    - name: Tingjun Hou
+      corresponding: true
+    - name: Odin Zhang
       corresponding: true

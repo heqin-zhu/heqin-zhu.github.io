@@ -79,6 +79,11 @@ Ao Chang\#, **Heqin Zhu**\#, Haobin Chen, Chenxi Wang, Xin Wang, Xiaoyu Zeng, Yi
 - ![citations](https://img.shields.io/badge/NAR Genomics and Bioinformatics-2025-blue) [IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs](https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf)\
 Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, Shaohua Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
 
+### Recursive self-improvement
+- ![citations](https://img.shields.io/badge/arXiv-2025-blue) [ADMET-EvO: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/html/2609.10121v2)\
+Yiling Zhou\#, Yilin Wang\#, Jianmin Wang, **Heqin Zhu**, Zirui Wang, Chang-yu Hiesh, Kejun Ying, Jiaqi Wang\*, Yuzhi Xu\*, Tingjun Hou\*, Odin Zhang\*&nbsp;&nbsp;
+
+
 ### Universal Model & Domain Adaptation
 - ![citations](https://img.shields.io/badge/MICCAI-2023-blue) [UOD: universal oneshot detection of anatomical landmark](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3)&nbsp;&nbsp;(**Early Accept**)\
 **Heqin Zhu**, Quan Quan, Qingsong Yao, Zaiyi Liu, Shaohua Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2306.07615-white.svg?style=flat)](https://arxiv.org/abs/2306.07615)[![](https://img.shields.io/github/stars/heqin-zhu/UOD_universal_oneshot_detection.svg?label=Stars&style=social)](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)[[code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)][[poster](files/poster/poster_UOD.pdf)]
