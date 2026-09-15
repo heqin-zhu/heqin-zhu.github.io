@@ -29,13 +29,13 @@ body {
 # About
 <!--
 - I am a postdoctoral researcher at The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)). Prior to this, -->
-- I will soon join the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk) as an incoming postdoctoral researcher, working with Prof. [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ). Previously,  I received my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
-- My research centers on AI biology, aiming at understanding biomolecular structures and designing functional molecules, including:
-    - Molecular design and drug discovery
+- I will soon join the Department of Computer Science and Engineering ([CSE](https://www.cse.cuhk.edu.hk)), The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk)) as an postdoctoral researcher, working with Prof. [Pheng Ann Heng](https://scholar.google.com/citations?user=OFdytjoAAAAJ). Previously, I received my PhD degree from the University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) in 2026 and master degree from Institute of Computing Technology ([ICT](http://english.ict.cas.cn/), Chinese Academy of Sciences (CAS)) and University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)) in 2023, where I was advised by Prof. [Shaohua Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ). In 2020, I obtained my bachelor degree from USTC, majoring in Computer Science and Technology. I have had the privilege of collaborating with Prof. [Peng Xiong](https://bme.ustc.edu.cn/2023/0322/c28131a596069/page.htm), Prof. [Yefeng Zheng](https://scholar.google.com/citations?user=vAIECxgAAAAJ).
+- My research focuses on AI for Biology, developing multimodal foundation models and self-improving AI systems to understand biomolecular structures, functions, and interactions, and to enable generative molecular design and AI-driven drug discovery, including topics:
+    - Multimodal Biological Foundation Model
+    - Molecular Design and Drug Discovery
     - Molecular Interaction and Scoring
-    - Multimodal biological foundation model
-    - Structure and function prediction
-    - Recursive self-improvement
+    - Structure and Function Prediction
+    - Recursive Self-Improvement
 <!-- - Previously, I worked on medical imaging computing, where I developed universal models and few-shot learning methods for localizing anatomical landmarks. -->
 - I am always welcoming discussions and collaborative opportunities, please feel free to contact me via [email](mailto:zhuheqin1@gmail.com). :)
 
@@ -79,7 +79,7 @@ Ao Chang\#, **Heqin Zhu**\#, Haobin Chen, Chenxi Wang, Xin Wang, Xiaoyu Zeng, Yi
 - ![citations](https://img.shields.io/badge/NAR Genomics and Bioinformatics-2025-blue) [IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs](https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf)\
 Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, Shaohua Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
 
-### Recursive self-improvement
+### Recursive Self-Improvement
 - ![citations](https://img.shields.io/badge/arXiv-2025-blue) [ADMET-EvO: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/html/2609.10121v2)\
 Yiling Zhou\#, Yilin Wang\#, Jianmin Wang, **Heqin Zhu**, Zirui Wang, Chang-yu Hiesh, Kejun Ying, Jiaqi Wang\*, Yuzhi Xu\*, Tingjun Hou\*, Odin Zhang\*&nbsp;&nbsp;
 
@@ -121,6 +121,7 @@ Fenghe Tang, Ronghao Xu, Qingsong Yao, Xueming Fu, Quan Quan, **Heqin Zhu**, Zai
 <!-- 💻 -->
 # Work Experiences
 - 07/2021 - 11/2021, Research Intern, [Tencent JARVIS Lab](https://jarvislab.tencent.com/index-en.html), Shenzhen, China
+
 <!--
 - 09/2019 - 04/2020, Research Intern, Z2sky, Suzhou, China
 -->
