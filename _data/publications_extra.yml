@@ -264,6 +264,8 @@ lyu20213:
     - name: "Shaohua Kevin Zhou"
 
 tang2025u:
+  venue_short: "NeurIPS"
+  venue_type: conference
   authors_annotation:
     - name: "Fenghe Tang"
     - name: "Chengqi Dong"

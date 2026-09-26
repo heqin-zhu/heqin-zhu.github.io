@@ -44,6 +44,60 @@
     \ and Li, Ruifeng and Chang, Ao and Li, Mingqian and Chen, Hongyang and Xiong,\
     \ Peng and Zhou, Shaohua Kevin},\n  year={2026},\n  booktitle={The Fourteenth\
     \ International Conference on Learning Representations}\n}"
+- id: tang2025u
+  title: 'U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking'
+  authors:
+  - name: Fenghe Tang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Chengqi Dong
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Wenxin Ma
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zikang Xu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Zihang Jiang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Rongsheng Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yuhao Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Chenxu Wu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: NeurIPS
+  venue_type: conference
+  url: https://arxiv.org/abs/2510.07041
+  links: {}
+  bibtex: "@inproceedings{tang2025u,\n  title={U-Bench: A Comprehensive Understanding\
+    \ of U-Net through 100-Variant Benchmarking},\n  author={Tang, Fenghe and Dong,\
+    \ Chengqi and Ma, Wenxin and Xu, Zikang and Zhu, Heqin and Jiang, Zihang and Wang,\
+    \ Rongsheng and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},\n  booktitle={Advances\
+    \ in Neural Information Processing Systems},\n  year={2026},\n  url={https://arxiv.org/abs/2510.07041}\n\
+    }"
 - id: zhu_nacraft_2026
   title: 'NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model
     feedback'
@@ -412,59 +466,6 @@
     \ Chen, Ke and Zhou, Shaohua Kevin and Xiong, Peng},\n  journal={NAR Genomics\
     \ and Bioinformatics},\n  volume={7},\n  number={4},\n  pages={lqaf210},\n  year={2025},\n\
     \  publisher={Oxford University Press}\n}"
-- id: tang2025u
-  title: 'U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking'
-  authors:
-  - name: Fenghe Tang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Chengqi Dong
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Wenxin Ma
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Zikang Xu
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Heqin Zhu
-    highlight: true
-    first_author: false
-    corresponding: false
-  - name: Zihang Jiang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Rongsheng Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Yuhao Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Chenxu Wu
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: false
-  year: 2025
-  venue: arXiv
-  venue_type: preprint
-  url: https://arxiv.org/abs/2510.07041
-  links: {}
-  bibtex: "@article{tang2025u,\n  title={U-Bench: A Comprehensive Understanding of\
-    \ U-Net through 100-Variant Benchmarking},\n  author={Tang, Fenghe and Dong, Chengqi\
-    \ and Ma, Wenxin and Xu, Zikang and Zhu, Heqin and Jiang, Zihang and Wang, Rongsheng\
-    \ and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},\n  journal={arXiv},\n\
-    \  year={2025},\n  url={https://arxiv.org/abs/2510.07041}\n}"
 - id: huang2024pele
   title: 'Pele scores: pelvic x-ray landmark detection with pelvis extraction and
     enhancement'
