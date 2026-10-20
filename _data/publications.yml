@@ -316,6 +316,38 @@
     \ Chang and Heqin Zhu and Rundong Wang and Ting Liu and Shaohua Kevin Zhou},\n\
     \      journal={arXiv},\n      year={2026},\n      url={https://arxiv.org/abs/2609.06645},\n\
     }"
+- id: team2026novo
+  title: De novo design of monoclonal and bispecific antibodies with OFAntibody
+  authors:
+  - name: Valhalla Team
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2610.09548
+  links: {}
+  bibtex: "@article{team2026novo,\n  title={De novo design of monoclonal and bispecific\
+    \ antibodies with OFAntibody},\n  author={Team, Valhalla},\n  journal={arXiv},\n\
+    \  year={2026},\n  url={https://arxiv.org/abs/2610.09548}\n}"
+- id: team2026leveraging
+  title: Leveraging secondary-structure information for accurate nucleic acid structure
+    prediction with OFoldNA
+  authors:
+  - name: Valhalla Team
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2609.37414
+  links: {}
+  bibtex: "@article{team2026leveraging,\n  title={Leveraging secondary-structure information\
+    \ for accurate nucleic acid structure prediction with OFoldNA},\n  author={Team,\
+    \ Valhalla},\n  journal={arXiv},\n  year={2026},\n  url={https://arxiv.org/abs/2609.37414}\n\
+    }"
 - id: zhu2025deep
   title: Deep generalizable prediction of RNA secondary structure via base pair motif
     energy
