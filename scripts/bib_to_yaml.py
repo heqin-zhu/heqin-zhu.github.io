@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Convert publications.bib to _data/publications.yml.
 
-Reads files/publications.bib, merges with _data/publications_extra.yml,
+Reads _data/publications.bib, merges with _data/publications_extra.yml,
 and outputs _data/publications.yml for Jekyll Liquid template consumption.
 
 Usage:
@@ -26,7 +26,7 @@ except ImportError:
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-BIB_PATH = PROJECT_ROOT / "files" / "publications.bib"
+BIB_PATH = PROJECT_ROOT / "_data" / "publications.bib"
 EXTRA_PATH = PROJECT_ROOT / "_data" / "publications_extra.yml"
 OUTPUT_PATH = PROJECT_ROOT / "_data" / "publications.yml"
 
@@ -35,6 +35,7 @@ PREPRINT_KEYWORDS = ["arxiv", "biorxiv", "medrxiv"]
 
 # Patterns to map venue names to short forms
 VENUE_SHORT_MAP = {
+    "arxiv preprint": "arXiv",
     "nature communications": "Nature Communications",
     "nar genomics and bioinformatics": "NAR Genomics and Bioinformatics",
     "medical image analysis": "Medical Image Analysis",
@@ -44,6 +45,13 @@ VENUE_SHORT_MAP = {
     "bme frontiers": "BMEF",
     "international conference on information processing": "IPMI",
     "international conference on learning representations": "ICLR",
+}
+
+# Canonical author names (Scholar exports use abbreviated forms like "S Kevin Zhou",
+# which would break extra's exact-name matching)
+AUTHOR_ALIASES = {
+    "S Kevin Zhou": "Shaohua Kevin Zhou",
+    "Kevin S Zhou": "Shaohua Kevin Zhou",
 }
 
 # Patterns to detect conference
@@ -93,8 +101,10 @@ def parse_authors_bib(entry: dict) -> list:
 
     authors = []
     for raw in raw_authors:
-        # Clean up LaTeX braces and normalize to "First Last" format
+        # Clean up LaTeX braces and normalize to "First Last" format,
+        # then map abbreviated forms to canonical names (extra matches by full name)
         clean = normalize_author_name(raw)
+        clean = AUTHOR_ALIASES.get(clean, clean)
         if clean and clean.lower() != "others":
             authors.append({
                 "name": clean,
@@ -103,7 +113,7 @@ def parse_authors_bib(entry: dict) -> list:
                 "corresponding": False,
             })
     ## no need to explicitly mark first author, corresonding author
-    ## will default 
+    ## will default
     # authors[0]['first_author'] = True
     # authors[-1]['corresponding'] = True
     return authors
@@ -143,22 +153,35 @@ def convert_entry(entry: dict, extra: dict, raw_bibtex: dict) -> dict:
     bib_id = entry["ID"]
     extra_data = extra.get(bib_id, {})
 
-    # Title
-    title = clean_latex(entry.get("title", ""))
+    # Title (extra may override, e.g. to restore casing lost in exports)
+    title = extra_data.get("title", clean_latex(entry.get("title", "")))
 
-    # Authors
-    authors = parse_authors_bib(entry)
-    extra_authors = extra_data.get("authors_annotation", [])
-    if extra_authors:
-        authors = merge_annotations(authors, extra_authors)
+    # Authors: extra full_author_list replaces the bib list entirely
+    # (protects against "and others" truncation in re-exports)
+    full_list = extra_data.get("full_author_list")
+    if full_list:
+        authors = [
+            {
+                "name": fa["name"],
+                "highlight": fa.get("highlight", False),
+                "first_author": fa.get("first_author", False),
+                "corresponding": fa.get("corresponding", False),
+            }
+            for fa in full_list
+        ]
     else:
-        # Auto-highlight Heqin Zhu if not in extra
-        for a in authors:
-            if a["name"].lower() == "heqin zhu":
-                a["highlight"] = True
+        authors = parse_authors_bib(entry)
+        extra_authors = extra_data.get("authors_annotation", [])
+        if extra_authors:
+            authors = merge_annotations(authors, extra_authors)
+        else:
+            # Auto-highlight Heqin Zhu if not in extra
+            for a in authors:
+                if a["name"].lower() == "heqin zhu":
+                    a["highlight"] = True
 
-    # Year
-    year = int(entry.get("year", 0))
+    # Year (allow extra to override, e.g. accepted conference year vs preprint year)
+    year = int(extra_data.get("year", entry.get("year", 0)))
 
     # Venue
     venue = ""
@@ -181,9 +204,13 @@ def convert_entry(entry: dict, extra: dict, raw_bibtex: dict) -> dict:
         if not venue_short:
             venue_short = venue
 
-    # URL
+    # URL: derive from arXiv ID or DOI when the url field is missing
     url = entry.get("url", "")
     doi = entry.get("doi", "")
+    if not url:
+        m = re.search(r"arXiv[: ]+(\d{4}\.\d{4,5})", f"{entry.get('journal', '')} {entry.get('eprint', '')}")
+        if m:
+            url = f"https://arxiv.org/abs/{m.group(1)}"
     if not url and doi:
         url = f"https://doi.org/{doi}"
     if not url:
@@ -203,7 +230,7 @@ def convert_entry(entry: dict, extra: dict, raw_bibtex: dict) -> dict:
         "venue_type": venue_type,
         "url": url,
         "links": links,
-        "bibtex": raw_bibtex.get(bib_id, ""),
+        "bibtex": extra_data.get("bibtex", raw_bibtex.get(bib_id, "")),
     }
 
 

@@ -1,49 +1,3 @@
-- id: NCfold
-  title: 'NC-Bench and NCfold: A Benchmark and Closed-Loop Framework for RNA Non-Canonical
-    Base-Pair Prediction'
-  authors:
-  - name: Heqin Zhu
-    highlight: true
-    first_author: true
-    corresponding: false
-  - name: Ruifeng Li
-    highlight: false
-    first_author: true
-    corresponding: false
-  - name: Ao Chang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Mingqian Li
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Hongyang Chen
-    highlight: false
-    first_author: false
-    corresponding: true
-  - name: Peng Xiong
-    highlight: false
-    first_author: false
-    corresponding: true
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: true
-  year: 2026
-  venue: ICLR
-  venue_type: conference
-  url: ''
-  links:
-    biorxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
-    code: https://github.com/heqin-zhu/NCBench
-    page: https://heqin-zhu.github.io/NCBench/
-    poster: https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf
-  bibtex: "@inproceedings{NCfold,\n  title={NC-Bench and NCfold: A Benchmark and Closed-Loop\
-    \ Framework for RNA Non-Canonical Base-Pair Prediction},\n  author={Zhu, Heqin\
-    \ and Li, Ruifeng and Chang, Ao and Li, Mingqian and Chen, Hongyang and Xiong,\
-    \ Peng and Zhou, Shaohua Kevin},\n  year={2026},\n  booktitle={The Fourteenth\
-    \ International Conference on Learning Representations}\n}"
 - id: tang2025u
   title: 'U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking'
   authors:
@@ -98,7 +52,54 @@
     \ Rongsheng and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},\n  booktitle={Advances\
     \ in Neural Information Processing Systems},\n  year={2026},\n  url={https://arxiv.org/abs/2510.07041}\n\
     }"
-- id: zhu_nacraft_2026
+- id: zhu2026nc
+  title: 'NC-Bench and NCfold: A Benchmark and Closed-Loop Framework for RNA Non-Canonical
+    Base-Pair Prediction'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Ruifeng Li
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Mingqian Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Hongyang Chen
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2026
+  venue: ICLR
+  venue_type: conference
+  url: ''
+  links:
+    biorxiv: https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746
+    code: https://github.com/heqin-zhu/NCBench
+    page: https://heqin-zhu.github.io/NCBench/
+    poster: https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf
+  bibtex: "@inproceedings{zhu2026nc,\n  title={NC-Bench and NCfold: A Benchmark and\
+    \ Closed-Loop Framework for RNA Non-Canonical Base-Pair Prediction},\n  author={Zhu,\
+    \ Heqin and Li, Ruifeng and Chang, Ao and Li, Mingqian and Chen, Hongyang and\
+    \ Xiong, Peng and Zhou, Shaohua Kevin},\n  booktitle={International Conference\
+    \ on Learning Representations},\n  volume={2026},\n  pages={135816--135832},\n\
+    \  year={2026}\n}"
+- id: zhu2026nacraft
   title: 'NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model
     feedback'
   authors:
@@ -126,7 +127,7 @@
     highlight: false
     first_author: false
     corresponding: false
-  - name: Qianhan Wang
+  - name: Qinghan Wang
     highlight: false
     first_author: false
     corresponding: false
@@ -159,15 +160,104 @@
   venue_type: preprint
   url: https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087
   links: {}
-  bibtex: "@article{zhu_nacraft_2026,\n        title = {{NACraft}: {Programmatic}\
-    \ nucleic-acid aptamer design via all-atom structure-model feedback},\n      \
-    \  author = {Zhu, Heqin and Wang, Jiaqi and Zhao, Weibo and Xu, Yuzhi and Su,\
-    \ Huang and Wang, Jianmin and Wang, Qianhan and Yu, Yuntao and You, Ziyi and Du,\
-    \ Gang and Heng, Pheng Ann and Zhang, Liqin and Zhang, Odin},\n        journal\
-    \ = {bioRxiv},\n        year = {2026},\n        publisher = {Cold Spring Harbor\
-    \ Laboratory},\n        url = {https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087},\n\
-    \        doi = {10.64898/2026.08.15.744087},\n}"
-- id: admet_evo
+  bibtex: "@article{zhu2026nacraft,\n  title={NACraft: Programmatic nucleic-acid aptamer\
+    \ design via all-atom structure-model feedback},\n  author={Zhu, Heqin and Wang,\
+    \ Jiaqi and Zhao, Weibo and Xu, Yuzhi and Su, Huang and Wang, Jianmin and Wang,\
+    \ Qinghan and Yu, Yuntao and You, Ziyi and Du, Gang and Heng, Pheng Ann and Zhang,\
+    \ Liqin and Zhang, Odin},\n  journal={bioRxiv},\n  pages={2026--08},\n  year={2026},\n\
+    \  publisher={Cold Spring Harbor Laboratory},\n  url={https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087},\n\
+    \  doi={10.64898/2026.08.15.744087}\n}"
+- id: chang2026retif
+  title: 'ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound
+    Interaction Prediction and Binding-Site Localization'
+  authors:
+  - name: Ao Chang
+    highlight: false
+    first_author: true
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Chenxi Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Xin Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Xiaoyu Zeng
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yilin Ding
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2026
+  venue: bioRxiv
+  venue_type: preprint
+  url: https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748859
+  links: {}
+  bibtex: "@article{chang2026retif,\n  title={ReTIF: Granularity-Aware Multitask Interaction\
+    \ Routing for RNA-Compound Interaction Prediction and Binding-Site Localization},\n\
+    \  author={Chang, Ao and Zhu, Heqin and Chen, Haobin and Wang, Chenxi and Wang,\
+    \ Xin and Zeng, Xiaoyu and Ding, Yilin and Xiong, Peng and Zhou, Shaohua Kevin},\n\
+    \  journal={bioRxiv},\n  pages={2026--09},\n  year={2026},\n  publisher={Cold\
+    \ Spring Harbor Laboratory},\n  url={https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748859},\n\
+    \  doi={10.64898/2026.09.02.748859}\n}"
+- id: chen2026marr
+  title: 'MARR: Decoupling Policy, Execution, and Calibration for All-in-One Medical
+    Image Restoration'
+  authors:
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Rundong Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ting Liu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2609.06645
+  links: {}
+  bibtex: "@article{chen2026marr,\n  title={MARR: Decoupling Policy, Execution, and\
+    \ Calibration for All-in-One Medical Image Restoration},\n  author={Chen, Haobin\
+    \ and Chang, Ao and Zhu, Heqin and Wang, Rundong and Liu, Ting and Zhou, Shaohua\
+    \ Kevin},\n  journal={arXiv},\n  year={2026},\n  url={https://arxiv.org/abs/2609.06645}\n\
+    }"
+- id: zhou2026admet
   title: 'ADMET-EvO: a self-evolving scientific agent for sustained research across
     heterogeneous tasks'
   authors:
@@ -220,117 +310,12 @@
   venue_type: preprint
   url: https://arxiv.org/abs/2609.10121
   links: {}
-  bibtex: "@article{admet_evo,\n      title={ADMET-EvO: a self-evolving scientific\
-    \ agent for sustained research across heterogeneous tasks},\n      author={Yiling\
-    \ Zhou and Yilin Wang and Jianmin Wang and Heqin Zhu and Zirui Wang and Chang-yu\
-    \ Hiesh and Kejun Ying and Jiaqi Wang and Yuzhi Xu and Tingjun Hou and Odin Zhang},\n\
-    \      journal={arXiv},\n      year={2026},\n      url={https://arxiv.org/abs/2609.10121},\n\
+  bibtex: "@article{zhou2026admet,\n  title={ADMET-EvO: a self-evolving scientific\
+    \ agent for sustained research across heterogeneous tasks},\n  author={Zhou, Yiling\
+    \ and Wang, Yilin and Wang, Jianmin and Zhu, Heqin and Wang, Zirui and Hiesh,\
+    \ Chang-yu and Ying, Kejun and Wang, Jiaqi and Xu, Yuzhi and Hou, Tingjun and\
+    \ Zhang, Odin},\n  journal={arXiv},\n  year={2026},\n  url={https://arxiv.org/abs/2609.10121}\n\
     }"
-- id: retif
-  title: 'ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound
-    Interaction Prediction and Binding-Site Localization'
-  authors:
-  - name: Ao Chang
-    highlight: false
-    first_author: true
-    corresponding: false
-  - name: Heqin Zhu
-    highlight: true
-    first_author: true
-    corresponding: false
-  - name: Haobin Chen
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Chenxi Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Xin Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Zeng Xiaoyu
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Yilin Ding
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Peng Xiong
-    highlight: false
-    first_author: false
-    corresponding: true
-  - name: S. Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: false
-  year: 2026
-  venue: bioRxiv
-  venue_type: preprint
-  url: https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748859
-  links: {}
-  bibtex: "@article {retif,\n\tauthor = {Chang, Ao and Zhu, Heqin and Chen, Haobin\
-    \ and Wang, Chenxi and Wang, Xin and Xiaoyu, Zeng and Ding, Yilin and Xiong, Peng\
-    \ and Zhou, S. Kevin},\n\ttitle = {ReTIF: Granularity-Aware Multitask Interaction\
-    \ Routing for RNA-Compound Interaction Prediction and Binding-Site Localization},\n\
-    \tyear = {2026},\n\tdoi = {10.64898/2026.09.02.748859},\n\tpublisher = {Cold Spring\
-    \ Harbor Laboratory},\n\tURL = {https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748859},\n\
-    \tjournal = {bioRxiv}\n}"
-- id: MARR
-  title: 'MARR: Decoupling Policy, Execution, and Calibration for All-in-One Medical
-    Image Restoration'
-  authors:
-  - name: Haobin Chen
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Ao Chang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Heqin Zhu
-    highlight: true
-    first_author: false
-    corresponding: false
-  - name: Rundong Wang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Ting Liu
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: false
-  year: 2026
-  venue: arXiv
-  venue_type: preprint
-  url: https://arxiv.org/abs/2609.06645
-  links: {}
-  bibtex: "@article{MARR,\n      title={MARR: Decoupling Policy, Execution, and Calibration\
-    \ for All-in-One Medical Image Restoration},\n      author={Haobin Chen and Ao\
-    \ Chang and Heqin Zhu and Rundong Wang and Ting Liu and Shaohua Kevin Zhou},\n\
-    \      journal={arXiv},\n      year={2026},\n      url={https://arxiv.org/abs/2609.06645},\n\
-    }"
-- id: team2026novo
-  title: De novo design of monoclonal and bispecific antibodies with OFAntibody
-  authors:
-  - name: Valhalla Team
-    highlight: false
-    first_author: false
-    corresponding: false
-  year: 2026
-  venue: arXiv
-  venue_type: preprint
-  url: https://arxiv.org/abs/2610.09548
-  links: {}
-  bibtex: "@article{team2026novo,\n  title={De novo design of monoclonal and bispecific\
-    \ antibodies with OFAntibody},\n  author={Team, Valhalla},\n  journal={arXiv},\n\
-    \  year={2026},\n  url={https://arxiv.org/abs/2610.09548}\n}"
 - id: team2026leveraging
   title: Leveraging secondary-structure information for accurate nucleic acid structure
     prediction with OFoldNA
@@ -348,6 +333,157 @@
     \ for accurate nucleic acid structure prediction with OFoldNA},\n  author={Team,\
     \ Valhalla},\n  journal={arXiv},\n  year={2026},\n  url={https://arxiv.org/abs/2609.37414}\n\
     }"
+- id: chen2026lassnet
+  title: 'LASSNet: Level-Aware Availability-Conditioned Spatial-Semantic Fusion for
+    Brain Tumor Segmentation with Missing MRI Modalities'
+  authors:
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Rundong Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zhicheng Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zhihao Tang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2609.06733
+  links: {}
+  bibtex: "@article{chen2026lassnet,\n  title={LASSNet: Level-Aware Availability-Conditioned\
+    \ Spatial-Semantic Fusion for Brain Tumor Segmentation with Missing MRI Modalities},\n\
+    \  author={Chen, Haobin and Chang, Ao and Wang, Rundong and Li, Zhicheng and Tang,\
+    \ Zhihao and Zhu, Heqin},\n  journal={arXiv},\n  year={2026},\n  url={https://arxiv.org/abs/2609.06733}\n\
+    }"
+- id: team2026novo
+  title: De novo design of monoclonal and bispecific antibodies with OFAntibody
+  authors:
+  - name: Valhalla Team
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2610.09548
+  links: {}
+  bibtex: "@article{team2026novo,\n  title={De novo design of monoclonal and bispecific\
+    \ antibodies with OFAntibody},\n  author={Team, Valhalla},\n  journal={arXiv},\n\
+    \  year={2026},\n  url={https://arxiv.org/abs/2610.09548}\n}"
+- id: wang2026ligrna
+  title: 'LigRNA: High-accuracy prediction of RNA-ligand binding sites via dynamic
+    chemical complementarity and language model encoding'
+  authors:
+  - name: Xin Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Hao Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Feng Zhang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Chenxi Wang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ke Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: bioRxiv
+  venue_type: preprint
+  url: https://www.biorxiv.org/content/10.64898/2026.10.15.759315v1
+  links: {}
+  bibtex: "@article{wang2026ligrna,\n  title={LigRNA: High-accuracy prediction of\
+    \ RNA-ligand binding sites via dynamic chemical complementarity and language model\
+    \ encoding},\n  author={Wang, Xin and Zhu, Heqin and Li, Hao and Chang, Ao and\
+    \ Zhang, Feng and Chen, Haobin and Wang, Chenxi and Chen, Ke and Zhou, Shaohua\
+    \ Kevin and Xiong, Peng},\n  journal={bioRxiv},\n  pages={2026--10},\n  year={2026},\n\
+    \  publisher={Cold Spring Harbor Laboratory},\n  url={https://www.biorxiv.org/content/10.64898/2026.10.15.759315v1},\n\
+    \  doi={10.64898/2026.10.15.759315}\n}"
+- id: lv2026thinking
+  title: 'Thinking Like a Clinician: A Cognitive AI Agent for Clinical Diagnosis via
+    Panoramic Profiling and Adversarial Debate'
+  authors:
+  - name: Zhiqi Lv
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Duofan Tu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Jun Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Mingyue Zhao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Wenliang Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2026
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2604.23605
+  links: {}
+  bibtex: "@article{lv2026thinking,\n  title={Thinking Like a Clinician: A Cognitive\
+    \ AI Agent for Clinical Diagnosis via Panoramic Profiling and Adversarial Debate},\n\
+    \  author={Lv, Zhiqi and Tu, Duofan and Li, Jun and Zhao, Mingyue and Zhu, Heqin\
+    \ and Li, Wenliang and Zhou, Shaohua Kevin},\n  journal={arXiv},\n  year={2026},\n\
+    \  url={https://arxiv.org/abs/2604.23605}\n}"
 - id: zhu2025deep
   title: Deep generalizable prediction of RNA secondary structure via base pair motif
     energy
@@ -390,7 +526,7 @@
     \ structure via base pair motif energy},\n  author={Zhu, Heqin and Tang, Fenghe\
     \ and Quan, Quan and Chen, Ke and Xiong, Peng and Zhou, Shaohua Kevin},\n  journal={Nature\
     \ Communications},\n  volume={16},\n  number={1},\n  pages={5856},\n  year={2025},\n\
-    \  publisher={Nature Publishing Group UK London}\n}"
+    \  publisher={Nature Publishing Group UK, London}\n}"
 - id: zhu2025fully
   title: A fully open structure-guided RNA foundation model for robust structural
     and functional inference
@@ -544,7 +680,7 @@
     \ and Shao, Shitong and Zhu, Heqin and Hu, Huijie and Cheng, Zhiwei and Wang,\
     \ Jianji and Zhou, Shaohua Kevin},\n  journal={International Journal of Computer\
     \ Assisted Radiology and Surgery},\n  volume={19},\n  number={5},\n  pages={939--950},\n\
-    \  year={2024},\n  publisher={Springer International Publishing Cham}\n}"
+    \  year={2024},\n  publisher={Springer International Publishing, Cham}\n}"
 - id: quan2024images
   title: Which images to label for few-shot medical image analysis?
   authors:
@@ -655,9 +791,9 @@
   bibtex: "@inproceedings{tang2024hyspark,\n  title={Hyspark: Hybrid sparse masking\
     \ for large scale medical image pre-training},\n  author={Tang, Fenghe and Xu,\
     \ Ronghao and Yao, Qingsong and Fu, Xueming and Quan, Quan and Zhu, Heqin and\
-    \ Liu, Zaiyi and Zhou, Shaohua Kevin},\n  booktitle={International Conference\
-    \ on Medical Image Computing and Computer-Assisted Intervention},\n  pages={330--340},\n\
-    \  year={2024},\n  organization={Springer Nature Switzerland Cham}\n}"
+    \ Liu, Zaiyi and Zhou, Shaohua Kevin},\n  booktitle={International conference\
+    \ on medical image computing and computer-assisted intervention},\n  pages={330--340},\n\
+    \  year={2024},\n  organization={Springer Nature Switzerland, Cham}\n}"
 - id: wang2024six
   title: 'SIX-Net: Spatial-Context Information miX-up for Electrode Landmark Detection'
   authors:
@@ -695,9 +831,74 @@
     \ and Zhu, Heqin and Yao, Qingsong and Sun, Yiyong and Zhou, Shaohua Kevin},\n\
     \  booktitle={International Conference on Medical Image Computing and Computer-Assisted\
     \ Intervention},\n  pages={338--348},\n  year={2024},\n  organization={Springer\
-    \ Nature Switzerland Cham}\n}"
+    \ Nature Switzerland, Cham}\n}"
+- id: zhou2024hybrid
+  title: 'Hybrid attention network: an efficient approach for anatomy-free landmark
+    detection'
+  authors:
+  - name: Xiaoqian Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Zhen Huang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2024
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2412.06499
+  links: {}
+  bibtex: "@article{zhou2024hybrid,\n  title={Hybrid attention network: an efficient\
+    \ approach for anatomy-free landmark detection},\n  author={Zhou, Xiaoqian and\
+    \ Huang, Zhen and Zhu, Heqin and Yao, Qingsong and Zhou, Shaohua Kevin},\n  journal={arXiv},\n\
+    \  year={2024},\n  url={https://arxiv.org/abs/2412.06499}\n}"
+- id: quan2023unsupervised
+  title: Unsupervised augmentation optimization for few-shot medical image segmentation
+  authors:
+  - name: Quan Quan
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shang Zhao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2023
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2306.05107
+  links: {}
+  bibtex: "@article{quan2023unsupervised,\n  title={Unsupervised augmentation optimization\
+    \ for few-shot medical image segmentation},\n  author={Quan, Quan and Zhao, Shang\
+    \ and Yao, Qingsong and Zhu, Heqin and Zhou, Shaohua Kevin},\n  journal={arXiv},\n\
+    \  year={2023},\n  url={https://arxiv.org/abs/2306.05107}\n}"
 - id: zhu2023uod
-  title: 'Uod: Universal one-shot detection of anatomical landmarks'
+  title: 'UOD: Universal one-shot detection of anatomical landmarks'
   authors:
   - name: Heqin Zhu
     highlight: true
@@ -728,11 +929,11 @@
     code: https://github.com/heqin-zhu/UOD_universal_oneshot_detection
     arxiv: https://arxiv.org/abs/2306.07615
     poster: https://heqin-zhu.github.io/files/poster/poster_UOD.pdf
-  bibtex: "@inproceedings{zhu2023uod,\n  title={Uod: Universal one-shot detection\
+  bibtex: "@inproceedings{zhu2023uod,\n  title={UOD: Universal one-shot detection\
     \ of anatomical landmarks},\n  author={Zhu, Heqin and Quan, Quan and Yao, Qingsong\
     \ and Liu, Zaiyi and Zhou, Shaohua Kevin},\n  booktitle={International Conference\
     \ on Medical Image Computing and Computer-Assisted Intervention},\n  pages={24--34},\n\
-    \  year={2023},\n  organization={Springer Nature Switzerland Cham}\n}"
+    \  year={2023},\n  organization={Springer Nature Switzerland, Cham}\n}"
 - id: quan2023slide
   title: 'Slide-sam: Medical sam meets sliding window'
   authors:
@@ -764,100 +965,7 @@
     code: https://github.com/Curli-quan/Slide-SAM
   bibtex: "@article{quan2023slide,\n  title={Slide-sam: Medical sam meets sliding\
     \ window},\n  author={Quan, Quan and Tang, Fenghe and Xu, Zikang and Zhu, Heqin\
-    \ and Zhou, Shaohua Kevin},\n  journal={arXiv preprint arXiv:2311.10121},\n  year={2023},\n\
-    \  url={https://arxiv.org/abs/2311.10121}\n}"
-- id: zhu2022learning
-  title: Learning to Localize Cross-Anatomy Landmarks in X-Ray Images with a Universal
-    Model
-  authors:
-  - name: Heqin Zhu
-    highlight: true
-    first_author: false
-    corresponding: false
-  - name: Qingsong Yao
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Li Xiao
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: false
-  year: 2022
-  venue: BME Frontiers
-  venue_type: journal
-  url: ''
-  links:
-    paper: https://spj.science.org/doi/full/10.34133/2022/9765095
-    code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
-  bibtex: "@article{zhu2022learning,\n  title={Learning to Localize Cross-Anatomy\
-    \ Landmarks in X-Ray Images with a Universal Model},\n  author={Zhu, Heqin and\
-    \ Yao, Qingsong and Xiao, Li and Zhou, Shaohua Kevin},\n  journal={BME Frontiers},\n\
-    \  volume={2022},\n  pages={9765095},\n  year={2022}\n}"
-- id: zhu2022datr
-  title: 'Datr: Domain-adaptive transformer for multi-domain landmark detection'
-  authors:
-  - name: Heqin Zhu
-    highlight: true
-    first_author: false
-    corresponding: false
-  - name: Qingsong Yao
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: false
-  year: 2022
-  venue: arXiv
-  venue_type: preprint
-  url: https://arxiv.org/abs/2203.06433
-  links: {}
-  bibtex: "@article{zhu2022datr,\n  title={Datr: Domain-adaptive transformer for multi-domain\
-    \ landmark detection},\n  author={Zhu, Heqin and Yao, Qingsong and Zhou, Shaohua\
-    \ Kevin},\n  journal={arXiv},\n  year={2022},\n  url={https://arxiv.org/abs/2203.06433}\n\
-    }"
-- id: zhu2022dftr
-  title: 'DFTR: Depth-supervised hierarchical feature fusion transformer for salient
-    object detection'
-  authors:
-  - name: Heqin Zhu
-    highlight: true
-    first_author: false
-    corresponding: false
-  - name: Xu Sun
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Yuexiang Li
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Kai Ma
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Yefeng Zheng
-    highlight: false
-    first_author: false
-    corresponding: true
-  year: 2022
-  venue: arXiv
-  venue_type: preprint
-  url: https://arxiv.org/abs/2203.06429
-  links: {}
-  bibtex: "@article{zhu2022dftr,\n  title={DFTR: Depth-supervised hierarchical feature\
-    \ fusion transformer for salient object detection},\n  author={Zhu, Heqin and\
-    \ Sun, Xu and Li, Yuexiang and Ma, Kai and Zhou, Shaohua Kevin and Zheng, Yefeng},\n\
-    \  journal={arXiv},\n  year={2022},\n  url={https://arxiv.org/abs/2203.06429}\n\
+    \ and Zhou, Shaohua Kevin},\n  journal={arXiv},\n  year={2023},\n  url={https://arxiv.org/abs/2311.10121}\n\
     }"
 - id: yao2022relative
   title: Relative distance matters for one-shot landmark detection
@@ -895,6 +1003,97 @@
     \ landmark detection},\n  author={Yao, Qingsong and Wang, Jianji and Sun, Yihua\
     \ and Quan, Quan and Zhu, Heqin and Zhou, Shaohua Kevin},\n  journal={arXiv},\n\
     \  year={2022},\n  url={https://arxiv.org/abs/2203.01687}\n}"
+- id: zhu2022datr
+  title: 'Datr: Domain-adaptive transformer for multi-domain landmark detection'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2022
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2203.06433
+  links: {}
+  bibtex: "@article{zhu2022datr,\n  title={Datr: Domain-adaptive transformer for multi-domain\
+    \ landmark detection},\n  author={Zhu, Heqin and Yao, Qingsong and Zhou, Shaohua\
+    \ Kevin},\n  journal={arXiv},\n  year={2022},\n  url={https://arxiv.org/abs/2203.06433}\n\
+    }"
+- id: zhu2022dftr
+  title: 'DFTR: Depth-supervised fusion transformer for salient object detection'
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Xu Sun
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yuexiang Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Kai Ma
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yefeng Zheng
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2022
+  venue: arXiv
+  venue_type: preprint
+  url: https://arxiv.org/abs/2203.06429
+  links: {}
+  bibtex: "@article{zhu2022dftr,\n  title={DFTR: Depth-supervised fusion transformer\
+    \ for salient object detection},\n  author={Zhu, Heqin and Sun, Xu and Li, Yuexiang\
+    \ and Ma, Kai and Zhou, Shaohua Kevin and Zheng, Yefeng},\n  journal={arXiv},\n\
+    \  year={2022},\n  url={https://arxiv.org/abs/2203.06429}\n}"
+- id: zhu2022learning
+  title: Learning to Localize Cross-Anatomy Landmarks in X-Ray Images with a Universal
+    Model
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: false
+    corresponding: false
+  - name: Qingsong Yao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Li Xiao
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: false
+  year: 2022
+  venue: BME Frontiers
+  venue_type: journal
+  url: ''
+  links:
+    paper: https://spj.science.org/doi/full/10.34133/2022/9765095
+    code: https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection
+  bibtex: "@article{zhu2022learning,\n  title={Learning to Localize Cross-Anatomy\
+    \ Landmarks in X-Ray Images with a Universal Model},\n  author={Zhu, Heqin and\
+    \ Yao, Qingsong and Xiao, Li and Zhou, Shaohua Kevin},\n  journal={BME Frontiers},\n\
+    \  volume={2022},\n  pages={9765095},\n  year={2022}\n}"
 - id: zhu2021you
   title: 'You only learn once: Universal anatomical landmark detection'
   authors:
@@ -926,7 +1125,7 @@
     \ landmark detection},\n  author={Zhu, Heqin and Yao, Qingsong and Xiao, Li and\
     \ Zhou, Shaohua Kevin},\n  booktitle={International conference on medical image\
     \ computing and computer-assisted intervention},\n  pages={85--95},\n  year={2021},\n\
-    \  organization={Springer International Publishing Cham}\n}"
+    \  organization={Springer International Publishing, Cham}\n}"
 - id: liu2021deep
   title: 'Deep learning to segment pelvic bones: large-scale CT datasets and baseline
     models'
@@ -985,7 +1184,7 @@
     \ Hu and Du, Yuanqi and Zhu, Heqin and Li, Yinhao and Gu, Feng and Xiao, Honghu\
     \ and Li, Jun and Zhao, Chunpeng and Xiao, Li and Zhou, Shaohua Kevin},\n  journal={International\
     \ Journal of Computer Assisted Radiology and Surgery},\n  volume={16},\n  number={5},\n\
-    \  pages={749--756},\n  year={2021},\n  publisher={Springer International Publishing\
+    \  pages={749--756},\n  year={2021},\n  publisher={Springer International Publishing,\
     \ Cham}\n}"
 - id: lyu20213
   title: 'A 3 DSegNet: anatomy-aware artifact disentanglement and segmentation network
@@ -1017,4 +1216,4 @@
     \ reduction, and modality translation},\n  author={Lyu, Yuanyuan and Liao, Haofu\
     \ and Zhu, Heqin and Zhou, Shaohua Kevin},\n  booktitle={International Conference\
     \ on Information Processing in Medical Imaging},\n  pages={360--372},\n  year={2021},\n\
-    \  organization={Springer International Publishing Cham}\n}"
+    \  organization={Springer International Publishing, Cham}\n}"

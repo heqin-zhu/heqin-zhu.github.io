@@ -4,11 +4,13 @@
 
 # RNA Foundation Model
 zhu2025fully:
-  authors_annotation:
+  full_author_list:
     - name: "Heqin Zhu"
       highlight: true
       first_author: true
     - name: "Ruifeng Li"
+    - name: "Ao Chang"
+    - name: "Haobin Chen"
     - name: "Feng Zhang"
     - name: "Fenghe Tang"
     - name: "Tong Ye"
@@ -25,7 +27,8 @@ zhu2025fully:
     pypi: "https://pypi.org/project/structRFM/"
 
 # RNA Structure Prediction
-NCfold:
+zhu2026nc:
+  title: "NC-Bench and NCfold: A Benchmark and Closed-Loop Framework for RNA Non-Canonical Base-Pair Prediction"
   authors_annotation:
     - name: "Heqin Zhu"
       highlight: true
@@ -221,7 +224,7 @@ huang2024pele:
     - name: "Shaohua Kevin Zhou"
 
 liu2021deep:
-  authors_annotation:
+  full_author_list:
     - name: "Pengbo Liu"
     - name: "Hu Han"
     - name: "Yuanqi Du"
@@ -233,7 +236,7 @@ liu2021deep:
     - name: "Jun Li"
     - name: "Chunpeng Zhao"
     - name: "Li Xiao"
-    - name: "others"
+    - name: "Shaohua Kevin Zhou"
 
 yao2022relative:
   authors_annotation:
@@ -266,7 +269,16 @@ lyu20213:
 tang2025u:
   venue_short: "NeurIPS"
   venue_type: conference
-  authors_annotation:
+  year: 2026
+  bibtex: |-
+    @inproceedings{tang2025u,
+      title={U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking},
+      author={Tang, Fenghe and Dong, Chengqi and Ma, Wenxin and Xu, Zikang and Zhu, Heqin and Jiang, Zihang and Wang, Rongsheng and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},
+      booktitle={Advances in Neural Information Processing Systems},
+      year={2026},
+      url={https://arxiv.org/abs/2510.07041}
+    }
+  full_author_list:
     - name: "Fenghe Tang"
     - name: "Chengqi Dong"
     - name: "Wenxin Ma"
@@ -278,17 +290,28 @@ tang2025u:
     - name: "Yuhao Wang"
     - name: "Chenxu Wu"
     - name: "Shaohua Kevin Zhou"
-zhu_nacraft_2026:
-  authors_annotation:
+zhu2026nacraft:
+  url: "https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087"
+  full_author_list:
     - name: Heqin Zhu
       highlight: true
+    - name: Jiaqi Wang
+    - name: Weibo Zhao
+    - name: Yuzhi Xu
+    - name: Huang Su
+    - name: Jianmin Wang
+    - name: Qinghan Wang
+    - name: Yuntao Yu
+    - name: Ziyi You
+    - name: Gang Du
     - name: Pheng Ann Heng
       corresponding: true
     - name: Liqin Zhang
       corresponding: true
     - name: Odin Zhang
       corresponding: true
-retif:
+chang2026retif:
+  url: "https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748859"
   authors_annotation:
     - name: Heqin Zhu
       highlight: true
@@ -299,14 +322,18 @@ retif:
       corresponding: true
     - name: Shaohua Kevin Zhou
       corresponding: true
-admet_evo:
-  authors_annotation:
-    - name: Heqin Zhu
-      highlight: true
+zhou2026admet:
+  full_author_list:
     - name: Yiling Zhou
       first_author: true
     - name: Yilin Wang
       first_author: true
+    - name: Jianmin Wang
+    - name: Heqin Zhu
+      highlight: true
+    - name: Zirui Wang
+    - name: Chang-yu Hiesh
+    - name: Kejun Ying
     - name: Jiaqi Wang
       corresponding: true
     - name: Yuzhi Xu
@@ -315,3 +342,6 @@ admet_evo:
       corresponding: true
     - name: Odin Zhang
       corresponding: true
+
+wang2026ligrna:
+  url: "https://www.biorxiv.org/content/10.64898/2026.10.15.759315v1"
