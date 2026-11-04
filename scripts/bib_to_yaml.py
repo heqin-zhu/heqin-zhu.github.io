@@ -50,8 +50,9 @@ VENUE_SHORT_MAP = {
 # Canonical author names (Scholar exports use abbreviated forms like "S Kevin Zhou",
 # which would break extra's exact-name matching)
 AUTHOR_ALIASES = {
-    "S Kevin Zhou": "Shaohua Kevin Zhou",
-    "Kevin S Zhou": "Shaohua Kevin Zhou",
+    "Shaohua Kevin Zhou": "S. Kevin Zhou",
+    "S Kevin Zhou": "S. Kevin Zhou",
+    "Kevin S Zhou": "S. Kevin Zhou",
 }
 
 # Patterns to detect conference

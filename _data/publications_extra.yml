@@ -11,7 +11,7 @@ zhu2025fully:
   bibtex: |-
     @article{zhu2025fully,
       title={An open structure-guided RNA foundation model for generalizable prediction},
-      author={Zhu, Heqin and Li, Ruifeng and Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe and Ye, Tong and Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, Shaohua Kevin},
+      author={Zhu, Heqin and Li, Ruifeng and Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe and Ye, Tong and Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, S. Kevin},
       journal={Nature},
       year={2026},
       url={https://doi.org/10.1038/s41586-026-11210-2},
@@ -31,7 +31,7 @@ zhu2025fully:
     - name: "Yunjie Gu"
     - name: "Peng Xiong"
       corresponding: true
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
       corresponding: true
   venue_short: "Nature"
   links:
@@ -55,7 +55,7 @@ zhu2026nc:
       corresponding: true
     - name: "Peng Xiong"
       corresponding: true
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
       corresponding: true
   venue_short: "ICLR"
   links:
@@ -73,7 +73,7 @@ zhu2025deep:
     - name: "Ke Chen"
     - name: "Peng Xiong"
       corresponding: true
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
       corresponding: true
   venue_short: "Nature Communications"
   links:
@@ -94,7 +94,7 @@ zhang2025ireseek:
     - name: "Jie Hu"
     - name: "Jiayin Gao"
     - name: "Ke Chen"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
       corresponding: true
     - name: "Peng Xiong"
       corresponding: true
@@ -111,7 +111,7 @@ zhu2023uod:
     - name: "Quan Quan"
     - name: "Qingsong Yao"
     - name: "Zaiyi Liu"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
   venue_short: "MICCAI"
   links:
     paper: https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3
@@ -125,7 +125,7 @@ zhu2022learning:
       highlight: true
     - name: "Qingsong Yao"
     - name: "Li Xiao"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
   venue_short: "BME Frontiers"
   links:
     paper: https://spj.science.org/doi/full/10.34133/2022/9765095
@@ -137,7 +137,7 @@ zhu2021you:
       highlight: true
     - name: "Qingsong Yao"
     - name: "Li Xiao"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
   venue_short: "MICCAI"
   links:
     paper: https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9
@@ -154,7 +154,7 @@ quan2024images:
     - name: "Heqin Zhu"
       highlight: true
     - name: "Qiyuan Wang"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
   venue_short: "Medical Image Analysis"
   links:
     code: "https://github.com/Curli-quan/SCP_SampleChoicePolicy"
@@ -167,7 +167,7 @@ quan2024igu:
       first_author: true
     - name: "Heqin Zhu"
       highlight: true
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
   venue_short: "IEEE Transactions on Medical Imaging"
   links:
     code: "https://github.com/Curli-quan/IGU-Aug"
@@ -182,7 +182,7 @@ quan2023slide:
     - name: "Zikang Xu"
     - name: "Heqin Zhu"
       highlight: true
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
   venue_short: "MIDL"
   venue_type: conference
   links:
@@ -198,7 +198,7 @@ tang2024hyspark:
     - name: "Heqin Zhu"
       highlight: true
     - name: "Zaiyi Liu"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
   venue_short: "MICCAI"
   links:
     code: "https://github.com/FengheTan9/HySparK"
@@ -210,7 +210,7 @@ zhu2022datr:
     - name: "Heqin Zhu"
       highlight: true
     - name: "Qingsong Yao"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
 
 zhu2022dftr:
   authors_annotation:
@@ -219,7 +219,7 @@ zhu2022dftr:
     - name: "Xu Sun"
     - name: "Yuexiang Li"
     - name: "Kai Ma"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
     - name: "Yefeng Zheng"
       corresponding: true
 
@@ -235,7 +235,7 @@ huang2024pele:
     - name: "Huijie Hu"
     - name: "Zhiwei Cheng"
     - name: "Jianji Wang"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
 
 liu2021deep:
   full_author_list:
@@ -250,7 +250,7 @@ liu2021deep:
     - name: "Jun Li"
     - name: "Chunpeng Zhao"
     - name: "Li Xiao"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
 
 yao2022relative:
   authors_annotation:
@@ -260,7 +260,7 @@ yao2022relative:
     - name: "Quan Quan"
     - name: "Heqin Zhu"
       highlight: true
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
 
 wang2024six:
   authors_annotation:
@@ -270,7 +270,7 @@ wang2024six:
       highlight: true
     - name: "Qingsong Yao"
     - name: "Yiyong Sun"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
 
 lyu20213:
   authors_annotation:
@@ -278,7 +278,7 @@ lyu20213:
     - name: "Haofu Liao"
     - name: "Heqin Zhu"
       highlight: true
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
 
 tang2025u:
   venue_short: "NeurIPS"
@@ -287,7 +287,7 @@ tang2025u:
   bibtex: |-
     @inproceedings{tang2025u,
       title={U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking},
-      author={Tang, Fenghe and Dong, Chengqi and Ma, Wenxin and Xu, Zikang and Zhu, Heqin and Jiang, Zihang and Wang, Rongsheng and Wang, Yuhao and Wu, Chenxu and Zhou, Shaohua Kevin},
+      author={Tang, Fenghe and Dong, Chengqi and Ma, Wenxin and Xu, Zikang and Zhu, Heqin and Jiang, Zihang and Wang, Rongsheng and Wang, Yuhao and Wu, Chenxu and Zhou, S. Kevin},
       booktitle={Advances in Neural Information Processing Systems},
       year={2026},
       url={https://arxiv.org/abs/2510.07041}
@@ -303,7 +303,7 @@ tang2025u:
     - name: "Rongsheng Wang"
     - name: "Yuhao Wang"
     - name: "Chenxu Wu"
-    - name: "Shaohua Kevin Zhou"
+    - name: "S. Kevin Zhou"
 zhu2026nacraft:
   url: "https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087"
   full_author_list:
@@ -334,7 +334,7 @@ chang2026retif:
       first_author: true
     - name: Peng Xiong
       corresponding: true
-    - name: Shaohua Kevin Zhou
+    - name: S. Kevin Zhou
       corresponding: true
 zhou2026admet:
   full_author_list:
