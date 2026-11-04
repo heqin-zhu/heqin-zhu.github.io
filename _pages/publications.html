@@ -148,9 +148,9 @@ markdown: 0
 
     <div class="pub-venue">
       {% if pub.venue_type == 'preprint' %}
-        <img src="https://img.shields.io/badge/{{ pub.venue | replace: ' ', '%20' }}-{{ pub.year }}-999999" alt="{{ pub.venue }}">
+        <img src="https://img.shields.io/badge/{{ pub.year }}-{{ pub.venue | replace: ' ', '%20' }}-999999" alt="{{ pub.venue }}">
       {% else %}
-        <img src="https://img.shields.io/badge/{{ pub.venue | replace: ' ', '%20' }}-{{ pub.year }}-0072b2" alt="{{ pub.venue }}">
+        <img src="https://img.shields.io/badge/{{ pub.year }}-{{ pub.venue | replace: ' ', '%20' }}-0072b2" alt="{{ pub.venue }}">
       {% endif %}
     </div>
 

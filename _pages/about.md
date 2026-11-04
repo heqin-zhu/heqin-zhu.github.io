@@ -57,50 +57,50 @@ body {
 (`#`: equal contribution, `*`: corresponding author. Selected publications | [Publication List]({{ "/publications/" | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### Biological Foundation Model
-- ![citations](https://img.shields.io/badge/Nature-2026-blue) [An open structure-guided RNA foundation model for generalizable prediction](https://doi.org/10.1038/s41586-026-11210-2)\
+- ![citations](https://img.shields.io/badge/2026-Nature-blue) [An open structure-guided RNA foundation model for generalizable prediction](https://doi.org/10.1038/s41586-026-11210-2)\
 **Heqin Zhu**, Ruifeng Li, Ao Chang, Haobin Chen, Feng Zhang, Fenghe Tang, Tong Ye, Xin Li, Yunjie Gu, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
 
 ### Molecular Design
-- ![citations](https://img.shields.io/badge/bioRxiv-2026-blue) [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087)\
+- ![citations](https://img.shields.io/badge/2026-bioRxiv-blue) [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087)\
 **Heqin Zhu**, Jiaqi Wang, Weibo Zhao, Yuzhi Xu, Huang Su, Jianmin Wang, Qinghan Wang, Yuntao Yu, Ziyi You, Gang Du, Pheng Ann Heng\*, Liqin Zhang\*, Odin Zhang\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/OTeam-AI4S/NACraft.svg?label=Stars&style=social)](https://github.com/OTeam-AI4S/NACraft)[[code](https://github.com/OTeam-AI4S/NACraft)]
 
 ### Molecular Interaction and Scoring
-- ![citations](https://img.shields.io/badge/bioRxiv-2026-blue) [ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound Interaction Prediction and Binding-Site Localization](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)\
+- ![citations](https://img.shields.io/badge/2026-bioRxiv-blue) [ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound Interaction Prediction and Binding-Site Localization](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)\
 Ao Chang\#, **Heqin Zhu**\#, Haobin Chen, Chenxi Wang, Xin Wang, Xiaoyu Zeng, Yilin Ding, Peng Xiong\*, Shaohua Kevin Zhou\* &nbsp;&nbsp;[![bioRxiv](https://img.shields.io/badge/bioRxiv-white.svg?style=flat)](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)
 
 ### Structure and Function Prediction
-- ![citations](https://img.shields.io/badge/ICLR-2026-blue) [NC-Bench and NCfold for RNA non-canonical base pair prediction](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746)\
+- ![citations](https://img.shields.io/badge/2026-ICLR-blue) [NC-Bench and NCfold for RNA non-canonical base pair prediction](https://www.biorxiv.org/content/early/2025/11/17/2025.11.16.688746)\
 **Heqin Zhu\#**, Ruifeng Li\#, Ao Chang, Mingqian Li, Hongyang Chen\*, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/NCBench.svg?label=Stars&style=social)](https://github.com/heqin-zhu/NCBench)[[code](https://github.com/heqin-zhu/NCBench)][[page](https://heqin-zhu.github.io/NCBench/)][[poster](https://heqin-zhu.github.io/files/poster/poster_NCBench.pdf)]
 
-- ![citations](https://img.shields.io/badge/Nature Communications-2025-blue) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1)\
+- ![citations](https://img.shields.io/badge/2025-Nature Communications-blue) [Deep generalizable prediction of RNA secondary structure via base pair motif energy](https://www.nature.com/articles/s41467-025-60048-1)\
 **Heqin Zhu**, Fenghe Tang, Quan Quan, Ke Chen, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/BPfold.svg?label=Stars&style=social)](https://github.com/heqin-zhu/BPfold)[[code](https://github.com/heqin-zhu/BPfold)][[PyPI](https://pypi.org/project/BPfold/)][[poster](files/poster/poster_BPfold.pdf)][[poster2](files/poster/poster_BPfold_2.jpg)]
 
-- ![citations](https://img.shields.io/badge/NAR Genomics and Bioinformatics-2025-blue) [IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs](https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf)\
+- ![citations](https://img.shields.io/badge/2025-NAR Genomics and Bioinformatics-blue) [IRESeek: Structure-informed deep learning method for accurate identification of internal ribosome entry sites in circular RNAs](https://academic.oup.com/nargab/article-pdf/7/4/lqaf210/66173875/lqaf210.pdf)\
 Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, Shaohua Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
 
 ### Recursive Self-Improvement
-- ![citations](https://img.shields.io/badge/arXiv-2025-blue) [ADMET-EvO: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/html/2609.10121v2)\
+- ![citations](https://img.shields.io/badge/2025-arXiv-blue) [ADMET-EvO: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/html/2609.10121v2)\
 Yiling Zhou\#, Yilin Wang\#, Jianmin Wang, **Heqin Zhu**, Zirui Wang, Chang-yu Hiesh, Kejun Ying, Jiaqi Wang\*, Yuzhi Xu\*, Tingjun Hou\*, Odin Zhang\*&nbsp;&nbsp;
 
 
 ### Universal Model & Domain Adaptation
-- ![citations](https://img.shields.io/badge/MICCAI-2023-blue) [UOD: universal oneshot detection of anatomical landmark](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3)&nbsp;&nbsp;(**Early Accept**)\
+- ![citations](https://img.shields.io/badge/2023-MICCAI-blue) [UOD: universal oneshot detection of anatomical landmark](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_3)&nbsp;&nbsp;(**Early Accept**)\
 **Heqin Zhu**, Quan Quan, Qingsong Yao, Zaiyi Liu, Shaohua Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2306.07615-white.svg?style=flat)](https://arxiv.org/abs/2306.07615)[![](https://img.shields.io/github/stars/heqin-zhu/UOD_universal_oneshot_detection.svg?label=Stars&style=social)](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)[[code](https://github.com/heqin-zhu/UOD_universal_oneshot_detection)][[poster](files/poster/poster_UOD.pdf)]
-- ![citations](https://img.shields.io/badge/BMEF-2022-blue) [Learning to localize cross-anatomy landmarks in x-ray images with a universal model](https://spj.science.org/doi/full/10.34133/2022/9765095)\
+- ![citations](https://img.shields.io/badge/2022-BMEF-blue) [Learning to localize cross-anatomy landmarks in x-ray images with a universal model](https://spj.science.org/doi/full/10.34133/2022/9765095)\
 **Heqin Zhu**, Qingsong Yao, Li Xiao, Shaohua Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)]
-- ![citations](https://img.shields.io/badge/MICCAI-2021-blue) [You Only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9)\
+- ![citations](https://img.shields.io/badge/2021-MICCAI-blue) [You Only Learn Once: Universal Anatomical Landmark Detection](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_9)\
 **Heqin Zhu**, Qingsong Yao, Li Xiao, Shaohua Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2103.04657-white.svg?style=flat)](https://arxiv.org/abs/2103.04657)[![](https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection.svg?label=Stars&style=social)](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)[[code](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection)]
 
 
 <!--
 ### Unsupervised & Self-supervised & Few-shot learning
-- ![citations](https://img.shields.io/badge/Medical Image Analysis-2024-blue) [Which images to label for few-shot medical image analysis?](https://www.sciencedirect.com/science/article/pii/S1361841524001257)\
+- ![citations](https://img.shields.io/badge/2024-Medical Image Analysis-blue) [Which images to label for few-shot medical image analysis?](https://www.sciencedirect.com/science/article/pii/S1361841524001257)\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, Qiyuan Wang, Shaohua Kevin Zhou &nbsp;&nbsp;[[code](https://github.com/Curli-quan/SCP_SampleChoicePolicy)]
-- ![citations](https://img.shields.io/badge/IEEE Transactions on Medical Imaging-2024-blue) [IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis](https://ieeexplore.ieee.org/abstract/document/10620395/)\
+- ![citations](https://img.shields.io/badge/2024-IEEE Transactions on Medical Imaging-blue) [IGU-Aug: Information-guided unsupervised augmentation and pixel-wise contrastive learning for medical image analysis](https://ieeexplore.ieee.org/abstract/document/10620395/)\
 Quan Quan\#, Qingsong Yao\#, **Heqin Zhu**, Shaohua Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2211.07118-white.svg?style=flat)](https://arxiv.org/abs/2211.07118)[![](https://img.shields.io/github/stars/Curli-quan/IGU-Aug.svg?label=Stars&style=social)](https://github.com/Curli-quan/IGU-Aug)[[code](https://github.com/Curli-quan/IGU-Aug)]
-- ![citations](https://img.shields.io/badge/MIDL-2024-blue) [Slide-SAM: medical SAM meets sliding window](https://arxiv.org/abs/2311.10121v3)\
+- ![citations](https://img.shields.io/badge/2024-MIDL-blue) [Slide-SAM: medical SAM meets sliding window](https://arxiv.org/abs/2311.10121v3)\
 Quan Quan\#, Fenghe Tang\#, Zikang Xu, **Heqin Zhu**, Shaohua Kevin Zhou &nbsp;&nbsp;[![](https://img.shields.io/github/stars/Curli-quan/Slide-SAM.svg?label=Stars&style=social)](https://github.com/Curli-quan/Slide-SAM)[[code](https://github.com/Curli-quan/Slide-SAM)]
-- ![citations](https://img.shields.io/badge/MICCAI-2024-blue) [Hyspark: Hybrid sparse masking for large scale medical image pre-training](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_31)\
+- ![citations](https://img.shields.io/badge/2024-MICCAI-blue) [Hyspark: Hybrid sparse masking for large scale medical image pre-training](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_31)\
 Fenghe Tang, Ronghao Xu, Qingsong Yao, Xueming Fu, Quan Quan, **Heqin Zhu**, Zaiyi Liu, Shaohua Kevin Zhou &nbsp;&nbsp;[![arXiv](https://img.shields.io/badge/arXiv-2408.05815-white.svg?style=flat)](https://arxiv.org/abs/2408.05815)[![](https://img.shields.io/github/stars/FengheTan9/HySpark.svg?label=Stars&style=social)](https://github.com/FengheTan9/HySpark)[[code](https://github.com/FengheTan9/HySparK)]
 
 -->
