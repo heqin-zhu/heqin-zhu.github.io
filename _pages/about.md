@@ -43,6 +43,7 @@ body {
 
 <!-- 🔥 -->
 # News
+- 11/2026: &nbsp; [structRFM](https://doi.org/10.1038/s41586-026-11210-2) has been published in **Nature**.
 - 08/2026: &nbsp; We release NACraft ([bioRxiv](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087), [code](https://github.com/OTeam-AI4S-AI4S/NACraft)), a training-free, programmatic framework for protein-binding nucleic-acid aptamer design.
 - 05/2026: &nbsp; Honored to be awarded the **Chinese Academy of Sciences, the President Scholarship**.
 - 03/2026: &nbsp; Honored to be awarded as the **Outstanding Graduate of USTC** and **Anhui Provincial Outstanding Graduate** (Ph.D., Class of 2026).
@@ -56,7 +57,7 @@ body {
 (`#`: equal contribution, `*`: corresponding author. Selected publications | [Publication List]({{ "/publications/" | relative_url }}) | [Google Scholar](https://scholar.google.com/citations?user=YkfSFekAAAAJ))
 
 ### Biological Foundation Model
-- ![citations](https://img.shields.io/badge/Nature, Accepted-2026-blue) [A fully open structure-guided RNA foundation model for robust structural and functional inference](https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731)\
+- ![citations](https://img.shields.io/badge/Nature-2026-blue) [An open structure-guided RNA foundation model for generalizable prediction](https://doi.org/10.1038/s41586-026-11210-2)\
 **Heqin Zhu**, Ruifeng Li, Ao Chang, Haobin Chen, Feng Zhang, Fenghe Tang, Tong Ye, Xin Li, Yunjie Gu, Peng Xiong\*, Shaohua Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
 
 ### Molecular Design

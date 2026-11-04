@@ -1,3 +1,65 @@
+- id: zhu2025fully
+  title: An open structure-guided RNA foundation model for generalizable prediction
+  authors:
+  - name: Heqin Zhu
+    highlight: true
+    first_author: true
+    corresponding: false
+  - name: Ruifeng Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Ao Chang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Haobin Chen
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Feng Zhang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Fenghe Tang
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Tong Ye
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Xin Li
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Yunjie Gu
+    highlight: false
+    first_author: false
+    corresponding: false
+  - name: Peng Xiong
+    highlight: false
+    first_author: false
+    corresponding: true
+  - name: Shaohua Kevin Zhou
+    highlight: false
+    first_author: false
+    corresponding: true
+  year: 2026
+  venue: Nature
+  venue_type: journal
+  url: https://doi.org/10.1038/s41586-026-11210-2
+  links:
+    paper: https://doi.org/10.1038/s41586-026-11210-2
+    biorxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
+    code: https://github.com/heqin-zhu/structRFM
+    pypi: https://pypi.org/project/structRFM/
+  bibtex: "@article{zhu2025fully,\n  title={An open structure-guided RNA foundation\
+    \ model for generalizable prediction},\n  author={Zhu, Heqin and Li, Ruifeng and\
+    \ Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe and Ye, Tong and\
+    \ Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, Shaohua Kevin},\n  journal={Nature},\n\
+    \  year={2026},\n  url={https://doi.org/10.1038/s41586-026-11210-2},\n  doi={10.1038/s41586-026-11210-2}\n\
+    }"
 - id: tang2025u
   title: 'U-Bench: A Comprehensive Understanding of U-Net through 100-Variant Benchmarking'
   authors:
@@ -527,68 +589,6 @@
     \ and Quan, Quan and Chen, Ke and Xiong, Peng and Zhou, Shaohua Kevin},\n  journal={Nature\
     \ Communications},\n  volume={16},\n  number={1},\n  pages={5856},\n  year={2025},\n\
     \  publisher={Nature Publishing Group UK, London}\n}"
-- id: zhu2025fully
-  title: A fully open structure-guided RNA foundation model for robust structural
-    and functional inference
-  authors:
-  - name: Heqin Zhu
-    highlight: true
-    first_author: true
-    corresponding: false
-  - name: Ruifeng Li
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Ao Chang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Haobin Chen
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Feng Zhang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Fenghe Tang
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Tong Ye
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Xin Li
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Yunjie Gu
-    highlight: false
-    first_author: false
-    corresponding: false
-  - name: Peng Xiong
-    highlight: false
-    first_author: false
-    corresponding: true
-  - name: Shaohua Kevin Zhou
-    highlight: false
-    first_author: false
-    corresponding: true
-  year: 2025
-  venue: Nature
-  venue_type: preprint
-  url: ''
-  links:
-    biorxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
-    code: https://github.com/heqin-zhu/structRFM
-    pypi: https://pypi.org/project/structRFM/
-  bibtex: "@article{zhu2025fully,\n  title={A fully open structure-guided RNA foundation\
-    \ model for robust structural and functional inference},\n  author={Zhu, Heqin\
-    \ and Li, Ruifeng and Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe\
-    \ and Ye, Tong and Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, Shaohua Kevin},\n\
-    \  journal={bioRxiv},\n  pages={2025--08},\n  year={2025},\n  publisher={Cold\
-    \ Spring Harbor Laboratory}\n}"
 - id: zhang2025ireseek
   title: 'IRESeek: structure-informed deep learning method for accurate identification
     of internal ribosome entry sites in circular RNAs'

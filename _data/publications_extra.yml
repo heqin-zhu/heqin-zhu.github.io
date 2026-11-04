@@ -4,6 +4,19 @@
 
 # RNA Foundation Model
 zhu2025fully:
+  # Published in Nature (2026-11); overrides protect against Zotero/Scholar re-exports
+  title: "An open structure-guided RNA foundation model for generalizable prediction"
+  year: 2026
+  url: "https://doi.org/10.1038/s41586-026-11210-2"
+  bibtex: |-
+    @article{zhu2025fully,
+      title={An open structure-guided RNA foundation model for generalizable prediction},
+      author={Zhu, Heqin and Li, Ruifeng and Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe and Ye, Tong and Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, Shaohua Kevin},
+      journal={Nature},
+      year={2026},
+      url={https://doi.org/10.1038/s41586-026-11210-2},
+      doi={10.1038/s41586-026-11210-2}
+    }
   full_author_list:
     - name: "Heqin Zhu"
       highlight: true
@@ -22,6 +35,7 @@ zhu2025fully:
       corresponding: true
   venue_short: "Nature"
   links:
+    paper: "https://doi.org/10.1038/s41586-026-11210-2"
     biorxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
     code: "https://github.com/heqin-zhu/structRFM"
     pypi: "https://pypi.org/project/structRFM/"
