@@ -28,7 +28,7 @@ main:
     url: "/publications/"
 
   - title: "CV"
-    url: "/files/ZHU_Heqin_CV.pdf"
+    url: "/files/CV/ZHU_Heqin_CV.pdf"
 
   - title: "简历"
-    url: "/files/朱河勤_简历.pdf"
+    url: "/files/CV/朱河勤_简历.pdf"
