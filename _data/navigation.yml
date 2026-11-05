@@ -1,8 +1,5 @@
 # main links links
 main:
-  # - title: "CV"
-  #   url: "/files/CV_Heqin_Zhu.pdf"
-
   - title: "😊 About"
     url: "/#about"
 
@@ -21,8 +18,8 @@ main:
   # - title: "Work Experiences"
   #   url: "/#work-experiences"
 
-  - title: "Professional Services"
-    url: "/#professional-services"
+  # - title: "Professional Services"
+  #   url: "/#professional-services"
 
   - title: "Invited Talks"
     url: "/#invited-talks"
@@ -30,3 +27,8 @@ main:
   - title: "📝 Publication List"
     url: "/publications/"
 
+  - title: "CV"
+    url: "/files/ZHU_Heqin_CV.pdf"
+
+  - title: "简历"
+    url: "/files/朱河勤_简历.pdf"
