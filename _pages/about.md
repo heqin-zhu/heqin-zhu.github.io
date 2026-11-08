@@ -62,11 +62,11 @@ body {
 **Heqin Zhu**, Ruifeng Li, Ao Chang, Haobin Chen, Feng Zhang, Fenghe Tang, Tong Ye, Xin Li, Yunjie Gu, Peng Xiong\*, S. Kevin Zhou\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/heqin-zhu/structRFM.svg?label=Stars&style=social)](https://github.com/heqin-zhu/structRFM)[[code](https://github.com/heqin-zhu/structRFM)][[PyPI](https://pypi.org/project/structRFM/)]
 
 ### Molecular Design
-- ![citations](https://img.shields.io/badge/2026-bioRxiv-blue) [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087)\
+- ![citations](https://img.shields.io/badge/2026-bioRxiv-lightgrey) [NACraft: Programmatic nucleic-acid aptamer design via all-atom structure-model feedback](https://www.biorxiv.org/content/early/2026/08/18/2026.08.15.744087)\
 **Heqin Zhu**, Jiaqi Wang, Weibo Zhao, Yuzhi Xu, Huang Su, Jianmin Wang, Qinghan Wang, Yuntao Yu, Ziyi You, Gang Du, Pheng Ann Heng\*, Liqin Zhang\*, Odin Zhang\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/OTeam-AI4S/NACraft.svg?label=Stars&style=social)](https://github.com/OTeam-AI4S/NACraft)[[code](https://github.com/OTeam-AI4S/NACraft)]
 
 ### Molecular Interaction and Scoring
-- ![citations](https://img.shields.io/badge/2026-bioRxiv-blue) [ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound Interaction Prediction and Binding-Site Localization](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)\
+- ![citations](https://img.shields.io/badge/2026-bioRxiv-lightgrey) [ReTIF: Granularity-Aware Multitask Interaction Routing for RNA-Compound Interaction Prediction and Binding-Site Localization](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)\
 Ao Chang\#, **Heqin Zhu**\#, Haobin Chen, Chenxi Wang, Xin Wang, Xiaoyu Zeng, Yilin Ding, Peng Xiong\*, S. Kevin Zhou\* &nbsp;&nbsp;[![bioRxiv](https://img.shields.io/badge/bioRxiv-white.svg?style=flat)](https://www.biorxiv.org/content/biorxiv/early/2026/09/06/2026.09.02.748859.full.pdf)
 
 ### Structure and Function Prediction
@@ -80,7 +80,7 @@ Ao Chang\#, **Heqin Zhu**\#, Haobin Chen, Chenxi Wang, Xin Wang, Xiaoyu Zeng, Yi
 Feng Zhang\#, **Heqin Zhu\#**, Jie Hu, Jiayin Gao, Ke Chen, S. Kevin Zhou\*, and Peng Xiong\*&nbsp;&nbsp;[![](https://img.shields.io/github/stars/f-zhangf/IRESeek.svg?label=Stars&style=social)](https://github.com/f-zhangf/IRESeek)[[code](https://github.com/f-zhangf/IRESeek)]
 
 ### Recursive Self-Improvement
-- ![citations](https://img.shields.io/badge/2025-arXiv-blue) [ADMET-EvO: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/html/2609.10121v2)\
+- ![citations](https://img.shields.io/badge/2025-arXiv-lightgrey) [ADMET-EvO: a self-evolving scientific agent for sustained research across heterogeneous tasks](https://arxiv.org/html/2609.10121v2)\
 Yiling Zhou\#, Yilin Wang\#, Jianmin Wang, **Heqin Zhu**, Zirui Wang, Chang-yu Hiesh, Kejun Ying, Jiaqi Wang\*, Yuzhi Xu\*, Tingjun Hou\*, Odin Zhang\*&nbsp;&nbsp;
 
 

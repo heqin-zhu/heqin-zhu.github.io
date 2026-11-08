@@ -1,9 +1,9 @@
-- id: zhu2025fully
+- id: zhu2026open
   title: An open structure-guided RNA foundation model for generalizable prediction
   authors:
   - name: Heqin Zhu
     highlight: true
-    first_author: true
+    first_author: false
     corresponding: false
   - name: Ruifeng Li
     highlight: false
@@ -54,7 +54,7 @@
     biorxiv: https://www.biorxiv.org/content/early/2025/08/07/2025.08.06.668731
     code: https://github.com/heqin-zhu/structRFM
     pypi: https://pypi.org/project/structRFM/
-  bibtex: "@article{zhu2025fully,\n  title={An open structure-guided RNA foundation\
+  bibtex: "@article{zhu2026open,\n  title={An open structure-guided RNA foundation\
     \ model for generalizable prediction},\n  author={Zhu, Heqin and Li, Ruifeng and\
     \ Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe and Ye, Tong and\
     \ Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, S. Kevin},\n  journal={Nature},\n\

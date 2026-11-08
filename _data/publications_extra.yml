@@ -3,13 +3,13 @@
 # Fields: first_author (bool), corresponding (bool), highlight (bool), links (map)
 
 # RNA Foundation Model
-zhu2025fully:
+zhu2026open:
   # Published in Nature (2026-11); overrides protect against Zotero/Scholar re-exports
   title: "An open structure-guided RNA foundation model for generalizable prediction"
   year: 2026
   url: "https://doi.org/10.1038/s41586-026-11210-2"
   bibtex: |-
-    @article{zhu2025fully,
+    @article{zhu2026open,
       title={An open structure-guided RNA foundation model for generalizable prediction},
       author={Zhu, Heqin and Li, Ruifeng and Chang, Ao and Chen, Haobin and Zhang, Feng and Tang, Fenghe and Ye, Tong and Li, Xin and Gu, Yunjie and Xiong, Peng and Zhou, S. Kevin},
       journal={Nature},
@@ -20,7 +20,6 @@ zhu2025fully:
   full_author_list:
     - name: "Heqin Zhu"
       highlight: true
-      first_author: true
     - name: "Ruifeng Li"
     - name: "Ao Chang"
     - name: "Haobin Chen"
